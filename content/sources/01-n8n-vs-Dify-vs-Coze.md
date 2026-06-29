@@ -39,3 +39,6 @@ tags: [wiki, source, AI工作流]
 
 ## 涉及实体 / 概念
 [[entities/Coze]] · [[entities/Dify]] · [[entities/n8n]] · [[concepts/AI-工作流平台对比]]
+
+## 原文链接
+- 内部：[[Clippings/2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？.md]]

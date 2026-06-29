@@ -52,3 +52,7 @@ tags: [wiki, source, Anthropic, Harness, Agent]
 
 ## 涉及实体 / 概念
 [[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]] · [[concepts/Long-Running-Agents-Anthropic|Long-Running-Agents]]
+
+## 原文链接
+- 内部：[[Clippings/2026-03-24 长任务应用开发的 Harness 设计.md]]
+- 外部：https://www.anthropic.com/engineering/harness-design-long-running-apps

@@ -23,3 +23,6 @@ tags: [wiki, source, Harness]
 
 ## 涉及实体 / 概念
 [[concepts/Harness-Engineering]] · [[concepts/协作范式演进]] · [[entities/OpenClaw]]
+
+## 原文链接
+- 内部：[[Clippings/2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！.md]]

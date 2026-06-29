@@ -35,3 +35,7 @@ tags: [wiki, source, Anthropic, Agent, 架构]
 
 ## 涉及实体 / 概念
 [[concepts/Brain-Hands-Decoupling]] · [[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]]
+
+## 原文链接
+- 内部：[[Clippings/2026-04-08 Managed Agents - 大脑与手脚解耦.md]]
+- 外部：https://www.anthropic.com/engineering/managed-agents

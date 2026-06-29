@@ -51,3 +51,6 @@ tags: [wiki, source, Agentic-AI, 企业架构]
 
 ## 涉及实体 / 概念
 [[concepts/Agentic-AI]] · [[concepts/Harness-Engineering]]（理念呼应）
+
+## 原文链接
+- 内部：[[Clippings/2025-10-24 企业级Agentic AI架构设计.md]]

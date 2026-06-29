@@ -34,3 +34,6 @@ tags: [wiki, source, Harness, AI-PM]
 
 ## 涉及实体 / 概念
 [[concepts/Harness-Engineering]] · [[concepts/Vibe-Coding]] · [[concepts/协作范式演进]] · [[entities/Codex]]
+
+## 原文链接
+- 内部：[[Clippings/2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？.md]]

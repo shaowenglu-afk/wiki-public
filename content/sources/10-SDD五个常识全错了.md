@@ -47,3 +47,6 @@ tags: [wiki, source, SDD, 选型]
 
 ## 涉及实体 / 概念
 [[entities/Plan-Mode]] · [[entities/Superpowers]] · [[entities/OpenSpec]] · [[entities/Kiro]] · [[entities/GStack]] · [[concepts/Spec-Driven-Development]] · [[concepts/Vibe-Coding]]
+
+## 原文链接
+- 内部：[[Clippings/2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了.md]]

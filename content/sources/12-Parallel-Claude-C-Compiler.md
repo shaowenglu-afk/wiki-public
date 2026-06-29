@@ -48,3 +48,7 @@ tags: [wiki, source, Anthropic, parallel-agents, Agent]
 
 ## 涉及实体 / 概念
 [[concepts/Parallel-Agent-Teams]] · [[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]]
+
+## 原文链接
+- 内部：[[Clippings/2026-02-05 用并行 Claude 团队从零写 C 编译器.md]]
+- 外部：https://www.anthropic.com/engineering/building-c-compiler

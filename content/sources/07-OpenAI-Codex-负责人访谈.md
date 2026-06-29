@@ -41,3 +41,6 @@ tags: [wiki, source, Codex, OpenAI, PM]
 
 ## 涉及实体 / 概念
 [[entities/Codex]] · [[entities/OpenClaw]] · [[entities/Plan-Mode]] · [[concepts/Agentic-AI]]
+
+## 原文链接
+- 内部：[[Clippings/2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！.md]]

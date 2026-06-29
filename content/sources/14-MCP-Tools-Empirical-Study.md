@@ -42,3 +42,7 @@ tags: [wiki, source, arXiv, MCP, 实证]
 
 ## 涉及实体 / 概念
 [[entities/MCP-Model-Context-Protocol]] · [[concepts/Agentic-AI]] · [[entities/Codex]]
+
+## 原文链接
+- 内部：[[Clippings/2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证.md]]
+- 外部：https://arxiv.org/abs/2603.23802

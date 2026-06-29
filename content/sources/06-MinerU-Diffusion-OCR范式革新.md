@@ -34,3 +34,6 @@ tags: [wiki, source, OCR, 扩散模型]
 
 ## 涉及实体 / 概念
 [[entities/MinerU]] · [[concepts/扩散解码]]
+
+## 原文链接
+- 内部：[[Clippings/2026-04-15 MinerU 再次改变 OCR，5 倍提升.md]]
