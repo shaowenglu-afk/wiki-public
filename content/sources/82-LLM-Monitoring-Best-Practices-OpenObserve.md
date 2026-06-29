@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-04-10
 author: OpenObserve
-original: "[[Clippings/2026-04-10 LLM Monitoring Best Practices 2026 (OpenObserve)]]"
+original: "[2026-04-10 LLM Monitoring Best Practices 2026 (OpenObserve)](https://shaowenglu.com/clippings/2026-04-10-LLM-Monitoring-Best-Practices-2026-%28OpenObserve%29)"
 external_url: "https://openobserve.ai/blog/llm-monitoring-best-practices/"
 tags: [wiki, source, AIOps, LLMOps, 可观测性, en-zh]
 ---
@@ -29,5 +29,5 @@ tags: [wiki, source, AIOps, LLMOps, 可观测性, en-zh]
 - [[concepts/AI-可观测性-四维追踪]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-10 LLM Monitoring Best Practices 2026 (OpenObserve)]]
+- 内部：[2026-04-10 LLM Monitoring Best Practices 2026 (OpenObserve)](https://shaowenglu.com/clippings/2026-04-10-LLM-Monitoring-Best-Practices-2026-%28OpenObserve%29)
 - 外部：https://openobserve.ai/blog/llm-monitoring-best-practices/

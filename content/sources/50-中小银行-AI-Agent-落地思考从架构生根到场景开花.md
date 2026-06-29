@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-25
 author: Rain
-original: "[[Clippings/2026-06-25 中小银行 AI Agent 落地思考：从架构生根到场景开花]]"
+original: "[2026-06-25 中小银行 AI Agent 落地思考：从架构生根到场景开花](https://shaowenglu.com/clippings/2026-06-25-%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C-AI-Agent-%E8%90%BD%E5%9C%B0%E6%80%9D%E8%80%83%EF%BC%9A%E4%BB%8E%E6%9E%B6%E6%9E%84%E7%94%9F%E6%A0%B9%E5%88%B0%E5%9C%BA%E6%99%AF%E5%BC%80%E8%8A%B1)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645338&ver=6810&signature=hMEfQ1*XrZTKu-G6gEuR5wjS6k1HWvCnQ2u8*q283ljc30YNjy908rETB915Y43RZ8*a2Y6*b6h8WDr*zF9OaqzqfMRNYCA*aohuMwDokWEj2x19PW1MzdEHBzntbqa8&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # 中小银行 AI Agent 落地思考：从架构生根到场景开花
 
-> 微信公众号「Rain」｜2026-06-25｜由 agent-reach 抓取。原文 [[Clippings/2026-06-25 中小银行 AI Agent 落地思考：从架构生根到场景开花|跳转 Clippings]]。
+> 微信公众号「Rain」｜2026-06-25｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-06-25-%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C-AI-Agent-%E8%90%BD%E5%9C%B0%E6%80%9D%E8%80%83%EF%BC%9A%E4%BB%8E%E6%9E%B6%E6%9E%84%E7%94%9F%E6%A0%B9%E5%88%B0%E5%9C%BA%E6%99%AF%E5%BC%80%E8%8A%B1)。
 
 ## TL;DR
 
@@ -31,5 +31,5 @@ tags:
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-06-25 中小银行 AI Agent 落地思考：从架构生根到场景开花]]
+- 内部：[2026-06-25 中小银行 AI Agent 落地思考：从架构生根到场景开花](https://shaowenglu.com/clippings/2026-06-25-%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C-AI-Agent-%E8%90%BD%E5%9C%B0%E6%80%9D%E8%80%83%EF%BC%9A%E4%BB%8E%E6%9E%B6%E6%9E%84%E7%94%9F%E6%A0%B9%E5%88%B0%E5%9C%BA%E6%99%AF%E5%BC%80%E8%8A%B1)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645338&ver=6810&signature=hMEfQ1*XrZTKu-G6gEuR5wjS6k1HWvCnQ2u8*q283ljc30YNjy908rETB915Y43RZ8*a2Y6*b6h8WDr*zF9OaqzqfMRNYCA*aohuMwDokWEj2x19PW1MzdEHBzntbqa8&new=1

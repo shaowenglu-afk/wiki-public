@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-23
 author: 觉醒的代码
-original: "[[Clippings/2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）]]"
+original: "[2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）](https://shaowenglu.com/clippings/2026-06-23-%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E4%B8%A4%E6%9D%A1%E5%93%B2%E5%AD%A6%EF%BC%9A%E4%B8%AD%E5%BF%83%E5%8D%8F%E8%B0%83%E5%9E%8B%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88Hermes%EF%BC%89-vs-%E5%8D%8F%E8%AE%AE%E9%A9%B1%E5%8A%A8%E6%89%A7%E8%A1%8C%EF%BC%88Ralph%EF%BC%89)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645005&ver=6810&signature=DRFKBImYH2dumXKn32pUwv-ygZQhiDxt7sSS5e37CIuImBjzvX4jYMq3Hbt28YuOfpo4qsQcaMufHBuxcPjunYSM0G-lYcruM2XfYSaJzExsULOXT5n59-YuIJzGRzig&new=1"
 tags:
   - wiki
@@ -12,7 +12,7 @@ tags:
 
 # 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）
 
-> 微信公众号「觉醒的代码」｜2026-06-23｜由 agent-reach 抓取。原文 [[Clippings/2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）|跳转 Clippings]]。
+> 微信公众号「觉醒的代码」｜2026-06-23｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-06-23-%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E4%B8%A4%E6%9D%A1%E5%93%B2%E5%AD%A6%EF%BC%9A%E4%B8%AD%E5%BF%83%E5%8D%8F%E8%B0%83%E5%9E%8B%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88Hermes%EF%BC%89-vs-%E5%8D%8F%E8%AE%AE%E9%A9%B1%E5%8A%A8%E6%89%A7%E8%A1%8C%EF%BC%88Ralph%EF%BC%89)。
 
 ## TL;DR
 
@@ -30,5 +30,5 @@ tags:
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）]]
+- 内部：[2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）](https://shaowenglu.com/clippings/2026-06-23-%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E4%B8%A4%E6%9D%A1%E5%93%B2%E5%AD%A6%EF%BC%9A%E4%B8%AD%E5%BF%83%E5%8D%8F%E8%B0%83%E5%9E%8B%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88Hermes%EF%BC%89-vs-%E5%8D%8F%E8%AE%AE%E9%A9%B1%E5%8A%A8%E6%89%A7%E8%A1%8C%EF%BC%88Ralph%EF%BC%89)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645005&ver=6810&signature=DRFKBImYH2dumXKn32pUwv-ygZQhiDxt7sSS5e37CIuImBjzvX4jYMq3Hbt28YuOfpo4qsQcaMufHBuxcPjunYSM0G-lYcruM2XfYSaJzExsULOXT5n59-YuIJzGRzig&new=1

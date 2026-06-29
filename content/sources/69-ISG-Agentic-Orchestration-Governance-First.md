@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-03-23
 author: ISG One
-original: "[[Clippings/2026-03-23 ISG Agentic Orchestration Governance-First Reference Architecture]]"
+original: "[2026-03-23 ISG Agentic Orchestration Governance-First Reference Architecture](https://shaowenglu.com/clippings/2026-03-23-ISG-Agentic-Orchestration-Governance-First-Reference-Architecture)"
 external_url: "https://research.isg-one.com/analyst-perspectives/agentic-orchestration-a-governance-first-reference-enterprise-architecture"
 tags: [wiki, source, 智能体, 架构, 治理, control-plane]
 ---
@@ -22,5 +22,5 @@ ISG 分析师文章。**定义性挑战不是模型性能，是控制平面（Co
 - [[concepts/Harness-Engineering]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-03-23 ISG Agentic Orchestration Governance-First Reference Architecture]]
+- 内部：[2026-03-23 ISG Agentic Orchestration Governance-First Reference Architecture](https://shaowenglu.com/clippings/2026-03-23-ISG-Agentic-Orchestration-Governance-First-Reference-Architecture)
 - 外部：https://research.isg-one.com/analyst-perspectives/agentic-orchestration-a-governance-first-reference-enterprise-architecture

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-07
 author: 林航旗
-original: "[[Clippings/2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？.md]]"
+original: "[2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？](https://shaowenglu.com/clippings/2026-04-07-26%E5%B9%B4AI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1Harness-Engineering%EF%BC%9F)"
 tags: [wiki, source, Harness, AI-PM]
 ---
 
@@ -36,4 +36,4 @@ tags: [wiki, source, Harness, AI-PM]
 [[concepts/Harness-Engineering]] · [[concepts/Vibe-Coding]] · [[concepts/协作范式演进]] · [[entities/Codex]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？.md]]
+- 内部：[2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？](https://shaowenglu.com/clippings/2026-04-07-26%E5%B9%B4AI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1Harness-Engineering%EF%BC%9F)

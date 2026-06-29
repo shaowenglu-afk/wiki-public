@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-08
 author: Lance Martin, Gabe Cemaj, Michael Cohen
-original: "[[Clippings/2026-04-08 Managed Agents - 大脑与手脚解耦.md]]"
+original: "[2026-04-08 Managed Agents - 大脑与手脚解耦](https://shaowenglu.com/clippings/2026-04-08-Managed-Agents---%E5%A4%A7%E8%84%91%E4%B8%8E%E6%89%8B%E8%84%9A%E8%A7%A3%E8%80%A6)"
 external_url: "https://www.anthropic.com/engineering/managed-agents"
 tags: [wiki, source, Anthropic, Agent, 架构]
 ---
@@ -37,5 +37,5 @@ tags: [wiki, source, Anthropic, Agent, 架构]
 [[concepts/Brain-Hands-Decoupling]] · [[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-08 Managed Agents - 大脑与手脚解耦.md]]
+- 内部：[2026-04-08 Managed Agents - 大脑与手脚解耦](https://shaowenglu.com/clippings/2026-04-08-Managed-Agents---%E5%A4%A7%E8%84%91%E4%B8%8E%E6%89%8B%E8%84%9A%E8%A7%A3%E8%80%A6)
 - 外部：https://www.anthropic.com/engineering/managed-agents

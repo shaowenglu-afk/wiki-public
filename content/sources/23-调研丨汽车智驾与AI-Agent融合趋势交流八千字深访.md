@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-03
 author: 车市拾年
-original: "[[Clippings/2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）]]"
+original: "[2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）](https://shaowenglu.com/clippings/2026-03-03-%E8%B0%83%E7%A0%94%E4%B8%A8%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E4%B8%8EAI-Agent%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E4%BA%A4%E6%B5%81%EF%BC%88%E5%85%AB%E5%8D%83%E5%AD%97%E6%B7%B1%E8%AE%BF%EF%BC%89)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645385&ver=6810&signature=JZm7DtzLhO5ORGK5oOvq82HZA3nF*C59V7HKr7dQd1Qs4Q0klGrVEM0631floqqXT8yn9ZAsY8M8Vnzm5CQkEqXGrDLmbWJ99eY4vhRFRKGjas4PxlzkYGmumtPiLFiD&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）
 
-> 微信公众号「车市拾年」｜2026-03-03｜由 agent-reach 抓取。原文 [[Clippings/2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）|跳转 Clippings]]。
+> 微信公众号「车市拾年」｜2026-03-03｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-03-03-%E8%B0%83%E7%A0%94%E4%B8%A8%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E4%B8%8EAI-Agent%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E4%BA%A4%E6%B5%81%EF%BC%88%E5%85%AB%E5%8D%83%E5%AD%97%E6%B7%B1%E8%AE%BF%EF%BC%89)。
 
 ## TL;DR
 
@@ -32,5 +32,5 @@ tags:
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）]]
+- 内部：[2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）](https://shaowenglu.com/clippings/2026-03-03-%E8%B0%83%E7%A0%94%E4%B8%A8%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E4%B8%8EAI-Agent%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E4%BA%A4%E6%B5%81%EF%BC%88%E5%85%AB%E5%8D%83%E5%AD%97%E6%B7%B1%E8%AE%BF%EF%BC%89)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645385&ver=6810&signature=JZm7DtzLhO5ORGK5oOvq82HZA3nF*C59V7HKr7dQd1Qs4Q0klGrVEM0631floqqXT8yn9ZAsY8M8Vnzm5CQkEqXGrDLmbWJ99eY4vhRFRKGjas4PxlzkYGmumtPiLFiD&new=1

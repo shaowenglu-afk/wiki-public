@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-05-02
 author: 祥子
-original: "[[Clippings/2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？.md]]"
+original: "[2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？](https://shaowenglu.com/clippings/2026-05-02-n8n-vs-Dify-vs-Coze%EF%BC%8C%E4%BC%81%E4%B8%9A-AI-%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B9%B3%E5%8F%B0%E6%80%8E%E4%B9%88%E9%80%89%EF%BC%9F)"
 tags: [wiki, source, AI工作流]
 ---
 
@@ -41,4 +41,4 @@ tags: [wiki, source, AI工作流]
 [[entities/Coze]] · [[entities/Dify]] · [[entities/n8n]] · [[concepts/AI-工作流平台对比]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？.md]]
+- 内部：[2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？](https://shaowenglu.com/clippings/2026-05-02-n8n-vs-Dify-vs-Coze%EF%BC%8C%E4%BC%81%E4%B8%9A-AI-%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B9%B3%E5%8F%B0%E6%80%8E%E4%B9%88%E9%80%89%EF%BC%9F)

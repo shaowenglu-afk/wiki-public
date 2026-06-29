@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-05
 author: VDF AI Team
-original: "[[Clippings/2026-06-05 VDF AI Agent Platforms Architecture 7 Patterns 2026]]"
+original: "[2026-06-05 VDF AI Agent Platforms Architecture 7 Patterns 2026](https://shaowenglu.com/clippings/2026-06-05-VDF-AI-Agent-Platforms-Architecture-7-Patterns-2026)"
 external_url: "https://vdf.ai/blog/enterprise-ai-agent-platform-architecture-patterns-2026/"
 tags: [wiki, source, 智能体, 架构, 7模式, control-plane]
 ---
@@ -32,5 +32,5 @@ tags: [wiki, source, 智能体, 架构, 7模式, control-plane]
 - [[concepts/Harness-Engineering]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-06-05 VDF AI Agent Platforms Architecture 7 Patterns 2026]]
+- 内部：[2026-06-05 VDF AI Agent Platforms Architecture 7 Patterns 2026](https://shaowenglu.com/clippings/2026-06-05-VDF-AI-Agent-Platforms-Architecture-7-Patterns-2026)
 - 外部：https://vdf.ai/blog/enterprise-ai-agent-platform-architecture-patterns-2026/

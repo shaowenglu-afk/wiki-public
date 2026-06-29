@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-01-18
 author: arXiv
-original: "[[Clippings/2026-01-18 arXiv Agentic AI Architectures Taxonomies Evaluation of LLM Agents]]"
+original: "[2026-01-18 arXiv Agentic AI Architectures Taxonomies Evaluation of LLM Agents](https://shaowenglu.com/clippings/2026-01-18-arXiv-Agentic-AI-Architectures-Taxonomies-Evaluation-of-LLM-Agents)"
 external_url: "https://arxiv.org/html/2601.12560v1"
 tags: [wiki, source, 智能体, 学术综述, 分类法, 评估, 架构]
 ---
@@ -24,5 +24,5 @@ tags: [wiki, source, 智能体, 学术综述, 分类法, 评估, 架构]
 - [[concepts/Harness-Engineering]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-01-18 arXiv Agentic AI Architectures Taxonomies Evaluation of LLM Agents]]
+- 内部：[2026-01-18 arXiv Agentic AI Architectures Taxonomies Evaluation of LLM Agents](https://shaowenglu.com/clippings/2026-01-18-arXiv-Agentic-AI-Architectures-Taxonomies-Evaluation-of-LLM-Agents)
 - 外部：https://arxiv.org/html/2601.12560v1

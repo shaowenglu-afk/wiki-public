@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-25
 author: Merlin Stein
-original: "[[Clippings/2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证.md]]"
+original: "[2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证](https://shaowenglu.com/clippings/2026-03-25-AI-Agent-%E5%AE%9E%E9%99%85%E6%80%8E%E4%B9%88%E8%A2%AB%E4%BD%BF%E7%94%A8---177000-%E4%B8%AA-MCP-%E5%B7%A5%E5%85%B7%E7%9A%84%E5%AE%9E%E8%AF%81)"
 external_url: "https://arxiv.org/abs/2603.23802"
 tags: [wiki, source, arXiv, MCP, 实证]
 ---
@@ -44,5 +44,5 @@ tags: [wiki, source, arXiv, MCP, 实证]
 [[entities/MCP-Model-Context-Protocol]] · [[concepts/Agentic-AI]] · [[entities/Codex]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证.md]]
+- 内部：[2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证](https://shaowenglu.com/clippings/2026-03-25-AI-Agent-%E5%AE%9E%E9%99%85%E6%80%8E%E4%B9%88%E8%A2%AB%E4%BD%BF%E7%94%A8---177000-%E4%B8%AA-MCP-%E5%B7%A5%E5%85%B7%E7%9A%84%E5%AE%9E%E8%AF%81)
 - 外部：https://arxiv.org/abs/2603.23802

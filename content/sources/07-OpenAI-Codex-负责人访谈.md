@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-21
 author: 玉澄
-original: "[[Clippings/2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！.md]]"
+original: "[2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！](https://shaowenglu.com/clippings/2026-04-21-OpenAI%E5%87%A0%E4%B9%8E%E4%B8%8D%E5%81%9A%E4%B8%AD%E6%9C%9F%E9%A1%B9%E7%9B%AE%EF%BC%8CPM%E4%B9%9F%E4%B8%8D%E5%A4%A7%E9%9C%80%E8%A6%81%E4%BA%86%EF%BC%81Codex%E8%B4%9F%E8%B4%A3%E4%BA%BA%EF%BC%9AOpenClaw%E5%BE%88%E5%A4%A7%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%98%AFCodex%E5%BC%80%E5%8F%91%E7%9A%84%EF%BC%81%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%86%99%E7%9A%84%E4%BB%A3%E7%A0%81%E6%AF%94%E5%8D%8A%E5%B9%B4%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%86%99%E7%9A%84%E8%BF%98%E5%A4%9A%EF%BC%81)"
 tags: [wiki, source, Codex, OpenAI, PM]
 ---
 
@@ -43,4 +43,4 @@ tags: [wiki, source, Codex, OpenAI, PM]
 [[entities/Codex]] · [[entities/OpenClaw]] · [[entities/Plan-Mode]] · [[concepts/Agentic-AI]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！.md]]
+- 内部：[2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！](https://shaowenglu.com/clippings/2026-04-21-OpenAI%E5%87%A0%E4%B9%8E%E4%B8%8D%E5%81%9A%E4%B8%AD%E6%9C%9F%E9%A1%B9%E7%9B%AE%EF%BC%8CPM%E4%B9%9F%E4%B8%8D%E5%A4%A7%E9%9C%80%E8%A6%81%E4%BA%86%EF%BC%81Codex%E8%B4%9F%E8%B4%A3%E4%BA%BA%EF%BC%9AOpenClaw%E5%BE%88%E5%A4%A7%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%98%AFCodex%E5%BC%80%E5%8F%91%E7%9A%84%EF%BC%81%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%86%99%E7%9A%84%E4%BB%A3%E7%A0%81%E6%AF%94%E5%8D%8A%E5%B9%B4%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%86%99%E7%9A%84%E8%BF%98%E5%A4%9A%EF%BC%81)

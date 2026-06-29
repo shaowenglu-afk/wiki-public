@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-04-17
 author: portkey.ai
-original: "[[Clippings/2026-04-17 AIOps Platform for Enterprises 2026 Guide (portkey)]]"
+original: "[2026-04-17 AIOps Platform for Enterprises 2026 Guide (portkey)](https://shaowenglu.com/clippings/2026-04-17-AIOps-Platform-for-Enterprises-2026-Guide-%28portkey%29)"
 external_url: "https://portkey.ai/blog/how-to-choose-the-right-aiops-platform/"
 tags: [wiki, source, AIOps, LLMOps, 企业级, en-zh]
 ---
@@ -27,5 +27,5 @@ tags: [wiki, source, AIOps, LLMOps, 企业级, en-zh]
 - [[entities/OpenTelemetry]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-17 AIOps Platform for Enterprises 2026 Guide (portkey)]]
+- 内部：[2026-04-17 AIOps Platform for Enterprises 2026 Guide (portkey)](https://shaowenglu.com/clippings/2026-04-17-AIOps-Platform-for-Enterprises-2026-Guide-%28portkey%29)
 - 外部：https://portkey.ai/blog/how-to-choose-the-right-aiops-platform/

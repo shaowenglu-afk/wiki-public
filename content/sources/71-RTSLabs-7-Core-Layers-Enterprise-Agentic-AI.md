@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-09
 author: RTS Labs
-original: "[[Clippings/2026-06-09 RTSLabs 7 Core Layers of Enterprise Agentic AI Architecture]]"
+original: "[2026-06-09 RTSLabs 7 Core Layers of Enterprise Agentic AI Architecture](https://shaowenglu.com/clippings/2026-06-09-RTSLabs-7-Core-Layers-of-Enterprise-Agentic-AI-Architecture)"
 external_url: "https://rtslabs.com/agentic-ai-architecture"
 tags: [wiki, source, 智能体, 架构, 7层参考, 企业级]
 ---
@@ -32,5 +32,5 @@ tags: [wiki, source, 智能体, 架构, 7层参考, 企业级]
 - [[entities/Temporal]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-06-09 RTSLabs 7 Core Layers of Enterprise Agentic AI Architecture]]
+- 内部：[2026-06-09 RTSLabs 7 Core Layers of Enterprise Agentic AI Architecture](https://shaowenglu.com/clippings/2026-06-09-RTSLabs-7-Core-Layers-of-Enterprise-Agentic-AI-Architecture)
 - 外部：https://rtslabs.com/agentic-ai-architecture

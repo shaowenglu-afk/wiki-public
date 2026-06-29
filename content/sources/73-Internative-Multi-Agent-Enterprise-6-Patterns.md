@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-09
 author: Internative
-original: "[[Clippings/2026-06-09 Internative Multi-Agent AI Systems Enterprise 6 Patterns]]"
+original: "[2026-06-09 Internative Multi-Agent AI Systems Enterprise 6 Patterns](https://shaowenglu.com/clippings/2026-06-09-Internative-Multi-Agent-AI-Systems-Enterprise-6-Patterns)"
 external_url: "https://internative.net/insights/blog/multi-agent-ai-systems-enterprise-2026"
 tags: [wiki, source, 智能体, 架构, 6模式, 多Agent, 框架对比]
 ---
@@ -24,5 +24,5 @@ Koordex 实战总结。**2026 下半年生产 = 多 Agent + 控制器**。**6 �
 - [[concepts/低代码-vs-高代码-智能体建设]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-06-09 Internative Multi-Agent AI Systems Enterprise 6 Patterns]]
+- 内部：[2026-06-09 Internative Multi-Agent AI Systems Enterprise 6 Patterns](https://shaowenglu.com/clippings/2026-06-09-Internative-Multi-Agent-AI-Systems-Enterprise-6-Patterns)
 - 外部：https://internative.net/insights/blog/multi-agent-ai-systems-enterprise-2026

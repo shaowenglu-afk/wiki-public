@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-05-29
 author: Google Cloud / Christopher Heiser
-original: "[[Clippings/2026-05-29 How Google SRE is using agentic AI to improve operations (Google Cloud)]]"
+original: "[2026-05-29 How Google SRE is using agentic AI to improve operations (Google Cloud)](https://shaowenglu.com/clippings/2026-05-29-How-Google-SRE-is-using-agentic-AI-to-improve-operations-%28Google-Cloud%29)"
 external_url: "https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations"
 tags: [wiki, source, AIOps, AI-SRE, Google, en-zh]
 ---
@@ -32,5 +32,5 @@ tags: [wiki, source, AIOps, AI-SRE, Google, en-zh]
 - [[entities/Google-ADK]] · [[entities/MCP-Model-Context-Protocol]] · [[entities/OpenTelemetry]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-05-29 How Google SRE is using agentic AI to improve operations (Google Cloud)]]
+- 内部：[2026-05-29 How Google SRE is using agentic AI to improve operations (Google Cloud)](https://shaowenglu.com/clippings/2026-05-29-How-Google-SRE-is-using-agentic-AI-to-improve-operations-%28Google-Cloud%29)
 - 外部：https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-16
 author: Dolphin7
-original: "[[Clippings/2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了.md]]"
+original: "[2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了](https://shaowenglu.com/clippings/2026-06-16-%E8%AF%95%E5%AE%8CSuperpowers%E3%80%81OpenSpec%E3%80%81Kiro%E3%80%81GStack%EF%BC%8CSDD%E4%BA%94%E4%B8%AA%E5%B8%B8%E8%AF%86%E5%85%A8%E9%94%99%E4%BA%86)"
 tags: [wiki, source, SDD, 选型]
 ---
 
@@ -49,4 +49,4 @@ tags: [wiki, source, SDD, 选型]
 [[entities/Plan-Mode]] · [[entities/Superpowers]] · [[entities/OpenSpec]] · [[entities/Kiro]] · [[entities/GStack]] · [[concepts/Spec-Driven-Development]] · [[concepts/Vibe-Coding]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了.md]]
+- 内部：[2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了](https://shaowenglu.com/clippings/2026-06-16-%E8%AF%95%E5%AE%8CSuperpowers%E3%80%81OpenSpec%E3%80%81Kiro%E3%80%81GStack%EF%BC%8CSDD%E4%BA%94%E4%B8%AA%E5%B8%B8%E8%AF%86%E5%85%A8%E9%94%99%E4%BA%86)

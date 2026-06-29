@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-13
 author: 虾虾
-original: "[[Clippings/2026-03-13 Dify vs OpenClaw：AIOps领域的“大脑”与“双手”]]"
+original: "[2026-03-13 Dify vs OpenClaw：AIOps领域的“大脑”与“双手”](https://shaowenglu.com/clippings/2026-03-13-Dify-vs-OpenClaw%EF%BC%9AAIOps%E9%A2%86%E5%9F%9F%E7%9A%84%E2%80%9C%E5%A4%A7%E8%84%91%E2%80%9D%E4%B8%8E%E2%80%9C%E5%8F%8C%E6%89%8B%E2%80%9D)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782642679&ver=6810&signature=YWa7By-jKvykd*l3aK*89fnu-Y8xxQ-c8tVyf0T2FoH3OCu8AeumaBL3x5oe7DK5CLD62PrNd9NGK-7bJ8fcm*GUliCwp23fwB4-Nyq5TZRhljY5*R5uRJhkChwDb7E-&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # Dify vs OpenClaw：AIOps领域的“大脑”与“双手”
 
-> 微信公众号「虾虾」｜2026-03-13｜由 agent-reach 抓取。原文 [[Clippings/2026-03-13 Dify vs OpenClaw：AIOps领域的“大脑”与“双手”|跳转 Clippings]]。
+> 微信公众号「虾虾」｜2026-03-13｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-03-13-Dify-vs-OpenClaw%EF%BC%9AAIOps%E9%A2%86%E5%9F%9F%E7%9A%84%E2%80%9C%E5%A4%A7%E8%84%91%E2%80%9D%E4%B8%8E%E2%80%9C%E5%8F%8C%E6%89%8B%E2%80%9D)。
 
 ## TL;DR
 
@@ -33,5 +33,5 @@ Dify vs OpenClaw：AIOps领域的“大脑”与“双手”\x0d\x0a开篇：AIO
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-03-13 Dify vs OpenClaw：AIOps领域的“大脑”与“双手”]]
+- 内部：[2026-03-13 Dify vs OpenClaw：AIOps领域的“大脑”与“双手”](https://shaowenglu.com/clippings/2026-03-13-Dify-vs-OpenClaw%EF%BC%9AAIOps%E9%A2%86%E5%9F%9F%E7%9A%84%E2%80%9C%E5%A4%A7%E8%84%91%E2%80%9D%E4%B8%8E%E2%80%9C%E5%8F%8C%E6%89%8B%E2%80%9D)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782642679&ver=6810&signature=YWa7By-jKvykd*l3aK*89fnu-Y8xxQ-c8tVyf0T2FoH3OCu8AeumaBL3x5oe7DK5CLD62PrNd9NGK-7bJ8fcm*GUliCwp23fwB4-Nyq5TZRhljY5*R5uRJhkChwDb7E-&new=1

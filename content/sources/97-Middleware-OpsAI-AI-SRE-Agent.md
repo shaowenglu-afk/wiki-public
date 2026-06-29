@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-25
 author: Middleware
-original: "[[Clippings/2026-06-25 Middleware OpsAI The AI SRE Agent for Production Issues]]"
+original: "[2026-06-25 Middleware OpsAI The AI SRE Agent for Production Issues](https://shaowenglu.com/clippings/2026-06-25-Middleware-OpsAI-The-AI-SRE-Agent-for-Production-Issues)"
 external_url: "https://middleware.io/blog/ops-ai-sre-agent/"
 tags: [wiki, source, AIOps, AI-SRE, 产品, en-zh]
 ---
@@ -33,5 +33,5 @@ tags: [wiki, source, AIOps, AI-SRE, 产品, en-zh]
 - [[concepts/AI-SRE-范式]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-06-25 Middleware OpsAI The AI SRE Agent for Production Issues]]
+- 内部：[2026-06-25 Middleware OpsAI The AI SRE Agent for Production Issues](https://shaowenglu.com/clippings/2026-06-25-Middleware-OpsAI-The-AI-SRE-Agent-for-Production-Issues)
 - 外部：https://middleware.io/blog/ops-ai-sre-agent/

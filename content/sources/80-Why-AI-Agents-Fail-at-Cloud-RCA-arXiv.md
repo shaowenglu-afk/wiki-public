@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-02-10
 author: arXiv 2602.09937
-original: "[[Clippings/2026-02-10 Why Do AI Agents Systematically Fail at Cloud RCA (arXiv 2602.09937)]]"
+original: "[2026-02-10 Why Do AI Agents Systematically Fail at Cloud RCA (arXiv 2602.09937)](https://shaowenglu.com/clippings/2026-02-10-Why-Do-AI-Agents-Systematically-Fail-at-Cloud-RCA-%28arXiv-2602.09937%29)"
 external_url: "https://arxiv.org/abs/2602.09937"
 tags: [wiki, source, AIOps, RCA, 学术, 失败模式]
 ---
@@ -25,5 +25,5 @@ tags: [wiki, source, AIOps, RCA, 学术, 失败模式]
 - [[concepts/AI-SRE-范式]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-02-10 Why Do AI Agents Systematically Fail at Cloud RCA (arXiv 2602.09937)]]
+- 内部：[2026-02-10 Why Do AI Agents Systematically Fail at Cloud RCA (arXiv 2602.09937)](https://shaowenglu.com/clippings/2026-02-10-Why-Do-AI-Agents-Systematically-Fail-at-Cloud-RCA-%28arXiv-2602.09937%29)
 - 外部：https://arxiv.org/abs/2602.09937

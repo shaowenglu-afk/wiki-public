@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-27
 author: 方寸经纬
-original: "[[Clippings/2026-06-27 从AICon看Agent安全实践：银行智能体的 安全底线 在哪里？]]"
+original: "[2026-06-27 从AICon看Agent安全实践：银行智能体的 安全底线 在哪里？](https://shaowenglu.com/clippings/2026-06-27-%E4%BB%8EAICon%E7%9C%8BAgent%E5%AE%89%E5%85%A8%E5%AE%9E%E8%B7%B5%EF%BC%9A%E9%93%B6%E8%A1%8C%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84-%E5%AE%89%E5%85%A8%E5%BA%95%E7%BA%BF-%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645336&ver=6810&signature=w*0ji7GSShzHKB8Ra7oMaP8Rd*zoSx-OyRTA1AdkNV7pm97CIpsQAHvaXaWwcmfxD4FCXR3zYCsilC*Xejvubn7ksXgqfnjYA4XuSWd68stg10Eilkt2kgEKpyu6vWEz&new=1"
 tags:
   - wiki
@@ -14,7 +14,7 @@ tags:
 
 # 从AICon看Agent安全实践：银行智能体的'安全底线'在哪里？
 
-> 微信公众号「方寸经纬」｜2026-06-27｜由 agent-reach 抓取。原文 [[Clippings/2026-06-27 从AICon看Agent安全实践：银行智能体的 安全底线 在哪里？|跳转 Clippings]]。
+> 微信公众号「方寸经纬」｜2026-06-27｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-06-27-%E4%BB%8EAICon%E7%9C%8BAgent%E5%AE%89%E5%85%A8%E5%AE%9E%E8%B7%B5%EF%BC%9A%E9%93%B6%E8%A1%8C%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84-%E5%AE%89%E5%85%A8%E5%BA%95%E7%BA%BF-%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F)。
 
 ## TL;DR
 
@@ -36,5 +36,5 @@ tags:
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-06-27 从AICon看Agent安全实践：银行智能体的 安全底线 在哪里？]]
+- 内部：[2026-06-27 从AICon看Agent安全实践：银行智能体的 安全底线 在哪里？](https://shaowenglu.com/clippings/2026-06-27-%E4%BB%8EAICon%E7%9C%8BAgent%E5%AE%89%E5%85%A8%E5%AE%9E%E8%B7%B5%EF%BC%9A%E9%93%B6%E8%A1%8C%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84-%E5%AE%89%E5%85%A8%E5%BA%95%E7%BA%BF-%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645336&ver=6810&signature=w*0ji7GSShzHKB8Ra7oMaP8Rd*zoSx-OyRTA1AdkNV7pm97CIpsQAHvaXaWwcmfxD4FCXR3zYCsilC*Xejvubn7ksXgqfnjYA4XuSWd68stg10Eilkt2kgEKpyu6vWEz&new=1

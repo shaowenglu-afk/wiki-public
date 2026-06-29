@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-02-26
 author: 如漫
-original: "[[Clippings/2026-02-26 Dify 官方上架 Higress 插件，轻松接入 AI 网关访问模型服务]]"
+original: "[2026-02-26 Dify 官方上架 Higress 插件，轻松接入 AI 网关访问模型服务](https://shaowenglu.com/clippings/2026-02-26-Dify-%E5%AE%98%E6%96%B9%E4%B8%8A%E6%9E%B6-Higress-%E6%8F%92%E4%BB%B6%EF%BC%8C%E8%BD%BB%E6%9D%BE%E6%8E%A5%E5%85%A5-AI-%E7%BD%91%E5%85%B3%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%9E%8B%E6%9C%8D%E5%8A%A1)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782642679&ver=6810&signature=1uFrkb2UEZgPfdTr216tGmyVAOHpOQ5L0Vdp3h4tQ9q0XLA8kQe5PWQMhUt59nxOVq-ExCP1mgSAdbx0L3GVJRTGWUnUZ36TSHZpzyMWfgu6yYOO8rP9wJ4AsU8OjkYf&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # Dify 官方上架 Higress 插件，轻松接入 AI 网关访问模型服务
 
-> 微信公众号「如漫」｜2026-02-26｜由 agent-reach 抓取。原文 [[Clippings/2026-02-26 Dify 官方上架 Higress 插件，轻松接入 AI 网关访问模型服务|跳转 Clippings]]。
+> 微信公众号「如漫」｜2026-02-26｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-02-26-Dify-%E5%AE%98%E6%96%B9%E4%B8%8A%E6%9E%B6-Higress-%E6%8F%92%E4%BB%B6%EF%BC%8C%E8%BD%BB%E6%9D%BE%E6%8E%A5%E5%85%A5-AI-%E7%BD%91%E5%85%B3%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%9E%8B%E6%9C%8D%E5%8A%A1)。
 
 ## TL;DR
 
@@ -32,5 +32,5 @@ tags:
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-02-26 Dify 官方上架 Higress 插件，轻松接入 AI 网关访问模型服务]]
+- 内部：[2026-02-26 Dify 官方上架 Higress 插件，轻松接入 AI 网关访问模型服务](https://shaowenglu.com/clippings/2026-02-26-Dify-%E5%AE%98%E6%96%B9%E4%B8%8A%E6%9E%B6-Higress-%E6%8F%92%E4%BB%B6%EF%BC%8C%E8%BD%BB%E6%9D%BE%E6%8E%A5%E5%85%A5-AI-%E7%BD%91%E5%85%B3%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%9E%8B%E6%9C%8D%E5%8A%A1)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782642679&ver=6810&signature=1uFrkb2UEZgPfdTr216tGmyVAOHpOQ5L0Vdp3h4tQ9q0XLA8kQe5PWQMhUt59nxOVq-ExCP1mgSAdbx0L3GVJRTGWUnUZ36TSHZpzyMWfgu6yYOO8rP9wJ4AsU8OjkYf&new=1

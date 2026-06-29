@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-03-02
 author: arXiv 2603.02032
-original: "[[Clippings/2026-03-02 MetaRCA Generalizable RCA Framework (arXiv 2603.02032)]]"
+original: "[2026-03-02 MetaRCA Generalizable RCA Framework (arXiv 2603.02032)](https://shaowenglu.com/clippings/2026-03-02-MetaRCA-Generalizable-RCA-Framework-%28arXiv-2603.02032%29)"
 external_url: "https://arxiv.org/abs/2603.02032"
 tags: [wiki, source, AIOps, RCA, 学术]
 ---
@@ -27,5 +27,5 @@ tags: [wiki, source, AIOps, RCA, 学术]
 - [[sources/84-LATS-RCA-Language-Agent-Tree-Search-arXiv]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-03-02 MetaRCA Generalizable RCA Framework (arXiv 2603.02032)]]
+- 内部：[2026-03-02 MetaRCA Generalizable RCA Framework (arXiv 2603.02032)](https://shaowenglu.com/clippings/2026-03-02-MetaRCA-Generalizable-RCA-Framework-%28arXiv-2603.02032%29)
 - 外部：https://arxiv.org/abs/2603.02032

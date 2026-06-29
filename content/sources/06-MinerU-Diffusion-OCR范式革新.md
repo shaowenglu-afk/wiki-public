@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-15
 author: 老章很忙
-original: "[[Clippings/2026-04-15 MinerU 再次改变 OCR，5 倍提升.md]]"
+original: "[2026-04-15 MinerU 再次改变 OCR，5 倍提升](https://shaowenglu.com/clippings/2026-04-15-MinerU-%E5%86%8D%E6%AC%A1%E6%94%B9%E5%8F%98-OCR%EF%BC%8C5-%E5%80%8D%E6%8F%90%E5%8D%87)"
 tags: [wiki, source, OCR, 扩散模型]
 ---
 
@@ -36,4 +36,4 @@ tags: [wiki, source, OCR, 扩散模型]
 [[entities/MinerU]] · [[concepts/扩散解码]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-15 MinerU 再次改变 OCR，5 倍提升.md]]
+- 内部：[2026-04-15 MinerU 再次改变 OCR，5 倍提升](https://shaowenglu.com/clippings/2026-04-15-MinerU-%E5%86%8D%E6%AC%A1%E6%94%B9%E5%8F%98-OCR%EF%BC%8C5-%E5%80%8D%E6%8F%90%E5%8D%87)

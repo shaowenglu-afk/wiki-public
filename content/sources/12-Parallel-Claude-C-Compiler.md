@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-02-05
 author: Nicholas Carlini
-original: "[[Clippings/2026-02-05 用并行 Claude 团队从零写 C 编译器.md]]"
+original: "[2026-02-05 用并行 Claude 团队从零写 C 编译器](https://shaowenglu.com/clippings/2026-02-05-%E7%94%A8%E5%B9%B6%E8%A1%8C-Claude-%E5%9B%A2%E9%98%9F%E4%BB%8E%E9%9B%B6%E5%86%99-C-%E7%BC%96%E8%AF%91%E5%99%A8)"
 external_url: "https://www.anthropic.com/engineering/building-c-compiler"
 tags: [wiki, source, Anthropic, parallel-agents, Agent]
 ---
@@ -50,5 +50,5 @@ tags: [wiki, source, Anthropic, parallel-agents, Agent]
 [[concepts/Parallel-Agent-Teams]] · [[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-02-05 用并行 Claude 团队从零写 C 编译器.md]]
+- 内部：[2026-02-05 用并行 Claude 团队从零写 C 编译器](https://shaowenglu.com/clippings/2026-02-05-%E7%94%A8%E5%B9%B6%E8%A1%8C-Claude-%E5%9B%A2%E9%98%9F%E4%BB%8E%E9%9B%B6%E5%86%99-C-%E7%BC%96%E8%AF%91%E5%99%A8)
 - 外部：https://www.anthropic.com/engineering/building-c-compiler

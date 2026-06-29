@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-24
 author: Prithvi Rajasekaran
-original: "[[Clippings/2026-03-24 长任务应用开发的 Harness 设计.md]]"
+original: "[2026-03-24 长任务应用开发的 Harness 设计](https://shaowenglu.com/clippings/2026-03-24-%E9%95%BF%E4%BB%BB%E5%8A%A1%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84-Harness-%E8%AE%BE%E8%AE%A1)"
 external_url: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
 tags: [wiki, source, Anthropic, Harness, Agent]
 ---
@@ -54,5 +54,5 @@ tags: [wiki, source, Anthropic, Harness, Agent]
 [[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]] · [[concepts/Long-Running-Agents-Anthropic|Long-Running-Agents]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-03-24 长任务应用开发的 Harness 设计.md]]
+- 内部：[2026-03-24 长任务应用开发的 Harness 设计](https://shaowenglu.com/clippings/2026-03-24-%E9%95%BF%E4%BB%BB%E5%8A%A1%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84-Harness-%E8%AE%BE%E8%AE%A1)
 - 外部：https://www.anthropic.com/engineering/harness-design-long-running-apps

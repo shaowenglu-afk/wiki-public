@@ -3,9 +3,9 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-29
 author: Andrej Karpathy, Stephanie Zhan (host)
-original: "[[Clippings/2026-04-29 Karpathy - 从 Vibe Coding 到 Agentic Engineering.md]]"
+original: "[2026-04-29 Karpathy - 从 Vibe Coding 到 Agentic Engineering](https://shaowenglu.com/clippings/2026-04-29-Karpathy---%E4%BB%8E-Vibe-Coding-%E5%88%B0-Agentic-Engineering)"
 external_url: "https://www.youtube.com/watch?v=96jN2OCOfLs"
-transcript: "[[Clippings/attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript).md]]"
+transcript: "[attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript)](https://shaowenglu.com/clippings/attachments%2F2026-04-29-Karpathy---Vibe-to-Agentic-Engineering-%28transcript%29)"
 tags: [wiki, source, video, Karpathy, Sequoia]
 ---
 
@@ -36,7 +36,7 @@ Karpathy 一年前造了 "**vibe coding**" 这个词，现在说**自己作为�
 00:00 引言 / 00:44 落后感 / 02:28 Software 3.0 / 03:44 Agent 作为 installer / 04:49 Menu Gen / 07:37 2026 显而易见 / 09:41 可验证性 + jagged / 13:39 创业建议 / **15:46 Vibe Coding → Agentic Engineering** / 25:17 Agent 无处不在与学习
 
 ## 完整字幕
-已抓取并去重清洗 → [[Clippings/attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript)|完整英文字幕]]（6261 词、33KB）
+已抓取并去重清洗 → [完整英文字幕](https://shaowenglu.com/clippings/attachments%2F2026-04-29-Karpathy---Vibe-to-Agentic-Engineering-%28transcript%29)（6261 词、33KB）
 
 ## 与本 Wiki 的关系
 - **直接更新** [[concepts/Vibe-Coding]]：作者一年后的反思 + jagged skills + "幽灵"比喻
@@ -48,5 +48,5 @@ Karpathy 一年前造了 "**vibe coding**" 这个词，现在说**自己作为�
 [[concepts/Vibe-Coding]] · [[concepts/Agentic-Engineering]] · [[concepts/Harness-Engineering]] · [[concepts/协作范式演进]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-29 Karpathy - 从 Vibe Coding 到 Agentic Engineering.md]]
+- 内部：[2026-04-29 Karpathy - 从 Vibe Coding 到 Agentic Engineering](https://shaowenglu.com/clippings/2026-04-29-Karpathy---%E4%BB%8E-Vibe-Coding-%E5%88%B0-Agentic-Engineering)
 - 外部：https://www.youtube.com/watch?v=96jN2OCOfLs

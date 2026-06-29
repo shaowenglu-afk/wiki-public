@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2025-10-24
 author: awschina
-original: "[[Clippings/2025-10-24 企业级Agentic AI架构设计.md]]"
+original: "[2025-10-24 企业级Agentic AI架构设计](https://shaowenglu.com/clippings/2025-10-24-%E4%BC%81%E4%B8%9A%E7%BA%A7Agentic-AI%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)"
 tags: [wiki, source, Agentic-AI, 企业架构]
 ---
 
@@ -53,4 +53,4 @@ tags: [wiki, source, Agentic-AI, 企业架构]
 [[concepts/Agentic-AI]] · [[concepts/Harness-Engineering]]（理念呼应）
 
 ## 原文链接
-- 内部：[[Clippings/2025-10-24 企业级Agentic AI架构设计.md]]
+- 内部：[2025-10-24 企业级Agentic AI架构设计](https://shaowenglu.com/clippings/2025-10-24-%E4%BC%81%E4%B8%9A%E7%BA%A7Agentic-AI%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)

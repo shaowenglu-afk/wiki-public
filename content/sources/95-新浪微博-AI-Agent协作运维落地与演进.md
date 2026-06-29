@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-25
 author: 马朕（新浪微博）
-original: "[[Clippings/2026-06-25 AI Agent协作运维在新浪微博的落地与演进]]"
+original: "[2026-06-25 AI Agent协作运维在新浪微博的落地与演进](https://shaowenglu.com/clippings/2026-06-25-AI-Agent%E5%8D%8F%E4%BD%9C%E8%BF%90%E7%BB%B4%E5%9C%A8%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%9A%84%E8%90%BD%E5%9C%B0%E4%B8%8E%E6%BC%94%E8%BF%9B)"
 tags: [wiki, source, AIOps, 互联网大厂, 中文一手, XCOPS-2026]
 ---
 
@@ -25,4 +25,4 @@ tags: [wiki, source, AIOps, 互联网大厂, 中文一手, XCOPS-2026]
 - [[concepts/Enterprise-Agent-Architecture-2026]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-06-25 AI Agent协作运维在新浪微博的落地与演进]]
+- 内部：[2026-06-25 AI Agent协作运维在新浪微博的落地与演进](https://shaowenglu.com/clippings/2026-06-25-AI-Agent%E5%8D%8F%E4%BD%9C%E8%BF%90%E7%BB%B4%E5%9C%A8%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%9A%84%E8%90%BD%E5%9C%B0%E4%B8%8E%E6%BC%94%E8%BF%9B)

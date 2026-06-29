@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-02
 author: code秘密花园
-original: "[[Clippings/2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！.md]]"
+original: "[2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！](https://shaowenglu.com/clippings/2026-04-02-%E6%9C%80%E8%BF%91%E7%88%86%E7%81%AB%E7%9A%84-Harness-Engineering-%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E5%95%A5%EF%BC%9F%E4%B8%80%E6%9C%9F%E8%AE%B2%E9%80%8F%EF%BC%81)"
 tags: [wiki, source, Harness]
 ---
 
@@ -25,4 +25,4 @@ tags: [wiki, source, Harness]
 [[concepts/Harness-Engineering]] · [[concepts/协作范式演进]] · [[entities/OpenClaw]]
 
 ## 原文链接
-- 内部：[[Clippings/2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！.md]]
+- 内部：[2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！](https://shaowenglu.com/clippings/2026-04-02-%E6%9C%80%E8%BF%91%E7%88%86%E7%81%AB%E7%9A%84-Harness-Engineering-%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E5%95%A5%EF%BC%9F%E4%B8%80%E6%9C%9F%E8%AE%B2%E9%80%8F%EF%BC%81)

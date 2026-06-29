@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-24
 author: 汽车金融帮
-original: "[[Clippings/2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战]]"
+original: "[2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战](https://shaowenglu.com/clippings/2026-06-24-%E3%80%90%E7%AB%B9%E5%AD%90%E7%A7%91%E6%8A%80CEO%E4%BA%B2%E6%8E%88%E3%80%91%E6%B1%BD%E8%BD%A6%E9%9B%B6%E5%94%AE%E7%A7%91%E6%8A%80%E8%BD%AC%E5%9E%8B%EF%BC%9A-AI%E9%A9%B1%E5%8A%A8%E4%B8%9A%E5%8A%A1%E5%A2%9E%E9%95%BF%E4%B8%8E%E9%87%91%E8%9E%8D%E5%8D%8F%E5%90%8C%E5%AE%9E%E6%88%98)"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645382&ver=6810&signature=b8SFg*1Oc0eCbZR9j3ZA8-389yhP734AkXaVwrAAQ31SSKyOSCFdCyGohQsUyluxc26S7RBwJC9G3deYUx99qdNrjTKWJMu9-MZGrRhgfU0LCmmV1YuQkfWqmP1SNVEq&new=1"
 tags:
   - wiki
@@ -12,7 +12,7 @@ tags:
 
 # 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战
 
-> 微信公众号「汽车金融帮」｜2026-06-24｜由 agent-reach 抓取。原文 [[Clippings/2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战|跳转 Clippings]]。
+> 微信公众号「汽车金融帮」｜2026-06-24｜由 agent-reach 抓取。原文 [跳转 Clippings](https://shaowenglu.com/clippings/2026-06-24-%E3%80%90%E7%AB%B9%E5%AD%90%E7%A7%91%E6%8A%80CEO%E4%BA%B2%E6%8E%88%E3%80%91%E6%B1%BD%E8%BD%A6%E9%9B%B6%E5%94%AE%E7%A7%91%E6%8A%80%E8%BD%AC%E5%9E%8B%EF%BC%9A-AI%E9%A9%B1%E5%8A%A8%E4%B8%9A%E5%8A%A1%E5%A2%9E%E9%95%BF%E4%B8%8E%E9%87%91%E8%9E%8D%E5%8D%8F%E5%90%8C%E5%AE%9E%E6%88%98)。
 
 ## TL;DR
 
@@ -30,5 +30,5 @@ tags:
 
 ## 原文链接
 
-- 内部：[[Clippings/2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战]]
+- 内部：[2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战](https://shaowenglu.com/clippings/2026-06-24-%E3%80%90%E7%AB%B9%E5%AD%90%E7%A7%91%E6%8A%80CEO%E4%BA%B2%E6%8E%88%E3%80%91%E6%B1%BD%E8%BD%A6%E9%9B%B6%E5%94%AE%E7%A7%91%E6%8A%80%E8%BD%AC%E5%9E%8B%EF%BC%9A-AI%E9%A9%B1%E5%8A%A8%E4%B8%9A%E5%8A%A1%E5%A2%9E%E9%95%BF%E4%B8%8E%E9%87%91%E8%9E%8D%E5%8D%8F%E5%90%8C%E5%AE%9E%E6%88%98)
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645382&ver=6810&signature=b8SFg*1Oc0eCbZR9j3ZA8-389yhP734AkXaVwrAAQ31SSKyOSCFdCyGohQsUyluxc26S7RBwJC9G3deYUx99qdNrjTKWJMu9-MZGrRhgfU0LCmmV1YuQkfWqmP1SNVEq&new=1
