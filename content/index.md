@@ -39,6 +39,25 @@
 | **77** | [[sources/77-Tencent-一文读懂企业级Agent-AI-Native架构]] | 腾讯 7+2 技术选型清单（中国语境）| 2026-04-28 |
 | **78** | [[sources/78-Tencent-企业级Agent-AI-Native架构设计与实践]] | 腾讯 7+2 完整版 + EDD + APaaS | 2026-06-15 |
 | **79** | [[sources/79-Grapecity-Enterprise-AI-Agent-Whitepaper-2026]] | 葡萄城白皮书：三支柱 + L0-L4 + 工程化 | 2026-06-25 |
+| **80** | [[sources/80-Why-AI-Agents-Fail-at-Cloud-RCA-arXiv]] | arXiv 2602：1675 次 Agent 运行 → 12 种 RCA pitfall（架构 > 模型）| 2026-02-10 |
+| **81** | [[sources/81-MetaRCA-Generalizable-RCA-Framework-arXiv]] | arXiv 2603：MetaRCA + Causal Graph + 跨系统 >80% 准确率 | 2026-03-02 |
+| **82** | [[sources/82-LLM-Monitoring-Best-Practices-OpenObserve]] | OpenObserve LLM 监控 4 类核心指标 | 2026-04-10 |
+| **83** | [[sources/83-AIOps-Platform-for-Enterprises-portkey]] | Portkey AIOps 平台 5 大能力 | 2026-04-17 |
+| **84** | [[sources/84-LATS-RCA-Language-Agent-Tree-Search-arXiv]] | arXiv 2605：LATS 树搜索 RCA + benchmark vs 生产差距 | 2026-05-05 |
+| **85** | [[sources/85-AI-SRE-2026-Guide-Augment-Code]] | Augment Code AI SRE 5 大转变 + 工具栈 | 2026-05-25 |
+| **86** | [[sources/86-AI-SRE-vs-AIOps-Arvo-AI]] | AI SRE vs AIOps 概念辨析（互补不替代）| 2026-05-28 |
+| **87** | [[sources/87-Google-SRE-Agentic-AI]] | Google SRE 20 年首次披露 agentic AI 落地 | 2026-05-29 |
+| **88** | [[sources/88-沙丘智库-AI观测性市场指南]] | 沙丘智库：可观测性正成为 AI 基础设施 | 2026-06-17 |
+| **89** | [[sources/89-AI可观测性的三层盲区]] | 可观测三层盲区（业务/推理/Agent 决策）| 2026-06-21 |
+| **90** | [[sources/90-AI可观测性全链路追踪]] | Prompt/Tool/Trace/Token 4 维追踪 | 2026-06-22 |
+| **91** | [[sources/91-AI赋能网络-K8s网络策略智能分析]] | K8s 网络策略智能分析与故障定位 | 2026-06-22 |
+| **92** | [[sources/92-为什么监控越来越多故障定位反而越来越慢]] | 行业反思：告警风暴 + 关联缺失 + 专家流失 | 2026-06-23 |
+| **93** | [[sources/93-大型集团IT运维智能体平台详细设计方案]] | 集团 IT AIOps 平台详细设计（24KB 一手）| 2026-06-23 |
+| **94** | [[sources/94-码农视角-AI诊断和修复问题三个反直觉优势]] | AI 反直觉优势：不被代码束缚/不疲劳/并行 | 2026-06-23 |
+| **95** | [[sources/95-新浪微博-AI-Agent协作运维落地与演进]] | 新浪微博 XCOPS 一手落地实证 | 2026-06-25 |
+| **96** | [[sources/96-AI观测站-从定位走向调查]] | 可观测性从"定位"走向"调查"范式转变 | 2026-06-25 |
+| **97** | [[sources/97-Middleware-OpsAI-AI-SRE-Agent]] | Middleware OpsAI 5 Agent 架构 + MTTR -70% | 2026-06-25 |
+| **98** | [[sources/98-Agent可观测性工具爆发五大开源项目]] | 5 大开源可观测项目（Langfuse / Phoenix / OpenLLMetry 等）| 2026-06-28 |
 
 ---
 
@@ -65,6 +84,14 @@
 ### 协议 / 基础设施
 - [[entities/MCP-Model-Context-Protocol]] — Anthropic 提出的 Agent 工具协议，已成事实标准
 - [[entities/A2A-Protocol]] — Linux Foundation 治理的 Agent 间通信协议 **2026-06-29 新增**
+- [[entities/OpenTelemetry]] — 云原生可观测性事实标准（AI Agent 必备底层）**2026-06-29 新增**
+
+### AIOps / AI SRE
+- [[entities/HolmesGPT]] — CNCF Sandbox 调查 Agent **2026-06-29 新增**
+- [[entities/K8sGPT]] — CNCF Sandbox K8s 诊断 **2026-06-29 新增**
+- [[entities/Middleware-OpsAI]] — 5 Agent AI SRE 产品 **2026-06-29 新增**
+- [[entities/Datadog-Bits-AI-SRE]] — 企业级旗舰（GA 2025-12）**2026-06-29 新增**
+- [[entities/OpenObserve]] — 开源高性能可观测平台 **2026-06-29 新增**
 
 ### 大模型 & OCR
 - [[entities/DeepSeek]] — 高性价比开源路线引领者
@@ -87,13 +114,16 @@
 - [[concepts/AI-工作流平台对比]] — n8n / Dify / Coze 的选型矩阵
 - [[concepts/低代码-vs-高代码-智能体建设]] — 9 维对比 + 3 条产品哲学 + 双轨制决策框架（**2026-06-29 新增**）
 - [[concepts/Enterprise-Agent-Architecture-2026]] — **企业 AI Agent 架构 2026 全景综述**：6 大行业共识 + 4 大架构模型 + 7/6/4 模式拓扑 + 4 框架对比 + 3 大反共识（**2026-06-29 新增 · 跨 12 篇 source 综合**）
+- [[concepts/AIOps-2026-全景综述]] — **AIOps 2026 全景综述**：AIOps + AI SRE 双轨制 + 4 大范式转变 + 5 Agent 标准架构 + 工具栈 + 3 大反共识（**2026-06-29 新增 · 跨 19 篇 source 综合**）
+- [[concepts/AI-SRE-范式]] — AI SRE 5 大转变 + 标准 5 Agent + 4 步采用路线 + 4 大陷阱 **2026-06-29 新增**
+- [[concepts/AI-可观测性-四维追踪]] — Prompt/Tool/Trace/Token 四维 + 3 大盲区 + 工具栈 + 4 大原则 **2026-06-29 新增**
 - [[concepts/协作范式演进]] — Prompt → Context → Harness → Agentic Engineering
 - [[concepts/扩散解码]] — 用 Diffusion 替代自回归的 OCR 新范式
 
 ---
 
 ## 📊 统计
-- Source 页：**86**（+12）/ Entity 页：**20**（+5）/ Concept 页：**14**（+1）
+- Source 页：**104**（+19）/ Entity 页：**26**（+6）/ Concept 页：**17**（+3）
 - 最近一次 ingest：2026-06-28（第 3-4 轮：低代码 + 金融智能体 + 汽车金融 vertical 主动搜索 + Playwright 反风控 + § 7 质量过滤）
 - 完整变更见 [[log]]
 

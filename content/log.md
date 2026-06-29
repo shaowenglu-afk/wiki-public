@@ -343,3 +343,63 @@
 - 与 [[concepts/Harness-Engineering]] 形成「单体工程化纪律 → 平台级架构」上下层
 - 与 [[concepts/低代码-vs-高代码-智能体建设]] 形成「路径选择 → 高代码 + 平台路径详解」
 - 与 [[concepts/Brain-Hands-Decoupling]] 形成「Session/Harness/Sandbox 理论 → Manager Pattern 实践」
+
+---
+
+## [2026-06-29] ingest | 第 7 轮 · AIOps 知识全量入库（19 篇）
+
+**触发**：用户「补到 wiki」（之前盘点发现 19 篇 AIOps Clippings 仅 1 篇入 wiki）
+
+**新增 Sources（18 篇，80-98）**：
+- 80 [[sources/80-Why-AI-Agents-Fail-at-Cloud-RCA-arXiv]] — arXiv 2602 失败模式
+- 81 [[sources/81-MetaRCA-Generalizable-RCA-Framework-arXiv]] — arXiv 2603 跨系统 RCA
+- 82 [[sources/82-LLM-Monitoring-Best-Practices-OpenObserve]] — LLM 监控 4 指标
+- 83 [[sources/83-AIOps-Platform-for-Enterprises-portkey]] — AIOps 平台 5 能力
+- 84 [[sources/84-LATS-RCA-Language-Agent-Tree-Search-arXiv]] — 树搜索 RCA
+- 85 [[sources/85-AI-SRE-2026-Guide-Augment-Code]] — AI SRE 5 转变综述
+- 86 [[sources/86-AI-SRE-vs-AIOps-Arvo-AI]] — 概念辨析
+- 87 [[sources/87-Google-SRE-Agentic-AI]] — Google 一手
+- 88 [[sources/88-沙丘智库-AI观测性市场指南]] — 中国市场指南
+- 89 [[sources/89-AI可观测性的三层盲区]] — 反共识
+- 90 [[sources/90-AI可观测性全链路追踪]] — 4 维方法论（28KB）
+- 91 [[sources/91-AI赋能网络-K8s网络策略智能分析]] — K8s 垂直
+- 92 [[sources/92-为什么监控越来越多故障定位反而越来越慢]] — 行业反思
+- 93 [[sources/93-大型集团IT运维智能体平台详细设计方案]] — 集团方案（24KB）
+- 94 [[sources/94-码农视角-AI诊断和修复问题三个反直觉优势]] — 实战感受
+- 95 [[sources/95-新浪微博-AI-Agent协作运维落地与演进]] — 中国大厂一手
+- 96 [[sources/96-AI观测站-从定位走向调查]] — 范式演进
+- 97 [[sources/97-Middleware-OpsAI-AI-SRE-Agent]] — 产品案例
+- 98 [[sources/98-Agent可观测性工具爆发五大开源项目]] — 开源工具盘点
+
+**新增 Concepts（3 个核心综述）**：
+- [[concepts/AIOps-2026-全景综述]] —— **主综合页**：4 大范式转变 + 5 Agent 标准架构 + 工具栈 + 3 大反共识 + 4 步建设路线（跨 20 sources）
+- [[concepts/AI-SRE-范式]] — 5 大转变 + 5 Agent + 4 步采用 + 4 大陷阱
+- [[concepts/AI-可观测性-四维追踪]] — Prompt/Tool/Trace/Token 四维 + 3 大盲区
+
+**新增 Entities（6 个）**：
+- [[entities/OpenTelemetry]] — 云原生可观测事实标准
+- [[entities/HolmesGPT]] — CNCF Sandbox 调查 Agent
+- [[entities/K8sGPT]] — CNCF Sandbox K8s 诊断
+- [[entities/Middleware-OpsAI]] — 5 Agent AI SRE 产品
+- [[entities/Datadog-Bits-AI-SRE]] — 企业级旗舰
+- [[entities/OpenObserve]] — 开源高性能可观测
+
+**Index 更新**：
+- Concept 14 → **17**
+- Entity 20 → **26**
+- Source 86 → **104**
+
+**6 大行业共识**（本轮跨 19 源综合）：
+1. AIOps + AI SRE 双轨制（不互替代）
+2. 可观测性从"定位"走向"调查"
+3. 多 Agent 5 角色（Observer/Investigation/Reasoning/Action/Reporter）成标准
+4. 可观测扩展到 Prompt/Tool/Trace/Token 四维
+5. 架构 > 模型（1675 次实证）
+6. MTTR -70% 是行业基线（iFood / AMEX / Google 一手）
+
+**与既有 wiki 关系**：
+- 与 [[concepts/Enterprise-Agent-Architecture-2026]] 形成「通用架构 ↔ 运维垂直架构」对照
+- 与 [[concepts/Harness-Engineering]] 形成「单 Agent 工程化 ↔ AIOps 平台级」延伸
+- 与 [[concepts/金融智能体落地]] 平行（业务垂直 vs IT 垂直）
+
+**沉睡资产唤醒**：之前盘点的 18 篇孤儿 source 全部接入 wiki 图谱，wiki 综述层 AIOps 主题从 0 → 3 核心 concept。
