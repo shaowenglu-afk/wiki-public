@@ -4,7 +4,7 @@ created: 2026-06-29
 updated: 2026-06-29
 tags: [wiki, concept, AIOps, AI-SRE, 可观测性, 2026综述]
 sources:
-  - "[[sources/27-Dify-vs-OpenClawAIOps领域的"大脑"与"双手"]]"
+  - '[[sources/27-Dify-vs-OpenClawAIOps领域的"大脑"与"双手"]]'
   - "[[sources/80-Why-AI-Agents-Fail-at-Cloud-RCA-arXiv]]"
   - "[[sources/81-MetaRCA-Generalizable-RCA-Framework-arXiv]]"
   - "[[sources/82-LLM-Monitoring-Best-Practices-OpenObserve]]"
