@@ -2,7 +2,7 @@
 type: source
 created: 2026-06-28
 source_date: 2026-04-07
-original: "`2026-04-07 Obsidian新建仓库后配置和插件全部丢失？？？.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-04-07 Obsidian新建仓库后配置和插件全部丢失？？？.md]]"
 tags: [wiki, source, Obsidian, 工具技巧]
 ---
 

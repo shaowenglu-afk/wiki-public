@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-28
 author: 梨话代语
-original: "`2026-06-28 Agent可观测性工具爆发！五大开源项目让 跑飞 的AI不再裸奔`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-28 Agent可观测性工具爆发！五大开源项目让 跑飞 的AI不再裸奔]]"
 tags: [wiki, source, AIOps, 可观测性, 开源, 工具盘点, 中文]
 ---
 
@@ -30,4 +30,4 @@ tags: [wiki, source, AIOps, 可观测性, 开源, 工具盘点, 中文]
 - [[concepts/AI-可观测性-四维追踪]]
 
 ## 原文链接
-- 内部：`2026-06-28 Agent可观测性工具爆发！五大开源项目让 跑飞 的AI不再裸奔`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-28 Agent可观测性工具爆发！五大开源项目让 跑飞 的AI不再裸奔]]

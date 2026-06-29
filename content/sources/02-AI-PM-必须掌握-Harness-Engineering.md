@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-07
 author: 林航旗
-original: "`2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-04-07 26年AI产品经理为什么必须掌握Harness Engineering？.md]]"
 tags: [wiki, source, Harness, AI-PM]
 ---
 

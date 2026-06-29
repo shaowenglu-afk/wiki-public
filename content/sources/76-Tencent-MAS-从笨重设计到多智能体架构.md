@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-01-20
 author: 腾讯云开发者社区 / 小周不忙
-original: "`2026-01-20 腾讯云 2026年智能体架构综述 从笨重设计到多智能体架构MAS`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-01-20 腾讯云 2026年智能体架构综述 从笨重设计到多智能体架构MAS]]"
 external_url: "https://cloud.tencent.com/developer/article/2620439"
 tags: [wiki, source, 智能体, 架构, MAS, 中文一手]
 ---
@@ -22,5 +22,5 @@ tags: [wiki, source, 智能体, 架构, MAS, 中文一手]
 - [[entities/MCP-Model-Context-Protocol]]
 
 ## 原文链接
-- 内部：`2026-01-20 腾讯云 2026年智能体架构综述 从笨重设计到多智能体架构MAS`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-01-20 腾讯云 2026年智能体架构综述 从笨重设计到多智能体架构MAS]]
 - 外部：https://cloud.tencent.com/developer/article/2620439

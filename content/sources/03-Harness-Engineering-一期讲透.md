@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-02
 author: code秘密花园
-original: "`2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-04-02 最近爆火的 Harness Engineering 到底是个啥？一期讲透！.md]]"
 tags: [wiki, source, Harness]
 ---
 

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2025-10-11
 author: Jimmy Song / Antonio Gulli
-original: "`2025-10-11 Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）`（原始素材，仅本地可见）"
+original: "[[Clippings/2025-10-11 Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）]]"
 external_url: "https://assets.jimmysong.io/books/agentic-design-patterns-zh-20251011.pdf"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）
 
-> 微信公众号「Jimmy Song / Antonio Gulli」｜2025-10-11｜由 agent-reach 抓取。原文 `2025-10-11 Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）`（原始素材，仅本地可见）。
+> 微信公众号「Jimmy Song / Antonio Gulli」｜2025-10-11｜由 agent-reach 抓取。原文 [[Clippings/2025-10-11 Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -32,5 +32,5 @@ https://jimmysong.io/book/agentic-design-patterns/
 
 ## 原文链接
 
-- 内部：`2025-10-11 Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）`（原始素材，仅本地可见）
+- 内部：[[Clippings/2025-10-11 Agentic Design Patterns 中译本（Jimmy Song 译，Antonio Gulli 原著）]]
 - 外部：https://assets.jimmysong.io/books/agentic-design-patterns-zh-20251011.pdf

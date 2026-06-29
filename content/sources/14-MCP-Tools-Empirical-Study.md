@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-25
 author: Merlin Stein
-original: "`2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-03-25 AI Agent 实际怎么被使用 - 177000 个 MCP 工具的实证.md]]"
 external_url: "https://arxiv.org/abs/2603.23802"
 tags: [wiki, source, arXiv, MCP, 实证]
 ---

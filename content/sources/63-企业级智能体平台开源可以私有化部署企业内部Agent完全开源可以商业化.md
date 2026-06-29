@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-28
 author: www.gitcc.com
-original: "`2026-06-28 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-28 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782638743&ver=6810&signature=E0qyhupvDrmrBiuJqdE8Cr4r-CmvHmBweiOMN58OzvlCqPJ2OvqDQiVG4JpK3eoPLtEIAVnXW6p-fcyKSzVdGTHvOfELQazu4zqIBcuXZ8MB6m-vaMVKXTUhCIbQilIN&new=1"
 tags:
   - wiki
@@ -12,7 +12,7 @@ tags:
 
 # 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化
 
-> 微信公众号「www.gitcc.com」｜2026-06-28｜由 agent-reach 抓取。原文 `2026-06-28 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化`（原始素材，仅本地可见）。
+> 微信公众号「www.gitcc.com」｜2026-06-28｜由 agent-reach 抓取。原文 [[Clippings/2026-06-28 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -31,5 +31,5 @@ GCC Agent 应运而生——作为一款企业级、商业友好的Agentic Work
 
 ## 原文链接
 
-- 内部：`2026-06-28 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-28 企业级智能体平台开源，可以私有化部署，企业内部Agent，完全开源，可以商业化]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782638743&ver=6810&signature=E0qyhupvDrmrBiuJqdE8Cr4r-CmvHmBweiOMN58OzvlCqPJ2OvqDQiVG4JpK3eoPLtEIAVnXW6p-fcyKSzVdGTHvOfELQazu4zqIBcuXZ8MB6m-vaMVKXTUhCIbQilIN&new=1

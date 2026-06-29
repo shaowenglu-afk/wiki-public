@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-16
 author: Dolphin7
-original: "`2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-16 试完Superpowers、OpenSpec、Kiro、GStack，SDD五个常识全错了.md]]"
 tags: [wiki, source, SDD, 选型]
 ---
 

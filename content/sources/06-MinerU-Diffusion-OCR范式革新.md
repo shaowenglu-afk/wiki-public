@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-15
 author: 老章很忙
-original: "`2026-04-15 MinerU 再次改变 OCR，5 倍提升.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-04-15 MinerU 再次改变 OCR，5 倍提升.md]]"
 tags: [wiki, source, OCR, 扩散模型]
 ---
 

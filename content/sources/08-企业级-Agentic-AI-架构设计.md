@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2025-10-24
 author: awschina
-original: "`2025-10-24 企业级Agentic AI架构设计.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2025-10-24 企业级Agentic AI架构设计.md]]"
 tags: [wiki, source, Agentic-AI, 企业架构]
 ---
 

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-22
 author: 微信公众号
-original: "`2026-06-22 AI赋能网络：K8s网络策略智能分析与故障定位`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-22 AI赋能网络：K8s网络策略智能分析与故障定位]]"
 tags: [wiki, source, AIOps, K8s, 网络, 中文]
 ---
 
@@ -23,4 +23,4 @@ tags: [wiki, source, AIOps, K8s, 网络, 中文]
 - [[concepts/AIOps-2026-全景综述]]
 
 ## 原文链接
-- 内部：`2026-06-22 AI赋能网络：K8s网络策略智能分析与故障定位`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-22 AI赋能网络：K8s网络策略智能分析与故障定位]]

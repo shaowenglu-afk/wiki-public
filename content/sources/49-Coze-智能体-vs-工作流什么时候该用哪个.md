@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-25
 author: 知粒
-original: "`2026-06-25 Coze 智能体 vs 工作流：什么时候该用哪个？`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-25 Coze 智能体 vs 工作流：什么时候该用哪个？]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782644987&ver=6810&signature=tn5mxZDGF3h8BFJ1k21fx6mrGX*JWiYE6e9qTXqukeHr5e4gdFV34Smkuxv-jWIiylHxWNrlupp0bOpqC6UiR8yJhsGT5EBiCi80T2khSx1d5KtOpzX5TF2zIqFFcuZb&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # Coze 智能体 vs 工作流：什么时候该用哪个？
 
-> 微信公众号「知粒」｜2026-06-25｜由 agent-reach 抓取。原文 `2026-06-25 Coze 智能体 vs 工作流：什么时候该用哪个？`（原始素材，仅本地可见）。
+> 微信公众号「知粒」｜2026-06-25｜由 agent-reach 抓取。原文 [[Clippings/2026-06-25 Coze 智能体 vs 工作流：什么时候该用哪个？|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -33,5 +33,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-06-25 Coze 智能体 vs 工作流：什么时候该用哪个？`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-25 Coze 智能体 vs 工作流：什么时候该用哪个？]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782644987&ver=6810&signature=tn5mxZDGF3h8BFJ1k21fx6mrGX*JWiYE6e9qTXqukeHr5e4gdFV34Smkuxv-jWIiylHxWNrlupp0bOpqC6UiR8yJhsGT5EBiCi80T2khSx1d5KtOpzX5TF2zIqFFcuZb&new=1

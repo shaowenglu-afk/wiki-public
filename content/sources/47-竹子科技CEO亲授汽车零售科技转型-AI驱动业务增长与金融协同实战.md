@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-24
 author: 汽车金融帮
-original: "`2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645382&ver=6810&signature=b8SFg*1Oc0eCbZR9j3ZA8-389yhP734AkXaVwrAAQ31SSKyOSCFdCyGohQsUyluxc26S7RBwJC9G3deYUx99qdNrjTKWJMu9-MZGrRhgfU0LCmmV1YuQkfWqmP1SNVEq&new=1"
 tags:
   - wiki
@@ -12,7 +12,7 @@ tags:
 
 # 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战
 
-> 微信公众号「汽车金融帮」｜2026-06-24｜由 agent-reach 抓取。原文 `2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战`（原始素材，仅本地可见）。
+> 微信公众号「汽车金融帮」｜2026-06-24｜由 agent-reach 抓取。原文 [[Clippings/2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -30,5 +30,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-24 【竹子科技CEO亲授】汽车零售科技转型： AI驱动业务增长与金融协同实战]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645382&ver=6810&signature=b8SFg*1Oc0eCbZR9j3ZA8-389yhP734AkXaVwrAAQ31SSKyOSCFdCyGohQsUyluxc26S7RBwJC9G3deYUx99qdNrjTKWJMu9-MZGrRhgfU0LCmmV1YuQkfWqmP1SNVEq&new=1

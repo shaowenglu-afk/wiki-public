@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-05-02
 author: 祥子
-original: "`2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-05-02 n8n vs Dify vs Coze，企业 AI 工作流平台怎么选？.md]]"
 tags: [wiki, source, AI工作流]
 ---
 

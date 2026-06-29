@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-23
 author: 觉醒的代码
-original: "`2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645005&ver=6810&signature=DRFKBImYH2dumXKn32pUwv-ygZQhiDxt7sSS5e37CIuImBjzvX4jYMq3Hbt28YuOfpo4qsQcaMufHBuxcPjunYSM0G-lYcruM2XfYSaJzExsULOXT5n59-YuIJzGRzig&new=1"
 tags:
   - wiki
@@ -12,7 +12,7 @@ tags:
 
 # 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）
 
-> 微信公众号「觉醒的代码」｜2026-06-23｜由 agent-reach 抓取。原文 `2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）`（原始素材，仅本地可见）。
+> 微信公众号「觉醒的代码」｜2026-06-23｜由 agent-reach 抓取。原文 [[Clippings/2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -30,5 +30,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-23 智能体平台建设的两条哲学：中心协调型多智能体（Hermes） vs 协议驱动执行（Ralph）]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645005&ver=6810&signature=DRFKBImYH2dumXKn32pUwv-ygZQhiDxt7sSS5e37CIuImBjzvX4jYMq3Hbt28YuOfpo4qsQcaMufHBuxcPjunYSM0G-lYcruM2XfYSaJzExsULOXT5n59-YuIJzGRzig&new=1

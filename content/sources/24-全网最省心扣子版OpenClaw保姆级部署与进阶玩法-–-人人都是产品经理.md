@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-09
 author: woshipm 人人都是产品经理
-original: "`2026-03-09 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-03-09 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理]]"
 external_url: "https://www.woshipm.com/share/6350640.html"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理
 
-> 微信公众号「woshipm 人人都是产品经理」｜2026-03-09｜由 agent-reach 抓取。原文 `2026-03-09 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理`（原始素材，仅本地可见）。
+> 微信公众号「woshipm 人人都是产品经理」｜2026-03-09｜由 agent-reach 抓取。原文 [[Clippings/2026-03-09 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -34,5 +34,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-03-09 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-03-09 全网最省心！扣子版OpenClaw保姆级部署与进阶玩法 – 人人都是产品经理]]
 - 外部：https://www.woshipm.com/share/6350640.html

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-05-25
 author: Augment Code
-original: "`2026-05-25 AI SRE 2026 Guide (Augment Code)`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-05-25 AI SRE 2026 Guide (Augment Code)]]"
 external_url: "https://www.augmentcode.com/guides/ai-sre-ai-powered-site-reliability-engineering"
 tags: [wiki, source, AIOps, AI-SRE, 综述, en-zh]
 ---
@@ -36,5 +36,5 @@ tags: [wiki, source, AIOps, AI-SRE, 综述, en-zh]
 - [[entities/HolmesGPT]] · [[entities/K8sGPT]] · [[entities/Datadog-Bits-AI-SRE]]
 
 ## 原文链接
-- 内部：`2026-05-25 AI SRE 2026 Guide (Augment Code)`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-05-25 AI SRE 2026 Guide (Augment Code)]]
 - 外部：https://www.augmentcode.com/guides/ai-sre-ai-powered-site-reliability-engineering

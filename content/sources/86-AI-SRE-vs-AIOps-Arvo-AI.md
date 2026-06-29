@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-05-28
 author: Arvo AI
-original: "`2026-05-28 AI SRE vs AIOps in 2026 (Arvo AI)`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-05-28 AI SRE vs AIOps in 2026 (Arvo AI)]]"
 external_url: "https://www.arvoai.ca/blog/ai-sre-vs-aiops"
 tags: [wiki, source, AIOps, AI-SRE, 概念辨析, en-zh]
 ---
@@ -33,5 +33,5 @@ tags: [wiki, source, AIOps, AI-SRE, 概念辨析, en-zh]
 - [[entities/Datadog-Bits-AI-SRE]]
 
 ## 原文链接
-- 内部：`2026-05-28 AI SRE vs AIOps in 2026 (Arvo AI)`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-05-28 AI SRE vs AIOps in 2026 (Arvo AI)]]
 - 外部：https://www.arvoai.ca/blog/ai-sre-vs-aiops

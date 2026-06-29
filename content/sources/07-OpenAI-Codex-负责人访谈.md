@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-21
 author: 玉澄
-original: "`2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-04-21 OpenAI几乎不做中期项目，PM也不大需要了！Codex负责人：OpenClaw很大程度上是Codex开发的！设计师写的代码比半年前工程师写的还多！.md]]"
 tags: [wiki, source, Codex, OpenAI, PM]
 ---
 

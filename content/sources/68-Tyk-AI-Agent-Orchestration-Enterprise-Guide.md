@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-06-04
 author: Tyk
-original: "`2026-06-04 Tyk AI Agent Orchestration Enterprise Guide`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-04 Tyk AI Agent Orchestration Enterprise Guide]]"
 external_url: "https://tyk.io/learning-center/ai-agent-orchestration-a-complete-enterprise-guide/"
 tags: [wiki, source, 智能体, 架构, 企业级, A2A, MCP]
 ---
@@ -25,5 +25,5 @@ Tyk 34 KB 长指南。定义 **AI Agent / MAS / Orchestration 三层概念阶梯
 - [[concepts/Harness-Engineering]]
 
 ## 原文链接
-- 内部：`2026-06-04 Tyk AI Agent Orchestration Enterprise Guide`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-04 Tyk AI Agent Orchestration Enterprise Guide]]
 - 外部：https://tyk.io/learning-center/ai-agent-orchestration-a-complete-enterprise-guide/

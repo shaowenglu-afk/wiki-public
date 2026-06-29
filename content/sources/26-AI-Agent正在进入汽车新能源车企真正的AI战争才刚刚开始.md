@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-13
 author: 晴天科技洞察
-original: "`2026-03-13 AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-03-13 AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645385&ver=6810&signature=aXaLDTlkfqB2RbtW49-F5euVkNE*UO11CKs7fQZGs3PBNEG-e4gQkU2O5wuFeFX6AAKbvp*lMucd12ZFK0i4U-f3pu6nESPNu48kDwaBMqjRZoxAeM7XLs-gmSnBjtrV&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始
 
-> 微信公众号「晴天科技洞察」｜2026-03-13｜由 agent-reach 抓取。原文 `2026-03-13 AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始`（原始素材，仅本地可见）。
+> 微信公众号「晴天科技洞察」｜2026-03-13｜由 agent-reach 抓取。原文 [[Clippings/2026-03-13 AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -32,5 +32,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-03-13 AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-03-13 AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645385&ver=6810&signature=aXaLDTlkfqB2RbtW49-F5euVkNE*UO11CKs7fQZGs3PBNEG-e4gQkU2O5wuFeFX6AAKbvp*lMucd12ZFK0i4U-f3pu6nESPNu48kDwaBMqjRZoxAeM7XLs-gmSnBjtrV&new=1

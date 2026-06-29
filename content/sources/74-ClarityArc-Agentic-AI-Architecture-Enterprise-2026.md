@@ -3,7 +3,7 @@ type: source
 created: 2026-06-29
 source_date: 2026-05-08
 author: ClarityArc Consulting
-original: "`2026-05-08 ClarityArc Agentic AI Architecture Enterprise 2026`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-05-08 ClarityArc Agentic AI Architecture Enterprise 2026]]"
 external_url: "https://www.clarityarc.com/insights/agentic-ai-architecture-enterprise"
 tags: [wiki, source, 智能体, 架构, 3层架构, 战略]
 ---
@@ -23,5 +23,5 @@ tags: [wiki, source, 智能体, 架构, 3层架构, 战略]
 - [[entities/Temporal]] · [[entities/LangGraph]]
 
 ## 原文链接
-- 内部：`2026-05-08 ClarityArc Agentic AI Architecture Enterprise 2026`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-05-08 ClarityArc Agentic AI Architecture Enterprise 2026]]
 - 外部：https://www.clarityarc.com/insights/agentic-ai-architecture-enterprise

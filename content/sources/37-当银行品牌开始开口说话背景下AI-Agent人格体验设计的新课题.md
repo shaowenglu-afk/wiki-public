@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-06-16
 author: 凡景体验咨询
-original: "`2026-06-16 当银行品牌开始 开口说话 背景下AI Agent人格体验设计的新课题`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-06-16 当银行品牌开始 开口说话 背景下AI Agent人格体验设计的新课题]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645339&ver=6810&signature=dCukm-z5UfQwKB4K2GlDjHZKP*y837JOhXuT5Kr3PzZdZ*Y8pqxMjfb8iq2IvzoBsOmQgud1GZoW2duaDgrw5faIvBQDdG7vwVhX9YHOzcPYYX-LUwGQgNhxcHNG2ngU&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # 当银行品牌开始'开口说话'背景下AI Agent人格体验设计的新课题
 
-> 微信公众号「凡景体验咨询」｜2026-06-16｜由 agent-reach 抓取。原文 `2026-06-16 当银行品牌开始 开口说话 背景下AI Agent人格体验设计的新课题`（原始素材，仅本地可见）。
+> 微信公众号「凡景体验咨询」｜2026-06-16｜由 agent-reach 抓取。原文 [[Clippings/2026-06-16 当银行品牌开始 开口说话 背景下AI Agent人格体验设计的新课题|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -31,5 +31,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-06-16 当银行品牌开始 开口说话 背景下AI Agent人格体验设计的新课题`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-06-16 当银行品牌开始 开口说话 背景下AI Agent人格体验设计的新课题]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645339&ver=6810&signature=dCukm-z5UfQwKB4K2GlDjHZKP*y837JOhXuT5Kr3PzZdZ*Y8pqxMjfb8iq2IvzoBsOmQgud1GZoW2duaDgrw5faIvBQDdG7vwVhX9YHOzcPYYX-LUwGQgNhxcHNG2ngU&new=1

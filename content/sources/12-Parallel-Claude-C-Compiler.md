@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-02-05
 author: Nicholas Carlini
-original: "`2026-02-05 用并行 Claude 团队从零写 C 编译器.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-02-05 用并行 Claude 团队从零写 C 编译器.md]]"
 external_url: "https://www.anthropic.com/engineering/building-c-compiler"
 tags: [wiki, source, Anthropic, parallel-agents, Agent]
 ---

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-03
 author: 车市拾年
-original: "`2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782645385&ver=6810&signature=JZm7DtzLhO5ORGK5oOvq82HZA3nF*C59V7HKr7dQd1Qs4Q0klGrVEM0631floqqXT8yn9ZAsY8M8Vnzm5CQkEqXGrDLmbWJ99eY4vhRFRKGjas4PxlzkYGmumtPiLFiD&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）
 
-> 微信公众号「车市拾年」｜2026-03-03｜由 agent-reach 抓取。原文 `2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）`（原始素材，仅本地可见）。
+> 微信公众号「车市拾年」｜2026-03-03｜由 agent-reach 抓取。原文 [[Clippings/2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -32,5 +32,5 @@ tags:
 
 ## 原文链接
 
-- 内部：`2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-03-03 调研丨汽车智驾与AI Agent融合趋势交流（八千字深访）]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782645385&ver=6810&signature=JZm7DtzLhO5ORGK5oOvq82HZA3nF*C59V7HKr7dQd1Qs4Q0klGrVEM0631floqqXT8yn9ZAsY8M8Vnzm5CQkEqXGrDLmbWJ99eY4vhRFRKGjas4PxlzkYGmumtPiLFiD&new=1

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-02-13
 author: AI码力
-original: "`2026-02-13 Dify v1.13.0 重磅发布：人在回路(HITL)正式登场`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-02-13 Dify v1.13.0 重磅发布：人在回路(HITL)正式登场]]"
 external_url: "https://mp.weixin.qq.com/s?src=11&timestamp=1782642679&ver=6810&signature=hdoQXEeEbFc1LtzjwqNiZFrULDPYyEcKect9dle*WvjqEOZZRCjUZnzANzAiRsnMTcM7hBrm9rZ1NoM8rdPj1HKOoA2iEfs6oQpWiD73y16ojF1GRq3Xg5Nqw-nkTnI9&new=1"
 tags:
   - wiki
@@ -13,7 +13,7 @@ tags:
 
 # Dify v1.13.0 重磅发布：人在回路(HITL)正式登场
 
-> 微信公众号「AI码力」｜2026-02-13｜由 agent-reach 抓取。原文 `2026-02-13 Dify v1.13.0 重磅发布：人在回路(HITL)正式登场`（原始素材，仅本地可见）。
+> 微信公众号「AI码力」｜2026-02-13｜由 agent-reach 抓取。原文 [[Clippings/2026-02-13 Dify v1.13.0 重磅发布：人在回路(HITL)正式登场|跳转 Clippings]]。
 
 ## TL;DR
 
@@ -32,5 +32,5 @@ Dify 社区苦等已久的 Human-in-the-Loop（人在回路） 功能终于在
 
 ## 原文链接
 
-- 内部：`2026-02-13 Dify v1.13.0 重磅发布：人在回路(HITL)正式登场`（原始素材，仅本地可见）
+- 内部：[[Clippings/2026-02-13 Dify v1.13.0 重磅发布：人在回路(HITL)正式登场]]
 - 外部：https://mp.weixin.qq.com/s?src=11&timestamp=1782642679&ver=6810&signature=hdoQXEeEbFc1LtzjwqNiZFrULDPYyEcKect9dle*WvjqEOZZRCjUZnzANzAiRsnMTcM7hBrm9rZ1NoM8rdPj1HKOoA2iEfs6oQpWiD73y16ojF1GRq3Xg5Nqw-nkTnI9&new=1

@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-04-08
 author: Lance Martin, Gabe Cemaj, Michael Cohen
-original: "`2026-04-08 Managed Agents - 大脑与手脚解耦.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-04-08 Managed Agents - 大脑与手脚解耦.md]]"
 external_url: "https://www.anthropic.com/engineering/managed-agents"
 tags: [wiki, source, Anthropic, Agent, 架构]
 ---

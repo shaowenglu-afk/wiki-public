@@ -3,7 +3,7 @@ type: source
 created: 2026-06-28
 source_date: 2026-03-24
 author: Prithvi Rajasekaran
-original: "`2026-03-24 长任务应用开发的 Harness 设计.md`（原始素材，仅本地可见）"
+original: "[[Clippings/2026-03-24 长任务应用开发的 Harness 设计.md]]"
 external_url: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
 tags: [wiki, source, Anthropic, Harness, Agent]
 ---

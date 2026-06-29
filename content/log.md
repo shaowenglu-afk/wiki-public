@@ -81,8 +81,8 @@
 - [[concepts/Agentic-AI]] — 加 7 篇新 source + 多 Agent 架构跨厂商共识 + 2026 上半年新发现
 
 **字幕持久化**：YouTube 字幕通过 yt-dlp 抓取并清洗后保存（2026-06-28 hotfix 后已从 .txt 转 .md 并加 wikilink）：
-- `attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript)`（原始素材，仅本地可见）（33KB / 6261 词）
-- `attachments/2026-06-26 Figma deep dive Agents Config 2026 (transcript)`（原始素材，仅本地可见）（27KB / 5151 词）
+- [[Clippings/attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript)|Karpathy 字幕]]（33KB / 6261 词）
+- [[Clippings/attachments/2026-06-26 Figma deep dive Agents Config 2026 (transcript)|Figma 字幕]]（27KB / 5151 词）
 
 **Ingest 触达范围**：本次单次 ingest 触达 **18 个 wiki 页面**（7 新 source + 1 新 entity + 3 新 concept + 3 已有 concept 更新 + index + log + 2 字幕附件），超过 [[CLAUDE-wiki|Schema]] 中"通常 3–10 页"的预期——反映了智能体主题在本 Wiki 的高密度网络效应。
 
@@ -121,8 +121,8 @@
 用户要求 Clippings/ 按时间排序。脚本一次性处理：
 - **17 个原文件全部加 `YYYY-MM-DD ` 前缀**（用 frontmatter 的 `published` 优先，回退到 `created`）
 - 对原文件名已带"2026"年份前缀的（如 `2026 企业级智能体...`）做了去重，规范化为 `2026-06-24 企业级智能体...`
-- 同步更新 **17 个 wiki source 页**中 `original: "`...`（原始素材，仅本地可见）"` wikilink，跨厂商共 17 处替换
-- 验证：剩余 ``...`（原始素材，仅本地可见）` 引用仅 3 处合法（CLAUDE-wiki.md 中的模板示例、2 个 attachments/ 引用），无残留旧名
+- 同步更新 **17 个 wiki source 页**中 `original: "[[Clippings/...]]"` wikilink，跨厂商共 17 处替换
+- 验证：剩余 `[[Clippings/...]]` 引用仅 3 处合法（CLAUDE-wiki.md 中的模板示例、2 个 attachments/ 引用），无残留旧名
 
 **新规约**（建议加入 [[CLAUDE-wiki|Schema]] §5 命名约定）：
 - Clippings/ 下原文文件名格式：`YYYY-MM-DD <原标题>.md`
@@ -220,8 +220,8 @@
 - frontmatter 的 `language` 字段从 `en` → `en-zh`，`tags` 追加 `bilingual`
 
 **产出**：
-- `attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript)`（原始素材，仅本地可见）：52KB / 1027 行
-- `attachments/2026-06-26 Figma deep dive Agents Config 2026 (transcript)`（原始素材，仅本地可见）：48KB / 1212 行
+- [[Clippings/attachments/2026-04-29 Karpathy - Vibe to Agentic Engineering (transcript)|Karpathy 双语字幕]]：52KB / 1027 行
+- [[Clippings/attachments/2026-06-26 Figma deep dive Agents Config 2026 (transcript)|Figma 双语字幕]]：48KB / 1212 行
 
 **翻译策略**：
 - Karpathy 偏理论 → 关键概念（jagged skills、ghost、Software 3.0、verifiability、agentic engineering）保留英文 + 给中文解释
@@ -304,18 +304,18 @@
 **§7 质量过滤**：12 篇全部通过（无引流 / 无重复图 / 无短+链）
 
 **新增 Clippings（12 篇）**：
-- A1 `2026-06-04 Tyk AI Agent Orchestration Enterprise Guide`（原始素材，仅本地可见） — 4 大组件 + A2A
-- A2 `2026-03-23 ISG Agentic Orchestration Governance-First Reference Architecture`（原始素材，仅本地可见） — 控制平面
-- A3 `2026-05-28 MLflow Building Production-Ready AI Agents in 2026`（原始素材，仅本地可见） — 框架对比
-- A4 `2026-06-09 RTSLabs 7 Core Layers of Enterprise Agentic AI Architecture`（原始素材，仅本地可见） — 7 层参考
-- A5 `2026-06-05 VDF AI Agent Platforms Architecture 7 Patterns 2026`（原始素材，仅本地可见） — 7 大模式
-- A6 `2026-06-09 Internative Multi-Agent AI Systems Enterprise 6 Patterns`（原始素材，仅本地可见） — 6 大模式
-- A7 `2026-05-08 ClarityArc Agentic AI Architecture Enterprise 2026`（原始素材，仅本地可见） — 3 层 + Manager
-- A8 `2026-01-18 arXiv Agentic AI Architectures Taxonomies Evaluation of LLM Agents`（原始素材，仅本地可见） — 学术综述
-- B1 `2026-06-25 葡萄城 企业级AI智能体白皮书 架构工程化与应用实践`（原始素材，仅本地可见） — L0-L4 + 三支柱
-- B2 `2026-06-15 腾讯云 企业级Agent AI Native架构设计与实践`（原始素材，仅本地可见） — 7+2 完整版
-- B3 `2026-01-20 腾讯云 2026年智能体架构综述 从笨重设计到多智能体架构MAS`（原始素材，仅本地可见） — MAS 范式
-- B4 `2026-04-28 腾讯云 一文读懂企业级Agent AI Native架构`（原始素材，仅本地可见） — 7+2 技术选型
+- A1 [[Clippings/2026-06-04 Tyk AI Agent Orchestration Enterprise Guide]] — 4 大组件 + A2A
+- A2 [[Clippings/2026-03-23 ISG Agentic Orchestration Governance-First Reference Architecture]] — 控制平面
+- A3 [[Clippings/2026-05-28 MLflow Building Production-Ready AI Agents in 2026]] — 框架对比
+- A4 [[Clippings/2026-06-09 RTSLabs 7 Core Layers of Enterprise Agentic AI Architecture]] — 7 层参考
+- A5 [[Clippings/2026-06-05 VDF AI Agent Platforms Architecture 7 Patterns 2026]] — 7 大模式
+- A6 [[Clippings/2026-06-09 Internative Multi-Agent AI Systems Enterprise 6 Patterns]] — 6 大模式
+- A7 [[Clippings/2026-05-08 ClarityArc Agentic AI Architecture Enterprise 2026]] — 3 层 + Manager
+- A8 [[Clippings/2026-01-18 arXiv Agentic AI Architectures Taxonomies Evaluation of LLM Agents]] — 学术综述
+- B1 [[Clippings/2026-06-25 葡萄城 企业级AI智能体白皮书 架构工程化与应用实践]] — L0-L4 + 三支柱
+- B2 [[Clippings/2026-06-15 腾讯云 企业级Agent AI Native架构设计与实践]] — 7+2 完整版
+- B3 [[Clippings/2026-01-20 腾讯云 2026年智能体架构综述 从笨重设计到多智能体架构MAS]] — MAS 范式
+- B4 [[Clippings/2026-04-28 腾讯云 一文读懂企业级Agent AI Native架构]] — 7+2 技术选型
 
 **Wiki 新增**：
 - 12 个 source 摘要页（68-79）
