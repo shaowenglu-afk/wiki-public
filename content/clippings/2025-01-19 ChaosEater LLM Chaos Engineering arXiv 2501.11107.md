@@ -6,7 +6,7 @@ author:
   - "[[arXiv]]"
 published: 2025-01-19
 created: 2026-06-30
-description: "arXiv 2501.11107 - 用 LLM 全自动跑混沌工程流程：假设 → 设计实验 → 注入故障 → 分析结果 → 改进。开辟"LLM Agent + Chaos Engineering"新方向。"
+description: 'arXiv 2501.11107 - 用 LLM 全自动跑混沌工程流程：假设 → 设计实验 → 注入故障 → 分析结果 → 改进。开辟 LLM Agent + Chaos Engineering 新方向。'
 tags:
   - clippings
   - AIOps

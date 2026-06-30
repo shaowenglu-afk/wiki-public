@@ -7,7 +7,7 @@ author:
   - "[[Cybernoz]]"
 published: 2026-05-25
 created: 2026-06-30
-description: "澳洲联邦银行 (CBA) 在 AWS Summit Sydney 披露：用 AWS frontier AI Agent 帮 on-call 工程师，把根因识别从 60-180 分钟降到 30-50 分钟，消除"从冷启动到投查"的死时间。"
+description: '澳洲联邦银行 (CBA) 在 AWS Summit Sydney 披露：用 AWS frontier AI Agent 帮 on-call 工程师，把根因识别从 60-180 分钟降到 30-50 分钟，消除 从冷启动到投查 的死时间。'
 tags:
   - clippings
   - AIOps
