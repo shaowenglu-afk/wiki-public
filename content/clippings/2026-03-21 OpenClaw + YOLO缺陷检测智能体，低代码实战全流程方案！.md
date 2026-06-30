@@ -22,21 +22,21 @@ tags:
 
 # OpenClaw + YOLO缺陷检测智能体，低代码实战全流程方案！
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsS4QkvTTVtibw3sp7PYng5pkDIpibq6hziaspbKEKU98IHf0d0Tu5nlBbg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsS4QkvTTVtibw3sp7PYng5pkDIpibq6hziaspbKEKU98IHf0d0Tu5nlBbg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsxB8HvFnbn1hvmtHTdqRCZO0vqWCjNB1C0bXzyiaEvnB0yx5y2WCnhgA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsxB8HvFnbn1hvmtHTdqRCZO0vqWCjNB1C0bXzyiaEvnB0yx5y2WCnhgA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsKah4dy3S5rtpX1fIU3l7DFTQuMGiaOesaWcbOs8f4WLlIX9FmlPWN4A/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsKah4dy3S5rtpX1fIU3l7DFTQuMGiaOesaWcbOs8f4WLlIX9FmlPWN4A/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsgnAkD56tG0ogGSu7akf1ibTcNvlnK5WJajYKZyVOpurIsfUWbvgqUIg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsgnAkD56tG0ogGSu7akf1ibTcNvlnK5WJajYKZyVOpurIsfUWbvgqUIg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZscaxHYw0Az0buoadpNbWRicXeXpk25HmX5wCUGyjTZwGIKiazeztCticBg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZscaxHYw0Az0buoadpNbWRicXeXpk25HmX5wCUGyjTZwGIKiazeztCticBg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsyJ82EOJZwq0ortaIQA3TsFEFpoB9pEWBrjZPPGxOiawlsvvqquhcNng/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsyJ82EOJZwq0ortaIQA3TsFEFpoB9pEWBrjZPPGxOiawlsvvqquhcNng/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsoRib0IpCevGqH1BvrUng35y1TsU3qibhMdEak06lXVpFjPTvco1KGtTA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZsoRib0IpCevGqH1BvrUng35y1TsU3qibhMdEak06lXVpFjPTvco1KGtTA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZscnv5ppYQribUmGFJS7gyWIRLLQy18XZheYpia9S0002PDCmOmicIeydcA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecw5fUARH2kzS0r1bepUxibZscnv5ppYQribUmGFJS7gyWIRLLQy18XZheYpia9S0002PDCmOmicIeydcA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
 以下文章来源于微信公众号：新机器视觉
 
@@ -46,7 +46,7 @@ tags:
 
 本文仅用于学术分享，如有侵权，请联系后台作删文处理
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWhPmGHfBz7vlEFLwDwiaiaQoCQ1iaUGFFpV3z4Qq9uTTh0gibzDT52BKUwfAM5Kf2jsDpKRmuQuO2asXQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1#imgIndex=8)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWhPmGHfBz7vlEFLwDwiaiaQoCQ1iaUGFFpV3z4Qq9uTTh0gibzDT52BKUwfAM5Kf2jsDpKRmuQuO2asXQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1#imgIndex=8)
 
 **导读**
 
@@ -75,7 +75,7 @@ tags:
 
 目录结构：**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/EumrvZQOicqxdXJ1Sib45lp9G2To6Hc0QHZly0HAH93H1LSzNiba7mdhE8ZsoLgiamCez3nFukbhtibliaDPbQ6edibug339JYEn2m4aVQYoZfcgl8/640?wx_fmt=png&from=appmsg#imgIndex=10)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/EumrvZQOicqxdXJ1Sib45lp9G2To6Hc0QHZly0HAH93H1LSzNiba7mdhE8ZsoLgiamCez3nFukbhtibliaDPbQ6edibug339JYEn2m4aVQYoZfcgl8/640?wx_fmt=png&from=appmsg#imgIndex=10)
 
 **标注格式（每行一个缺陷）：**
 
@@ -101,7 +101,7 @@ OpenClaw 通过"技能"扩展功能。我们创建一个 YOLO 缺陷检测技能
 
 **3. 编写检测工具tools/detect_single.py：**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/EumrvZQOicqyibPS1o4ZeZEjkxqOHQ3iaRAXst18aKI6CktckxibUY967vqRQn9FTNtUUdVoakic5eoiabH8BCo4Bn3nu6sKiauXqClgDXibRfudib0w/640?wx_fmt=png&from=appmsg#imgIndex=18)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/EumrvZQOicqyibPS1o4ZeZEjkxqOHQ3iaRAXst18aKI6CktckxibUY967vqRQn9FTNtUUdVoakic5eoiabH8BCo4Bn3nu6sKiauXqClgDXibRfudib0w/640?wx_fmt=png&from=appmsg#imgIndex=18)
 
 **tools/detect_batch.py：**
 
@@ -199,13 +199,13 @@ OpenClaw 支持多种消息推送渠道，这里以企业微信为例。
 
 **扫描下方二维码即可加入~**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecwViaZlmKE7iatrldqCz6ZeQHlC7EibQbyhxc8WJ8c6UCrWibtNiaicx6ThquOOAXq4Trc7XVPYsibrtm8pw/640?wx_fmt=png&from=appmsg#imgIndex=31)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/QWAZ7Ok6ecwViaZlmKE7iatrldqCz6ZeQHlC7EibQbyhxc8WJ8c6UCrWibtNiaicx6ThquOOAXq4Trc7XVPYsibrtm8pw/640?wx_fmt=png&from=appmsg#imgIndex=31)
 
 **真诚分享AI落地过程（AI商机->项目签约->算法开发->产品开发->实施运维）中的各方面经验和踩过的坑。**
 ****
 
 **你可以获得什么？ ****1、大白之前花费10W+购买，AI行业各场景私有数据集下载，星球内倾情分享；2、AI行业研发、产品、商业落地问题咨询（目前AI公司创业中），都可获高质量解答， 有效期一年****，无限次提问，有问必答。****3、定期邀请AI行业各类嘉宾分享，创业/商业等方面的经验！帮助你解决遇到的实际问题，升职加薪！大家一起加油！** 
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/3ib4H8Vxvm0gyI2LkjA7BbzJIuhb3q5ibcJtgOXoickO7y08RT4qnn5uzia3C6nxZhTCicO2LMw6mY94g29Rf07lOyg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=32)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_gif/3ib4H8Vxvm0gyI2LkjA7BbzJIuhb3q5ibcJtgOXoickO7y08RT4qnn5uzia3C6nxZhTCicO2LMw6mY94g29Rf07lOyg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=32)
 
 [多媒体]

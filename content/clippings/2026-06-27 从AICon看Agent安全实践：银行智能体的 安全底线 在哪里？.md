@@ -230,7 +230,7 @@ AI决策必须有人工兜底，人机协同才是智能体安全的最优解。
 
      
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/P2NgeibIZtib8jJ48iaAmQLbGw2t3FBrMTaewZ1HO0Z5NO9BHXdHRzgN5j4pnibe3jFIkDHLzKPCatkYlHQiaJKLnFXlgxgkDhyaGicWy09Yex8h4/640?from=appmsg&wx_fmt=jpeg&watermark=1#imgIndex=0)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/P2NgeibIZtib8jJ48iaAmQLbGw2t3FBrMTaewZ1HO0Z5NO9BHXdHRzgN5j4pnibe3jFIkDHLzKPCatkYlHQiaJKLnFXlgxgkDhyaGicWy09Yex8h4/640?from=appmsg&wx_fmt=jpeg&watermark=1#imgIndex=0)
 
      
 

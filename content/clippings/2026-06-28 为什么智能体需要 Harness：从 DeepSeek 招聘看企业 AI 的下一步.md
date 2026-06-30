@@ -30,7 +30,7 @@ tags:
 
 它让 AI 不只停留在聊天窗口里回答问题，而是能在明确目标、边界和工具的前提下，按步骤推进一件事。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/3yqibkibOynvlZZkQKYlkn2gvHbKdu3SPJAo1r5gl4J5PZSQDeFhicyFef3AKFprwiapzHibufIqG4xlu6UvqWgNgzr8IGWOicGOeEY2aYCfm4l5Q/640?wx_fmt=jpeg)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/3yqibkibOynvlZZkQKYlkn2gvHbKdu3SPJAo1r5gl4J5PZSQDeFhicyFef3AKFprwiapzHibufIqG4xlu6UvqWgNgzr8IGWOicGOeEY2aYCfm4l5Q/640?wx_fmt=jpeg)
 
 ## 一、为什么有了大模型，还需要 Harness
 
@@ -52,7 +52,7 @@ tags:
 
 Harness 的作用，就是把这些问题放进同一套工作框架里。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/3yqibkibOynvnIvibrTqY6mfcQy434XC5I7uVrrN2VjljgsB760yu98LorVYiaMIicF7At9p6HBBgiatL2YnTr11VmVRSBFyYktHI8iaj9e6AZyfks/640?wx_fmt=png&from=appmsg)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/3yqibkibOynvnIvibrTqY6mfcQy434XC5I7uVrrN2VjljgsB760yu98LorVYiaMIicF7At9p6HBBgiatL2YnTr11VmVRSBFyYktHI8iaj9e6AZyfks/640?wx_fmt=png&from=appmsg)
 
 ## 二、Harness 到底管什么
 
@@ -74,7 +74,7 @@ Harness 的作用，就是把这些问题放进同一套工作框架里。
 
 这就是为什么 Agent Harness 会成为招聘重点。企业真正需要的，是能进入业务流程、同时接受管理的智能体。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/3yqibkibOynvnt8l6x7WTJkHxwrob1qfGbmj66zdGo1j2rn1tRYG3ozq26jCyzpia9sgNond4DGShJVIpXnadm5gFSOd1wN6uoMweM7RjeEfuM/640?wx_fmt=png&from=appmsg)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/3yqibkibOynvnt8l6x7WTJkHxwrob1qfGbmj66zdGo1j2rn1tRYG3ozq26jCyzpia9sgNond4DGShJVIpXnadm5gFSOd1wN6uoMweM7RjeEfuM/640?wx_fmt=png&from=appmsg)
 
 ## 三、它和 Gissing AI 有什么关系
 
@@ -104,7 +104,7 @@ Harness 智能体不适合一上来就处理高风险决策。更稳妥的做法
 
 •对文档标签、摘要、分类进行补齐和校对。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/3yqibkibOynvnlXEPllDAl8TAmVADkiaicygRBpVETgyfuicaOWC3zrh0BicHicIEnXUOMAeXB50DIBKibdxGntSSaWIgZo8VSN79a2xLIn8t7Sqowk/640?wx_fmt=png&from=appmsg)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/3yqibkibOynvnlXEPllDAl8TAmVADkiaicygRBpVETgyfuicaOWC3zrh0BicHicIEnXUOMAeXB50DIBKibdxGntSSaWIgZo8VSN79a2xLIn8t7Sqowk/640?wx_fmt=png&from=appmsg)
 
 这些场景有一个共同点：目标清楚，结果容易检查，责任边界也比较明确。
 

@@ -54,14 +54,14 @@ tags:
 
 在搭建日志哨兵之前，我们的集群已经部署了完整的可观测性栈：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4OkmvvGLKYaZgANogeG1Ba42VSzhlaict3JlZAPD2K3bT5oIwBpvBZ1L61VZY3kmSl0V00GW38iayZcxqFI45DWIUdFCMtw9Q61icHmlc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4OkmvvGLKYaZgANogeG1Ba42VSzhlaict3JlZAPD2K3bT5oIwBpvBZ1L61VZY3kmSl0V00GW38iayZcxqFI45DWIUdFCMtw9Q61icHmlc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
 - Loki：日志采集与查询
 - Prometheus：指标采集
 - Alertmanager：告警路由
 
 这套基础设施是日志哨兵的"眼睛"——没有 Loki 的统一日志采集，Operator 就无从查起；没有 Grafana 的可视化，我们就无法快速验证日志是否被正确采集。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/okUvs4OkmvuFR8LIz59LX2Oc34JNCia5Y1PPLUK23U8y4Jnsh6EM6AkvDnOD7v3mtnqFiaxxVpOT9AWSXARYdO8T2OySlw4oaqadTychCCTSQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/okUvs4OkmvuFR8LIz59LX2Oc34JNCia5Y1PPLUK23U8y4Jnsh6EM6AkvDnOD7v3mtnqFiaxxVpOT9AWSXARYdO8T2OySlw4oaqadTychCCTSQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1)
 
 Grafana 中预置了 Kubernetes 官方 Dashboard（kubernetes-mixin），包括 API Server、计算资源、CoreDNS 等，形成了 Metrics + Logs 的完整观测面。
 
@@ -154,7 +154,7 @@ AI 充当了"第一道关卡"。只有它明确标记了
 
 ### 6.1、Kubebuilder 标准项目结构
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4OkmvskicmtUxJBDvXoCypUEYjCicR8PBqBSq08vsCKIjXALBY8wY5j0KvhdSvbfj07Brj1ibp9oWMaAELlj1fpZ1HjglLOjK5GbzLMy0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4OkmvskicmtUxJBDvXoCypUEYjCicR8PBqBSq08vsCKIjXALBY8wY5j0KvhdSvbfj07Brj1ibp9oWMaAELlj1fpZ1HjglLOjK5GbzLMy0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2)
 
 ### 这是一个标准的 Kubebuilder 项目：
 
@@ -166,7 +166,7 @@ AI 充当了"第一道关卡"。只有它明确标记了
 
 6.2、镜像构建与推送
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/okUvs4OkmvsV2XMz52zXicoibgFcjU1zibEoxJnGic0v2SbueajJEpezh6tlaL7QjQU62QVZib53VqoIJxicJG5BtviaE588OMicibhHxMkia3eTCicom8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/okUvs4OkmvsV2XMz52zXicoibgFcjU1zibEoxJnGic0v2SbueajJEpezh6tlaL7QjQU62QVZib53VqoIJxicJG5BtviaE588OMicibhHxMkia3eTCicom8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3)
 
 ```apache
 docker build -t registry.cn-hangzhou.aliyuncs.com/little-grass/logsentinel:v1.0.1 .docker push registry.cn-hangzhou.aliyuncs.com/little-grass/logsentinel:v1.0.1
@@ -191,7 +191,7 @@ apiVersion: apps/v1kind: Deploymentmetadata:  name: logsentinel  labels:    app:
 
 实际部署验证：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4Okmvv9C8Evm7UoTU3RN8Tc4LGd8P1VKtTHoejZDtOtBApdZfkINB9DY5kUK6ZbUalKw9aj85uo6UibLE0SnsHQsHJPkrt4MxiaYD7k4/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4Okmvv9C8Evm7UoTU3RN8Tc4LGd8P1VKtTHoejZDtOtBApdZfkINB9DY5kUK6ZbUalKw9aj85uo6UibLE0SnsHQsHJPkrt4MxiaYD7k4/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4)
 
 Pod 成功运行，日志模拟器开始输出各类业务日志。
 
@@ -213,7 +213,7 @@ kubectl delete -f config/samples/sentinel_v1_logrule.yamlkubectl apply -f config
 
 为了验证日志哨兵的效果，我编写了一个 Go 模拟器，部署在 K8s 中作为被监控目标。它模拟了一个真实的订单服务，涵盖四大类日志场景：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4OkmvtX316RkOHF75YibkdwlqgrC7Q6Miad2ibq1HMF56g2iaRMJTPstEibHERPruj0txqfhCeGzyNv8UsSXvfUfC6RkVrzUibS0XNLOWJU0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4OkmvtX316RkOHF75YibkdwlqgrC7Q6Miad2ibq1HMF56g2iaRMJTPstEibHERPruj0txqfhCeGzyNv8UsSXvfUfC6RkVrzUibS0XNLOWJU0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5)
 
 **这个模拟器的设计意图：**
 
@@ -230,7 +230,7 @@ kubectl delete -f config/samples/sentinel_v1_logrule.yamlkubectl apply -f config
 
 8.1、Loki侧：原始日志采集
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/okUvs4OkmvvtIE1dcuAYVA7eGvm48B4Ujm4etmjOb66gBEyF4yMwDMzGyVm9S7Rh3HbFyTbcPfIq3BMicN97KvwibqLOm8VoD6cIl5HVhk9wI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/okUvs4OkmvvtIE1dcuAYVA7eGvm48B4Ujm4etmjOb66gBEyF4yMwDMzGyVm9S7Rh3HbFyTbcPfIq3BMicN97KvwibqLOm8VoD6cIl5HVhk9wI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6)
 
 在 Grafana Explore 中执行 LogQL：
 
@@ -244,7 +244,7 @@ kubectl delete -f config/samples/sentinel_v1_logrule.yamlkubectl apply -f config
 
 这是日志哨兵 Pod 的实际运行输出，可以看到完整的处理链路：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4Okmvv9KAfb1ic8k5YFOE38zOcibia5yXiaAQafkIAHaY6ZwiaSGdFBfbey9HtiaadvBxDYiaS14icOS9N4UqEsicJyKk1I7JgxEZduGl6JsUqI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_png/okUvs4Okmvv9KAfb1ic8k5YFOE38zOcibia5yXiaAQafkIAHaY6ZwiaSGdFBfbey9HtiaadvBxDYiaS14icOS9N4UqEsicJyKk1I7JgxEZduGl6JsUqI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7)
 
 **关键信息解读：**
 
@@ -261,7 +261,7 @@ kubectl delete -f config/samples/sentinel_v1_logrule.yamlkubectl apply -f config
 
 AI 给出的分析非常结构化，不再是满屏的日志原文，而是一份带结论的"运维日报"：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/okUvs4Okmvsiaw0GMVVct6JonCJQdHrqbw7JQUMu5npf7FNjPnmcvoHDwdIky3G7G2xLt3QMIhyJs24RO7Am4zHoa1XvpnZ4DJjCoHBrvd78/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8)
+![图片](https://wsrv.nl/?url=https://mmbiz.qpic.cn/mmbiz_png/okUvs4Okmvsiaw0GMVVct6JonCJQdHrqbw7JQUMu5npf7FNjPnmcvoHDwdIky3G7G2xLt3QMIhyJs24RO7Am4zHoa1XvpnZ4DJjCoHBrvd78/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8)
 
 **日志总结** ： "本次共检测到 3 条 ERROR 日志。其中欺诈交易和 SQL 注入已被系统成功拦截，属于安全告警，未造成服务受损； **但数据库连接池耗尽（500/500）可能导致应用服务停滞，建议优先处理并通知运营团队。**
 

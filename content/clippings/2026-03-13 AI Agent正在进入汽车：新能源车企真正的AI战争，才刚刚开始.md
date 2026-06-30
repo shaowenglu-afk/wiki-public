@@ -23,7 +23,7 @@ tags:
 
 # AI Agent正在进入汽车：新能源车企真正的AI战争，才刚刚开始
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AyWiaNXnhtfMUW79bQ4d1gf954iaibia1hYCrxuVT6Ncv7UFlITYO3c8ia1h6BLwIgo4gfeSc8mKfT9kViay0Zqnh9IoYfRl9OLaibdCnDHOzicROnY/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=0)
+![](https://wsrv.nl/?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/AyWiaNXnhtfMUW79bQ4d1gf954iaibia1hYCrxuVT6Ncv7UFlITYO3c8ia1h6BLwIgo4gfeSc8mKfT9kViay0Zqnh9IoYfRl9OLaibdCnDHOzicROnY/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=0)
 
 **# 晴天科技预测，新能源车的下一场白热化竞争场景：从电动化到AI Agent化
 

@@ -61,6 +61,40 @@ find "$QUARTZ_CONTENT" -type f -name "*.md" -not -path "*/clippings/*" -exec \
   sed -i '' -E 's|\[\[Clippings/([^]|]+)(\|[^]]*)?\]\]|[原文](/clippings/\1)|g' {} \;
 
 echo ""
+echo "🖼️  Step 3.5: 微信图片代理重写（绕过 mmbiz 防盗链）"
+# 把所有 mmbiz.qpic.cn 图片 URL 替换为 wsrv.nl 代理 URL
+# wsrv.nl 不查 Referer，能拿到原图
+python3 << 'PYEOF'
+import os, re
+
+QUARTZ_CONTENT = os.path.dirname(os.path.abspath(__file__)) + "/content/clippings"
+
+count = 0
+files_changed = 0
+for fname in os.listdir(QUARTZ_CONTENT):
+    if not fname.endswith(".md"): continue
+    fpath = os.path.join(QUARTZ_CONTENT, fname)
+    with open(fpath, encoding="utf-8") as f:
+        content = f.read()
+
+    # 匹配 ![](https://mmbiz.qpic.cn/...) markdown 图片
+    # 替换为 wsrv.nl 代理 URL
+    new_content = re.sub(
+        r'!\[([^\]]*)\]\((https?://mmbiz\.qpic\.cn/[^)]+)\)',
+        lambda m: f'![{m.group(1)}](https://wsrv.nl/?url={m.group(2)})',
+        content
+    )
+
+    if new_content != content:
+        with open(fpath, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        files_changed += 1
+        count += len(re.findall(r'!\[[^\]]*\]\(https://wsrv\.nl/', new_content))
+
+print(f"   ✅ 重写 {count} 张图片，跨 {files_changed} 个文件")
+PYEOF
+
+echo ""
 echo "📊 统计："
 wiki_count=$(find "$QUARTZ_CONTENT" -type f -name "*.md" -not -path "*/clippings/*" | wc -l | xargs)
 clipping_count=$(find "$QUARTZ_CONTENT/clippings" -type f -name "*.md" | wc -l | xargs)
