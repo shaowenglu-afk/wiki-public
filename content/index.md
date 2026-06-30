@@ -58,6 +58,20 @@
 | **96** | [[sources/96-AI观测站-从定位走向调查]] | 可观测性从"定位"走向"调查"范式转变 | 2026-06-25 |
 | **97** | [[sources/97-Middleware-OpsAI-AI-SRE-Agent]] | Middleware OpsAI 5 Agent 架构 + MTTR -70% | 2026-06-25 |
 | **98** | [[sources/98-Agent可观测性工具爆发五大开源项目]] | 5 大开源可观测项目（Langfuse / Phoenix / OpenLLMetry 等）| 2026-06-28 |
+| **99** | [[sources/99-CBA-DevOps-Agent-2am-on-call]] | CBA 大行：AWS frontier agent 帮 2am on-call，根因 60→30 分钟 | 2026-05-25 |
+| **100** | [[sources/100-Westpac-AIOps-CPU-Memory-Alerts]] | Westpac 渐进自动化路线 vs CBA all-in 路线 | 2026-06-22 |
+| **101** | [[sources/101-Traversal-AI-SRE-Financial-Services]] | Traversal 金融 vertical AI SRE + 3 大特殊约束 | 2026-05-18 |
+| **102** | [[sources/102-AWS-AI-powered-Resilience-Framework]] | AWS 官方韧性框架：Resilience Hub + Bedrock + FIS 闭环 | 2026-06-22 |
+| **103** | [[sources/103-ChaosEater-LLM-Chaos-Engineering-arXiv]] | arXiv 2501：LLM 全自动化混沌工程 | 2025-01-19 |
+| **104** | [[sources/104-Bizseer-必示科技-A+轮]] | 必示科技 A+ 轮（国内 AIOps 平台龙头） | 2026-05-09 |
+| **105** | [[sources/105-苏宁-知识图谱告警收敛RCA]] | 苏宁知识图谱告警收敛 + RCA 实战 | 2026-01-01 |
+| **106** | [[sources/106-得物-LLM-Agent告警排查]] | 得物 ReAct Agent 重构告警排查 10 章实战 | 2026-06-04 |
+| **107** | [[sources/107-Gojek-AI-Brain-Observability]] | Gojek：给 Prom+Loki+Grafana 装 AI Brain | 2026-04-08 |
+| **108** | [[sources/108-Thoughtworks-AIOps-What-Learned-2025]] | Thoughtworks AIOps 2025 retrospective 7 大 Learning | 2026-01-30 |
+| **109** | [[sources/109-When-AI-SRE-Fails-Production-Reality]] | 极珍贵反共识：4-Agent 月烧 €8500 + 失败率 41-87% | 2026-04-24 |
+| **110** | [[sources/110-Why-General-Purpose-Agentic-AI-Breaks-Cloud-Native]] | 通用 Agent 在云原生崩溃，必须 vertical specialization | 2026-04-24 |
+| **111** | [[sources/111-TechTarget-FinOps-AI-CIOs-Tokenomics]] | TechTarget CIO 视角：AI FinOps + Tokenomics 新时代 | 2026-06-26 |
+| **112** | [[sources/112-Zylos-AI-Agent-Cost-Token-Economics]] | Zylos：Token 成本 7 大优化策略 + 蒸馏 60-90% | 2026-02-19 |
 
 ---
 
@@ -87,11 +101,13 @@
 - [[entities/OpenTelemetry]] — 云原生可观测性事实标准（AI Agent 必备底层）**2026-06-29 新增**
 
 ### AIOps / AI SRE
-- [[entities/HolmesGPT]] — CNCF Sandbox 调查 Agent **2026-06-29 新增**
-- [[entities/K8sGPT]] — CNCF Sandbox K8s 诊断 **2026-06-29 新增**
-- [[entities/Middleware-OpsAI]] — 5 Agent AI SRE 产品 **2026-06-29 新增**
-- [[entities/Datadog-Bits-AI-SRE]] — 企业级旗舰（GA 2025-12）**2026-06-29 新增**
-- [[entities/OpenObserve]] — 开源高性能可观测平台 **2026-06-29 新增**
+- [[entities/HolmesGPT]] — CNCF Sandbox 调查 Agent
+- [[entities/K8sGPT]] — CNCF Sandbox K8s 诊断
+- [[entities/Middleware-OpsAI]] — 5 Agent AI SRE 产品
+- [[entities/Datadog-Bits-AI-SRE]] — 企业级旗舰（GA 2025-12）
+- [[entities/OpenObserve]] — 开源高性能可观测平台
+- [[entities/Bizseer-必示科技]] — 国内 AIOps 平台代表（清华裴丹团队）**2026-06-30 新增**
+- [[entities/Traversal]] — 金融 vertical AI SRE（AMEX 实证 82% 准确率）**2026-06-30 新增**
 
 ### 大模型 & OCR
 - [[entities/DeepSeek]] — 高性价比开源路线引领者
@@ -117,13 +133,15 @@
 - [[concepts/AIOps-2026-全景综述]] — **AIOps 2026 全景综述**：AIOps + AI SRE 双轨制 + 4 大范式转变 + 5 Agent 标准架构 + 工具栈 + 3 大反共识（**2026-06-29 新增 · 跨 19 篇 source 综合**）
 - [[concepts/AI-SRE-范式]] — AI SRE 5 大转变 + 标准 5 Agent + 4 步采用路线 + 4 大陷阱 **2026-06-29 新增**
 - [[concepts/AI-可观测性-四维追踪]] — Prompt/Tool/Trace/Token 四维 + 3 大盲区 + 工具栈 + 4 大原则 **2026-06-29 新增**
+- [[concepts/AIOps-生产实践与反共识]] — 5 大反共识 + 真实成本数据（€8500/月）+ 5 大防护策略（**2026-06-30 新增 · 跨 6 篇 source**）
+- [[concepts/AI-FinOps-Tokenomics]] — Token 经济新时代 + 7 大优化策略 + 治理新角色（**2026-06-30 新增 · 跨 3 篇 source**）
 - [[concepts/协作范式演进]] — Prompt → Context → Harness → Agentic Engineering
 - [[concepts/扩散解码]] — 用 Diffusion 替代自回归的 OCR 新范式
 
 ---
 
 ## 📊 统计
-- Source 页：**104**（+19）/ Entity 页：**26**（+6）/ Concept 页：**17**（+3）
+- Source 页：**119**（+14）/ Entity 页：**28**（+2）/ Concept 页：**19**（+2）
 - 最近一次 ingest：2026-06-28（第 3-4 轮：低代码 + 金融智能体 + 汽车金融 vertical 主动搜索 + Playwright 反风控 + § 7 质量过滤）
 - 完整变更见 [[log]]
 

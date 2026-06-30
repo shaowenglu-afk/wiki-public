@@ -403,3 +403,52 @@
 - 与 [[concepts/金融智能体落地]] 平行（业务垂直 vs IT 垂直）
 
 **沉睡资产唤醒**：之前盘点的 18 篇孤儿 source 全部接入 wiki 图谱，wiki 综述层 AIOps 主题从 0 → 3 核心 concept。
+
+---
+
+## [2026-06-30] ingest | 第 8 轮 · AIOps 全网二次调研丰富（14 篇）
+
+**触发**：用户「aiops 全网再搜下高质量文档，和已知识不要重复」
+
+**搜索 6 个差异化角度**：金融实证 / Chaos+自愈 / 国内厂商 / 反共识 / 大厂实战 / FinOps
+
+**新增 Sources（14 篇，99-112）**：
+- 99 [[sources/99-CBA-DevOps-Agent-2am-on-call]] — 澳洲 CBA 大行案例
+- 100 [[sources/100-Westpac-AIOps-CPU-Memory-Alerts]] — Westpac 渐进路线
+- 101 [[sources/101-Traversal-AI-SRE-Financial-Services]] — 金融 vertical
+- 102 [[sources/102-AWS-AI-powered-Resilience-Framework]] — AWS 官方架构
+- 103 [[sources/103-ChaosEater-LLM-Chaos-Engineering-arXiv]] — Chaos+LLM 学术
+- 104 [[sources/104-Bizseer-必示科技-A+轮]] — 国内厂商
+- 105 [[sources/105-苏宁-知识图谱告警收敛RCA]] — 知识图谱实战
+- 106 [[sources/106-得物-LLM-Agent告警排查]] — 大厂 ReAct
+- 107 [[sources/107-Gojek-AI-Brain-Observability]] — Gojek AI Brain 模式
+- 108 [[sources/108-Thoughtworks-AIOps-What-Learned-2025]] — 业界权威反思
+- 109 [[sources/109-When-AI-SRE-Fails-Production-Reality]] — 极珍贵反共识（成本数据）
+- 110 [[sources/110-Why-General-Purpose-Agentic-AI-Breaks-Cloud-Native]] — 通用 vs 专用
+- 111 [[sources/111-TechTarget-FinOps-AI-CIOs-Tokenomics]] — CIO 视角 FinOps
+- 112 [[sources/112-Zylos-AI-Agent-Cost-Token-Economics]] — Token 7 大优化
+
+**新增 Concepts（2 个核心综述）**：
+- [[concepts/AIOps-生产实践与反共识]] —— 5 大反共识 + €8500/月真实成本 + 5 大防护策略（跨 6 sources）
+- [[concepts/AI-FinOps-Tokenomics]] —— Token 经济新时代 + 7 大优化（跨 3 sources）
+
+**新增 Entities（2 个）**：
+- [[entities/Bizseer-必示科技]] — 国内 AIOps 厂商代表
+- [[entities/Traversal]] — 金融 vertical AI SRE
+
+**Index 更新**：
+- Source 104 → **119**
+- Entity 26 → **28**
+- Concept 17 → **19**
+
+**5 大新主题维度**（与 19 篇已有 AIOps 0 重复）：
+1. **金融业大行实证**（CBA / Westpac / AMEX）
+2. **AIOps 反共识与失败模式**（4-Agent 月烧 €8500 / 失败率 41-87%）
+3. **AI FinOps + Tokenomics**（全新主题，与 Token 维度联动）
+4. **国内厂商生态**（必示科技 + 苏宁 + 得物，与之前微博形成 4 大厂集群）
+5. **Chaos+自愈一体化**（AWS Resilience Hub + ChaosEater LLM）
+
+**关键反共识**：
+- "AIOps = 自主修复"是营销话术，实证最高价值在"知识层"（Thoughtworks）
+- 通用 Agent 在云原生崩溃，**vertical specialization 是下半场**
+- 4-Agent 系统月烧 €8500 是真实成本（vs 单 LLM €50，15x）
