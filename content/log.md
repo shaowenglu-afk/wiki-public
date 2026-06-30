@@ -452,3 +452,44 @@
 - "AIOps = 自主修复"是营销话术，实证最高价值在"知识层"（Thoughtworks）
 - 通用 Agent 在云原生崩溃，**vertical specialization 是下半场**
 - 4-Agent 系统月烧 €8500 是真实成本（vs 单 LLM €50，15x）
+
+---
+
+## [2026-06-30] ingest | 第 9 轮 · AI 时代运维人员技能要求（13 篇）
+
+**触发**：用户「全网搜索 AI 时代运维人员技能要求 最近半年」
+
+**搜索 4 个差异化角度**：英文技能体系 / AIOps 招聘 JD / 中文转型 / 反共识替代风险
+
+**新增 Sources（13 篇，113-125）**：
+- 113 [[sources/113-Google-SRE-AI-白皮书-Tony-Bai解读]] —— 谷歌官方 + 中文解读 ⭐⭐⭐
+- 114 [[sources/114-AI运维进化拐点-可版本化Skills]] —— Skills as Code 全新视角 ⭐⭐⭐
+- 115 [[sources/115-AIOps-Skills-Matrix-2026]] —— 3 级能力矩阵
+- 116 [[sources/116-CTAIO-AI-SRE-Converging-Model]] —— 角色融合理论
+- 117 [[sources/117-Selector-AIOps-Engineer-Responsibilities]] —— 6 大职责
+- 118 [[sources/118-Equinix-JD-Staff-Engineer-Agentic-AIOps]] —— 真实 JD 一手
+- 119 [[sources/119-Grras-AI-Skills-DevOps-2026]] —— 5 大必学
+- 120 [[sources/120-51CTO-AI运维-定义指标技能职业发展]] —— 国内系统化
+- 121 [[sources/121-腾讯云-道心不死-赌运维生涯]] —— 主观视角心声
+- 122 [[sources/122-北塔-脚本编写者-向算法调优师转型]] —— 国内厂商视角
+- 123 [[sources/123-TechCrunch-Engineering-Jobs-Resilient]] —— TechCrunch 数据反共识 ⭐⭐
+- 124 [[sources/124-Obsium-AI-Cant-Replace-SRE-Yet]] —— 工程师视角
+- 125 [[sources/125-BCG-AI-Reshape-More-Than-Replaces]] —— BCG 权威
+
+**新增 Concept**：
+- [[concepts/AI时代运维转型与技能体系]] —— **"人"的视角综合**，跨 13 sources：4 阶段角色演进 + 3 级能力矩阵 + 5 大必学技能 + 3 条转型路径 + 5 大转型动作 + 3 大反共识
+
+**Index 更新**：
+- Source 119 → **132**
+- Concept 19 → **20**
+
+**4 大行业共识**：
+1. 运维不会消失，会被增强（TechCrunch +8-12% / BCG 75% 增强型）
+2. 传统技能贬值，新技能溢价（"AI 不替代你，会用 AI 的人替代你"）
+3. 角色融合（Cloud + SRE + AI 工程三领域跨界）
+4. 经验沉淀化、版本化（Skills as Code）
+
+**与之前 AIOps wiki 的关系**：
+- 之前 8 轮 AIOps 都是**"系统/技术"视角**（怎么建平台）
+- 本轮是**"人"视角**（运维人员怎么转型）
+- 完美互补，wiki 知识体系从 "How to build" 升级到 "Who to become"

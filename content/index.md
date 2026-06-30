@@ -72,6 +72,19 @@
 | **110** | [[sources/110-Why-General-Purpose-Agentic-AI-Breaks-Cloud-Native]] | 通用 Agent 在云原生崩溃，必须 vertical specialization | 2026-04-24 |
 | **111** | [[sources/111-TechTarget-FinOps-AI-CIOs-Tokenomics]] | TechTarget CIO 视角：AI FinOps + Tokenomics 新时代 | 2026-06-26 |
 | **112** | [[sources/112-Zylos-AI-Agent-Cost-Token-Economics]] | Zylos：Token 成本 7 大优化策略 + 蒸馏 60-90% | 2026-02-19 |
+| **113** | [[sources/113-Google-SRE-AI-白皮书-Tony-Bai解读]] | Google SRE 白皮书：5 级自治 + 冷热解耦 + IRM/InvD/Antigravity | 2026-06-15 |
+| **114** | [[sources/114-AI运维进化拐点-可版本化Skills]] | 比大模型更重要：可版本化运维 Skills（Skills as Code）| 2026-06-09 |
+| **115** | [[sources/115-AIOps-Skills-Matrix-2026]] | AIOps 技能矩阵：3 级能力 + 4 大角色 + 3 条转型路径 | 2026-04-23 |
+| **116** | [[sources/116-CTAIO-AI-SRE-Converging-Model]] | AI SRE = Cloud + SRE + AI 三领域融合 | 2026-04-21 |
+| **117** | [[sources/117-Selector-AIOps-Engineer-Responsibilities]] | AIOps Engineer 6 大核心职责 | 2026-03-05 |
+| **118** | [[sources/118-Equinix-JD-Staff-Engineer-Agentic-AIOps]] | Equinix Staff Engineer JD：Agentic AIOps + MCP + Context | 2026-06-30 |
+| **119** | [[sources/119-Grras-AI-Skills-DevOps-2026]] | 为什么 Cloud/DevOps 必须懂 AI：5 大必学 + 6 大实操 | 2026-05-26 |
+| **120** | [[sources/120-51CTO-AI运维-定义指标技能职业发展]] | 51CTO：AI 运维定义 + 指标 + 5 大技能 + 4 阶段路径 | 2026-03-01 |
+| **121** | [[sources/121-腾讯云-道心不死-赌运维生涯]] | 运维心声：'AI 不替代你，会用 AI 的人替代你' | 2026-01-15 |
+| **122** | [[sources/122-北塔-脚本编写者-向算法调优师转型]] | 北塔 4 阶段演进：手工→脚本→平台→算法调优师 | 2026-03-13 |
+| **123** | [[sources/123-TechCrunch-Engineering-Jobs-Resilient]] | TechCrunch 数据反共识：工程师最抗替代 +8-12% | 2026-06-24 |
+| **124** | [[sources/124-Obsium-AI-Cant-Replace-SRE-Yet]] | AI 还做不到 5 件事 + 3 个仍需人核心场景 | 2026-05-26 |
+| **125** | [[sources/125-BCG-AI-Reshape-More-Than-Replaces]] | BCG：75% 增强型 / 20% 重塑 / 仅 5% 真替代 | 2026-03-31 |
 
 ---
 
@@ -135,13 +148,14 @@
 - [[concepts/AI-可观测性-四维追踪]] — Prompt/Tool/Trace/Token 四维 + 3 大盲区 + 工具栈 + 4 大原则 **2026-06-29 新增**
 - [[concepts/AIOps-生产实践与反共识]] — 5 大反共识 + 真实成本数据（€8500/月）+ 5 大防护策略（**2026-06-30 新增 · 跨 6 篇 source**）
 - [[concepts/AI-FinOps-Tokenomics]] — Token 经济新时代 + 7 大优化策略 + 治理新角色（**2026-06-30 新增 · 跨 3 篇 source**）
+- [[concepts/AI时代运维转型与技能体系]] — 4 阶段角色演进 + 3 级能力矩阵 + 5 大必学 + 5 大转型动作 + 3 大反共识（**2026-06-30 新增 · 跨 13 篇 source · "人"的视角**）
 - [[concepts/协作范式演进]] — Prompt → Context → Harness → Agentic Engineering
 - [[concepts/扩散解码]] — 用 Diffusion 替代自回归的 OCR 新范式
 
 ---
 
 ## 📊 统计
-- Source 页：**119**（+14）/ Entity 页：**28**（+2）/ Concept 页：**19**（+2）
+- Source 页：**132**（+13）/ Entity 页：**28** / Concept 页：**20**（+1）
 - 最近一次 ingest：2026-06-28（第 3-4 轮：低代码 + 金融智能体 + 汽车金融 vertical 主动搜索 + Playwright 反风控 + § 7 质量过滤）
 - 完整变更见 [[log]]
 
