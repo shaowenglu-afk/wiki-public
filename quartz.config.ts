@@ -27,32 +27,35 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Noto Serif SC", // 中文衬线
-        body: "Noto Sans SC", // 中文无衬线
-        code: "JetBrains Mono",
+        // Quartz 出厂默认
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
       },
       colors: {
+        // Quartz 出厂默认（浅色）
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#1E2761", // Midnight Executive Navy
-          secondary: "#1E2761",
-          tertiary: "#D4AF37", // Gold
-          highlight: "rgba(212, 175, 55, 0.15)",
-          textHighlight: "#D4AF3766",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
+        // Quartz 出厂默认（深色）
         darkMode: {
-          light: "#0F1437", // Dark navy
-          lightgray: "#1E2761",
+          light: "#161618",
+          lightgray: "#393639",
           gray: "#646464",
-          darkgray: "#CADCFC", // Ice blue
-          dark: "#FFFFFF",
-          secondary: "#CADCFC",
-          tertiary: "#D4AF37", // Gold
-          highlight: "rgba(212, 175, 55, 0.15)",
-          textHighlight: "#D4AF3766",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
