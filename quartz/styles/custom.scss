@@ -43,6 +43,15 @@ article {
 }
 
 // ═══════════════════════════════════════════════════════════
+// 首页隐藏 article-title（tab title 已有站名，避免重复）
+// ═══════════════════════════════════════════════════════════
+
+body[data-slug="index"] .article-title,
+body[data-slug="index"] .breadcrumb-container {
+  display: none;
+}
+
+// ═══════════════════════════════════════════════════════════
 // Headers · Tight tracking + text-wrap balance（避免孤字）
 // ═══════════════════════════════════════════════════════════
 
