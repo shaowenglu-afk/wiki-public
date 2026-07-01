@@ -3,13 +3,23 @@ title: 邵的第二大脑
 description: Shao's Second Brain — AI 智能体、AIOps、金融科技、企业架构的中英双语知识库。参考 Karpathy LLM Wiki 方法论搭建。20 篇深度综述 · 132 篇一手 source · 每周更新。
 ---
 
-# 邵的第二大脑 · Shao's Second Brain
-
 > 参考 **[Karpathy LLM Wiki 方法论](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** 搭建的第二大脑。用 LLM 处理知识、综合知识、思考、记忆。
 >
 > 主题：**AI 智能体 / AIOps / 金融科技 / 企业架构** · 中英双语 · 每周更新
 >
 > **20** 深度综述 · **132** 一手 source · **28** 工具实体 · **111** 篇 clippings 原文全文可搜
+
+---
+
+## 🕸️ 知识图谱
+
+**132 篇 source + 20 综述 + 28 实体** 之间的引用关系，交互式可视化。
+
+<div style="border: 1px solid var(--lightgray); border-radius: 8px; padding: 1rem 1.2rem; background: var(--light); margin: 1.2rem 0;">
+<strong style="font-size: 1.05rem;">→ <a href="graph">进入交互式知识图谱</a></strong>
+<br/>
+<span style="color: var(--gray); font-size: 0.9rem;">点击节点跳转，拖动探索连接关系。看 AIOps 主题的 32 篇如何连成一片；看 Karpathy 3 层架构如何被 wikilink 串联。</span>
+</div>
 
 ---
 
