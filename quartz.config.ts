@@ -27,35 +27,35 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        // Quartz 出厂默认
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        // Geist（Vercel）现代克制无衬线 + Geist Mono
+        header: "Geist",
+        body: "Geist",
+        code: "Geist Mono",
       },
       colors: {
-        // Quartz 出厂默认（浅色）
+        // 浅色：暖米白 + 暖橙 accent（Rauno / iA Writer 风）
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fafaf9",         // 暖米白背景（偏黄）
+          lightgray: "#e7e5e4",     // 分隔线（暖 stone-200）
+          gray: "#a8a29e",          // 次要文字（暖 stone-400）
+          darkgray: "#57534e",      // 主文字次级（stone-600）
+          dark: "#1c1917",          // 标题黑（stone-900 偏暖）
+          secondary: "#c2410c",     // 暖橙 accent（链接）
+          tertiary: "#9a3412",      // 深橙（强调）
+          highlight: "rgba(194, 65, 12, 0.08)",
+          textHighlight: "#fed7aa88",
         },
-        // Quartz 出厂默认（深色）
+        // 深色：偏暖 off-black + 暖橙 accent
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0c0a09",         // 偏暖 off-black 背景
+          lightgray: "#292524",     // 分隔线 / card 边框（stone-800）
+          gray: "#78716c",          // 次要文字（stone-500）
+          darkgray: "#d6d3d1",      // 主文字（stone-300 偏暖）
+          dark: "#fafaf9",          // 标题白（stone-50 偏暖）
+          secondary: "#fb923c",     // 暖橙 accent（链接，稍亮）
+          tertiary: "#f97316",      // 深橙（强调）
+          highlight: "rgba(251, 146, 60, 0.10)",
+          textHighlight: "#fdba7488",
         },
       },
     },
