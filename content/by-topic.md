@@ -9,6 +9,30 @@ description: 132 篇 sources 按主题分类导航
 
 ---
 
+## 🏆 国内智能体平台横评（12 sources · 2026-07 新增）
+
+**深度综述先读**：[[concepts/国内智能体平台横评-2026]] ⭐⭐⭐
+
+**大厂横评**：
+- [[sources/126-腾讯云-6大Agent平台横评]] — Coze/Dify/百炼/千帆/Copilot/LangGraph ⭐⭐
+- [[sources/127-搜狐-国产AI六巨头逐鹿Agent]] — 六大厂商 Claude Code 对标 ⭐⭐
+- [[sources/128-CSDN-40款龙虾工具横评]] — 40 款龙虾全景盘点 ⭐⭐⭐
+- [[sources/129-苏米客-4款通用智能体深度横评]] — DuMate/WorkBuddy/QoderWork/QClaw
+- [[sources/130-新浪财经-三只国产龙虾比较]] — WorkBuddy/ArkClaw/CoPaw 战略路线对比 ⭐⭐
+
+**产品深度**：
+- [[sources/133-36kr-腾讯QClaw体验]] — 微信集成通用 Agent ⭐⭐
+- [[sources/134-Manus深度评测]] — 全球首款通用型 Agent + GAIA SOTA ⭐⭐⭐
+- [[sources/135-Genspark深度评测]] — Super Agent 平台 + 电话外呼 ⭐⭐
+- [[sources/136-36kr-五款办公Agent实测]] — WorkBuddy/DuMate/悟空/豆包 ⭐⭐
+- [[sources/137-53AI-一文吃透WorkBuddy]] — WorkBuddy 完整教程
+
+**反共识（最珍贵）**：
+- [[sources/131-36kr-养虾人为什么卸载龙虾]] — OpenClaw 卸载潮 6 位用户实录 ⭐⭐⭐
+- [[sources/132-阿里CoPaw上手体验]] — 开源不等于稳定
+
+---
+
 ## 🤖 AI 智能体架构（12 sources）
 
 **深度综述先读**：[[concepts/Enterprise-Agent-Architecture-2026]] ⭐⭐⭐
