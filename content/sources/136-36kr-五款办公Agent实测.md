@@ -6,7 +6,7 @@ source-type: 办公场景横评
 lang: zh-CN
 source-url: https://36kr.com/p/3868529576655491
 published: 2026-07-04
-raw: '[[Clippings/2026-07-国内Agent平台横评/W1-五款办公Agent|原文全文]]'
+raw: '[[Clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/WorkBuddy]]'

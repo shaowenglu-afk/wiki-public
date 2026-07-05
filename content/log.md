@@ -18,7 +18,7 @@
   - **反共识** 2 篇：131（养虾人卸载龙虾）/ 132（阿里 CoPaw 稳定性差）
 - **7 个新 entity**：
   - QClaw / WorkBuddy / DuMate / Manus / Genspark / ArkClaw / CoPaw
-- **12 篇 clippings 原文**：`Clippings/2026-07-国内Agent平台横评/`（wsrv 图片代理已处理）
+- **12 篇 clippings 原文**：扁平放于 `Clippings/2026-07-04 <标题>.md`（遵循既有约定，wsrv 图片代理已处理）
 
 **核心洞察**：
 - 40+ 款龙虾混战，能真正商用的 <10 款

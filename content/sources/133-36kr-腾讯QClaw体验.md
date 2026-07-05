@@ -6,7 +6,7 @@ source-type: 用户上手体验
 lang: zh-CN
 source-url: https://www.36kr.com/p/3728581722092039
 published: 2026-07-04
-raw: '[[Clippings/2026-07-国内Agent平台横评/T1-腾讯QClaw|原文全文]]'
+raw: '[[Clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/QClaw]]'

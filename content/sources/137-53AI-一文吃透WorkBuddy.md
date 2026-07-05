@@ -6,7 +6,7 @@ source-type: 产品完整教程
 lang: zh-CN
 source-url: https://www.53ai.com/news/shuziyuangong/2026070251790.html
 published: 2026-07-02
-raw: '[[Clippings/2026-07-国内Agent平台横评/W2-WorkBuddy吃透|原文全文]]'
+raw: '[[Clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/WorkBuddy]]'

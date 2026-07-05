@@ -5,7 +5,7 @@ tags: [wiki, source, Agent-platform, Coze, Dify, Qianfan, LangGraph, 横评, 202
 source-type: 技术横评
 lang: zh-CN
 source-url: https://developer.cloud.tencent.com/article/2674338
-raw: '[[Clippings/2026-07-国内Agent平台横评/G2-6大平台|原文全文]]'
+raw: '[[Clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Coze]]'

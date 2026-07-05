@@ -5,7 +5,7 @@ tags: [wiki, source, Agent-platform, Genspark, Super-Agent, 多模型协同, 202
 source-type: 用户深度评测
 lang: zh-CN
 source-url: https://www.aixq.cc/34877.html
-raw: '[[Clippings/2026-07-国内Agent平台横评/U2-Genspark评测|原文全文]]'
+raw: '[[Clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Genspark]]'

@@ -6,7 +6,7 @@ source-type: 行业深度分析
 lang: zh-CN
 source-url: https://www.sohu.com/a/1044622488_116157
 published: 2026-07-02
-raw: '[[Clippings/2026-07-国内Agent平台横评/G3-六巨头|原文全文]]'
+raw: '[[Clippings/2026-07-04 国产AI六巨头逐鹿Agent 望得到Claude Code的背影吗|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/DeepSeek]]'

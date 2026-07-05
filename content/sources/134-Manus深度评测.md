@@ -5,7 +5,7 @@ tags: [wiki, source, Agent-platform, Manus, 通用Agent, GAIA基准, 2026]
 source-type: 用户深度评测
 lang: zh-CN
 source-url: https://www.aixq.cc/26259.html
-raw: '[[Clippings/2026-07-国内Agent平台横评/U1-Manus评测|原文全文]]'
+raw: '[[Clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Manus]]'
