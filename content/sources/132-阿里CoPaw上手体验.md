@@ -6,7 +6,7 @@ source-type: 用户上手体验
 lang: zh-CN
 source-url: https://neusoftware.top/articles/2026/03/02/1772449063383.html
 raw:
-  - '[[Clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思|原文全文]]'
+  - '[原文](/clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思)'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/CoPaw]]'
@@ -51,5 +51,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思)
 - 官方链接：<https://neusoftware.top/articles/2026/03/02/1772449063383.html>

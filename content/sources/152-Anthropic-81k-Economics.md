@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/81k-economics
 published: 2026-04-22
 raw:
-  - '[[Clippings/2026-04-22 Anthropic - What 81,000 people told us about the economics of AI|原文全文]]'
+  - '[原文](/clippings/2026-04-22 Anthropic - What 81,000 people told us about the economics of AI)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-04-22 Anthropic - What 81,000 people told us about the economics of AI|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-04-22 Anthropic - What 81,000 people told us about the economics of AI)
 - 官方链接：<https://www.anthropic.com/research/81k-economics>

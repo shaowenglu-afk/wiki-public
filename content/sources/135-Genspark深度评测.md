@@ -6,7 +6,7 @@ source-type: 用户深度评测
 lang: zh-CN
 source-url: https://www.aixq.cc/34877.html
 raw:
-  - '[[Clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打|原文全文]]'
+  - '[原文](/clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打)'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Genspark]]'
@@ -53,5 +53,5 @@ Genspark 由 MainFunc 公司打造，创始团队来自前百度小度核心管�
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打)
 - 官方链接：<https://www.aixq.cc/34877.html>

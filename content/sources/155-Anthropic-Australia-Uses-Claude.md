@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/how-australia-uses-claude
 published: 2026-03-31
 raw:
-  - '[[Clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index|原文全文]]'
+  - '[原文](/clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ Economic Index 澳大利亚国家简报：澳洲用户 Claude 使用画像。是
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index)
 - 官方链接：<https://www.anthropic.com/research/how-australia-uses-claude>

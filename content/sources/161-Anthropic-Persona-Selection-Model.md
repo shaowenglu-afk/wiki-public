@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/persona-selection-model
 published: 2026-02-23
 raw:
-  - '[[Clippings/2026-02-23 Anthropic - The persona selection model|原文全文]]'
+  - '[原文](/clippings/2026-02-23 Anthropic - The persona selection model)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-02-23 Anthropic - The persona selection model|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-02-23 Anthropic - The persona selection model)
 - 官方链接：<https://www.anthropic.com/research/persona-selection-model>

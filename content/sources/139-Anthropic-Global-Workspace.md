@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/global-workspace
 published: 2026-07-06
 raw:
-  - '[[Clippings/2026-07-06 Anthropic - A global workspace in language models|原文全文]]'
+  - '[原文](/clippings/2026-07-06 Anthropic - A global workspace in language models)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -37,5 +37,5 @@ Interpretability 团队发现 LLM 内部存在类似认知科学中"**Global Wor
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-07-06 Anthropic - A global workspace in language models|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-07-06 Anthropic - A global workspace in language models)
 - 官方链接：<https://www.anthropic.com/research/global-workspace>

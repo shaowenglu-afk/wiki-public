@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/off-switch-dual-use
 published: 2026-07-08
 raw:
-  - '[[Clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models|原文全文]]'
+  - '[原文](/clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[entities/Anthropic-Research]]'
@@ -39,5 +39,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models)
 - 官方链接：<https://www.anthropic.com/research/off-switch-dual-use>

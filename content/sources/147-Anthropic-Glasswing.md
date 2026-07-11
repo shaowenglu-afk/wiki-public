@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/glasswing-initial-update
 published: 2026-05-22
 raw:
-  - '[[Clippings/2026-05-22 Anthropic - Project Glasswing An initial update|原文全文]]'
+  - '[原文](/clippings/2026-05-22 Anthropic - Project Glasswing An initial update)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ Project Glasswing 首份更新：Anthropic **观测前沿模型在真实网络�
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-05-22 Anthropic - Project Glasswing An initial update|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-05-22 Anthropic - Project Glasswing An initial update)
 - 官方链接：<https://www.anthropic.com/research/glasswing-initial-update>

@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/introducing-anthropic-science
 published: 2026-03-23
 raw:
-  - '[[Clippings/2026-03-23 Anthropic - Introducing our Science Blog|原文全文]]'
+  - '[原文](/clippings/2026-03-23 Anthropic - Introducing our Science Blog)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ Anthropic 正式启动 **Science Blog**：把 AI 用于 STEM 科研的进展单�
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-03-23 Anthropic - Introducing our Science Blog|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-03-23 Anthropic - Introducing our Science Blog)
 - 官方链接：<https://www.anthropic.com/research/introducing-anthropic-science>

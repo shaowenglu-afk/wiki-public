@@ -7,7 +7,7 @@ lang: zh-CN
 source-url: https://www.36kr.com/p/3728581722092039
 published: 2026-07-04
 raw:
-  - '[[Clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙|原文全文]]'
+  - '[原文](/clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙)'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/QClaw]]'
@@ -52,5 +52,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙)
 - 官方链接：<https://www.36kr.com/p/3728581722092039>

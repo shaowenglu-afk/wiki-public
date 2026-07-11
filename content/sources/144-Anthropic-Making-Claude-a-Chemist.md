@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/making-claude-a-chemist
 published: 2026-06-05
 raw:
-  - '[[Clippings/2026-06-05 Anthropic - Making Claude a chemist|原文全文]]'
+  - '[原文](/clippings/2026-06-05 Anthropic - Making Claude a chemist)'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-06-05 Anthropic - Making Claude a chemist|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-06-05 Anthropic - Making Claude a chemist)
 - 官方链接：<https://www.anthropic.com/research/making-claude-a-chemist>

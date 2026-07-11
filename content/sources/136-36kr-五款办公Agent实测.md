@@ -7,7 +7,7 @@ lang: zh-CN
 source-url: https://36kr.com/p/3868529576655491
 published: 2026-07-04
 raw:
-  - '[[Clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包|原文全文]]'
+  - '[原文](/clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包)'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/WorkBuddy]]'
@@ -58,5 +58,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[[Clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包|原文全文]]
+- 本地剪藏：[原文](/clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包)
 - 官方链接：<https://36kr.com/p/3868529576655491>
