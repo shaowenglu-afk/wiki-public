@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/project-fetch-phase-two
 published: 2026-06-18
 raw:
-  - '[原文](/clippings/2026-06-18 Anthropic - Project Fetch Phase two)'
+  - '[[clippings/2026-06-18 Anthropic - Project Fetch Phase two|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[entities/Project-Fetch]]'
@@ -38,5 +38,5 @@ Project Fetch 二期：让 Claude 训练**四足机器狗**执行复杂任务。
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-06-18 Anthropic - Project Fetch Phase two)
+- 本地剪藏：[[clippings/2026-06-18 Anthropic - Project Fetch Phase two|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/project-fetch-phase-two>

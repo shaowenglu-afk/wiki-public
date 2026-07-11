@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/economic-index-june-2026-report
 published: 2026-06-26
 raw:
-  - '[原文](/clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences)'
+  - '[[clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -37,5 +37,5 @@ Anthropic Economic Index 首次做**小时级采样**：**什么时段人们找 
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences)
+- 本地剪藏：[[clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/economic-index-june-2026-report>

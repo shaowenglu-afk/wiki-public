@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/long-running-Claude
 published: 2026-03-23
 raw:
-  - '[原文](/clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing)'
+  - '[[clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/Harness-Engineering]]'
@@ -38,5 +38,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing)
+- 本地剪藏：[[clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/long-running-Claude>

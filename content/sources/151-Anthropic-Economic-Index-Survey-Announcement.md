@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/economic-index-survey-announcement
 published: 2026-04-22
 raw:
-  - '[原文](/clippings/2026-04-22 Anthropic - Announcing the Anthropic Economic Index Survey)'
+  - '[[clippings/2026-04-22 Anthropic - Announcing the Anthropic Economic Index Survey|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ Anthropic Economic Index 正式启动**主动问卷调研**：不再只用日志
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-04-22 Anthropic - Announcing the Anthropic Economic Index Survey)
+- 本地剪藏：[[clippings/2026-04-22 Anthropic - Announcing the Anthropic Economic Index Survey|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/economic-index-survey-announcement>

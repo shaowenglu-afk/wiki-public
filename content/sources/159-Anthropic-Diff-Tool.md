@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/diff-tool
 published: 2026-03-13
 raw:
-  - '[原文](/clippings/2026-03-13 Anthropic - A “diff” tool for AI Finding behavioral differences in new models)'
+  - '[[clippings/2026-03-13 Anthropic - A “diff” tool for AI Finding behavioral differences in new models|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/AI-可观测性-四维追踪]]'
@@ -37,5 +37,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-03-13 Anthropic - A “diff” tool for AI Finding behavioral differences in new models)
+- 本地剪藏：[[clippings/2026-03-13 Anthropic - A “diff” tool for AI Finding behavioral differences in new models|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/diff-tool>

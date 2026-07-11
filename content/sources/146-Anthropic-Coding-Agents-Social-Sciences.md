@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/coding-agents-social-sciences
 published: 2026-05-27
 raw:
-  - '[原文](/clippings/2026-05-27 Anthropic - Coding agents in the social sciences)'
+  - '[[clippings/2026-05-27 Anthropic - Coding agents in the social sciences|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-05-27 Anthropic - Coding agents in the social sciences)
+- 本地剪藏：[[clippings/2026-05-27 Anthropic - Coding agents in the social sciences|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/coding-agents-social-sciences>

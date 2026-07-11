@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/emotion-concepts-function
 published: 2026-04-02
 raw:
-  - '[原文](/clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model)'
+  - '[[clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model)
+- 本地剪藏：[[clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/emotion-concepts-function>

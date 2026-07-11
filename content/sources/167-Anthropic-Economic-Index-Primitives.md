@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/economic-index-primitives
 published: 2026-01-15
 raw:
-  - '[原文](/clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use)'
+  - '[[clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ Economic Index 方法论重构：提出**"新建构模块（primitives）"**用�
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use)
+- 本地剪藏：[[clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/economic-index-primitives>

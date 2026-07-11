@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/india-brief-economic-index
 published: 2026-02-16
 raw:
-  - '[原文](/clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index)'
+  - '[[clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ Economic Index 印度国家简报：印度用户 Claude 使用画像。是继澳
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index)
+- 本地剪藏：[[clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/india-brief-economic-index>

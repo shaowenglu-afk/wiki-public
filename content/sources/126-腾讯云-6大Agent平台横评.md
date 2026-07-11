@@ -6,7 +6,7 @@ source-type: 技术横评
 lang: zh-CN
 source-url: https://developer.cloud.tencent.com/article/2674338
 raw:
-  - '[原文](/clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph)'
+  - '[[clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Coze]]'
@@ -52,5 +52,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph)
+- 本地剪藏：[[clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph|原文全文]]
 - 官方链接：<https://developer.cloud.tencent.com/article/2674338>

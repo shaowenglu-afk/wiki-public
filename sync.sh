@@ -56,14 +56,12 @@ for f in "$QUARTZ_CONTENT/clippings"/*.md; do
 done
 
 echo ""
-echo "🔧 Step 3: 修复 wiki 里指向 Clippings 的链接（现在指向 /clippings/）"
-# 用 ~ 作为 sed 分隔符（避免与 wikilink 的 | 冲突），两遍 sed：
-# ① 处理带别名: [[Clippings/xxx|标题]] → [原文](/clippings/xxx)
-# ② 处理无别名: [[Clippings/xxx]]      → [原文](/clippings/xxx)
+echo "🔧 Step 3: 修复 wiki 里指向 Clippings 的链接大小写（Clippings → clippings）"
+# Cloudflare (Linux) 大小写敏感，Quartz 会从 wikilink 保留大小写生成 URL。
+# 用 ~ 作为 sed 分隔符（避免与 wikilink 的 | 冲突）
+# 保留 wikilink 结构，只把 Clippings/ 前缀转为 clippings/
 find "$QUARTZ_CONTENT" -type f -name "*.md" -not -path "*/clippings/*" -exec \
-  sed -i '' -E 's~\[\[Clippings/([^|]+)\|([^]]+)\]\]~[原文](/clippings/\1)~g' {} \;
-find "$QUARTZ_CONTENT" -type f -name "*.md" -not -path "*/clippings/*" -exec \
-  sed -i '' -E 's~\[\[Clippings/([^]]+)\]\]~[原文](/clippings/\1)~g' {} \;
+  sed -i '' -E 's~\[\[Clippings/~[[clippings/~g' {} \;
 
 echo ""
 echo "🖼️  Step 3.5: 微信图片代理重写（绕过 mmbiz 防盗链）"

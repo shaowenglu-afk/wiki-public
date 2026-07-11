@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/trustworthy-agents
 published: 2026-04-09
 raw:
-  - '[原文](/clippings/2026-04-09 Anthropic - Trustworthy agents in practice)'
+  - '[[clippings/2026-04-09 Anthropic - Trustworthy agents in practice|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/Enterprise-Agent-Architecture-2026]]'
@@ -38,5 +38,5 @@ Anthropic 系统化阐述"**如何让生产环境的 Agent 值得信任**"：从
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-04-09 Anthropic - Trustworthy agents in practice)
+- 本地剪藏：[[clippings/2026-04-09 Anthropic - Trustworthy agents in practice|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/trustworthy-agents>

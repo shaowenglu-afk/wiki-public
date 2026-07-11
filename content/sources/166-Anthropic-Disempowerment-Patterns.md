@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/disempowerment-patterns
 published: 2026-01-28
 raw:
-  - '[原文](/clippings/2026-01-28 Anthropic - Disempowerment patterns in real-world AI usage)'
+  - '[[clippings/2026-01-28 Anthropic - Disempowerment patterns in real-world AI usage|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-01-28 Anthropic - Disempowerment patterns in real-world AI usage)
+- 本地剪藏：[[clippings/2026-01-28 Anthropic - Disempowerment patterns in real-world AI usage|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/disempowerment-patterns>

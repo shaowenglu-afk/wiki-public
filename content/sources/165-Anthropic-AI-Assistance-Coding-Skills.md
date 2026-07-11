@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/AI-assistance-coding-skills
 published: 2026-01-29
 raw:
-  - '[原文](/clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills)'
+  - '[[clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/AI时代运维转型与技能体系]]'
@@ -38,5 +38,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills)
+- 本地剪藏：[[clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/AI-assistance-coding-skills>

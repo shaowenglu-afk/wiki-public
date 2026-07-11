@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/attack-navigator
 published: 2026-06-03
 raw:
-  - '[原文](/clippings/2026-06-03 Anthropic - Mapping AI-enabled cyber threats)'
+  - '[[clippings/2026-06-03 Anthropic - Mapping AI-enabled cyber threats|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-06-03 Anthropic - Mapping AI-enabled cyber threats)
+- 本地剪藏：[[clippings/2026-06-03 Anthropic - Mapping AI-enabled cyber threats|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/attack-navigator>

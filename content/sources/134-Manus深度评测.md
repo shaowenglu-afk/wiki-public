@@ -6,7 +6,7 @@ source-type: 用户深度评测
 lang: zh-CN
 source-url: https://www.aixq.cc/26259.html
 raw:
-  - '[原文](/clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活)'
+  - '[[clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Manus]]'
@@ -53,5 +53,5 @@ Manus 是 Butterfly Effect（原 Monica AI 团队）开发的通用型 Agent，2
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活)
+- 本地剪藏：[[clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活|原文全文]]
 - 官方链接：<https://www.aixq.cc/26259.html>

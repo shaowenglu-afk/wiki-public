@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/zero-days
 published: 2026-02-05
 raw:
-  - '[原文](/clippings/2026-02-05 Anthropic - LLM-discovered 0 days)'
+  - '[[clippings/2026-02-05 Anthropic - LLM-discovered 0 days|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-02-05 Anthropic - LLM-discovered 0 days)
+- 本地剪藏：[[clippings/2026-02-05 Anthropic - LLM-discovered 0 days|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/zero-days>

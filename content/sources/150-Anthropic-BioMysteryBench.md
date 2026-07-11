@@ -7,7 +7,7 @@ lang: en
 source-url: https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench
 published: 2026-04-29
 raw:
-  - '[原文](/clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench)'
+  - '[[clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -36,5 +36,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench)
+- 本地剪藏：[[clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench|原文全文]]
 - 官方链接：<https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench>

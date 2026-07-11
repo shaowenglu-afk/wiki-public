@@ -7,7 +7,7 @@ lang: zh-CN
 source-url: https://www.53ai.com/news/shuziyuangong/2026070251790.html
 published: 2026-07-02
 raw:
-  - '[原文](/clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化)'
+  - '[[clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/WorkBuddy]]'
@@ -52,5 +52,5 @@ related:
 
 ## 原文链接
 
-- 本地剪藏：[原文](/clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化)
+- 本地剪藏：[[clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化|原文全文]]
 - 官方链接：<https://www.53ai.com/news/shuziyuangong/2026070251790.html>
