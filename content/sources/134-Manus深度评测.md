@@ -1,11 +1,12 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, Manus, 通用Agent, GAIA基准, 2026]
+tags: [wiki, source, Agent-platform, Manus, 通用Agent, GAIA基准, year-2026]
 source-type: 用户深度评测
 lang: zh-CN
 source-url: https://www.aixq.cc/26259.html
-raw: '[[Clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Manus]]'
@@ -49,3 +50,8 @@ Manus 是 Butterfly Effect（原 Monica AI 团队）开发的通用型 Agent，2
 ## 一句话总结
 
 > **Manus 深度调研强，编程弱，结局充满不确定性。合规 > 技术，是 Agent 出海最大教训。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 Manus深度评测 全球首款通用型Agent 到底能不能真干活|原文全文]]
+- 官方链接：<https://www.aixq.cc/26259.html>

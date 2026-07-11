@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, coding, education, skill-formation, 2026]
+tags: [wiki, source, Anthropic, coding, education, skill-formation, year-2026]
 source-type: 教育研究报告
 lang: en
 source-url: https://www.anthropic.com/research/AI-assistance-coding-skills
 published: 2026-01-29
-raw: '[[Clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills|原文全文]]'
+raw:
+  - '[[Clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/AI时代运维转型与技能体系]]'
@@ -34,3 +35,8 @@ related:
 ## 一句话总结
 
 > **AI 助手过度依赖 = 基础技能缺失。学习者要分清"辅助学"vs"替代学"。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-01-29 Anthropic - How AI assistance impacts the formation of coding skills|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/AI-assistance-coding-skills>

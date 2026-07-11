@@ -1,11 +1,12 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, Genspark, Super-Agent, 多模型协同, 2026]
+tags: [wiki, source, Agent-platform, Genspark, Super-Agent, 多模型协同, year-2026]
 source-type: 用户深度评测
 lang: zh-CN
 source-url: https://www.aixq.cc/34877.html
-raw: '[[Clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Genspark]]'
@@ -49,3 +50,8 @@ Genspark 由 MainFunc 公司打造，创始团队来自前百度小度核心管�
 ## 一句话总结
 
 > **Genspark = "AI 工作空间"新品类。多模型协同 + 电话外呼 + 报告生成，让 Agent 真的能替你干活。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 Genspark深度评测 从搜索到执行 这个全能工作空间到底有多能打|原文全文]]
+- 官方链接：<https://www.aixq.cc/34877.html>

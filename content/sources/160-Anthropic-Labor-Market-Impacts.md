@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, economic-index, labor-market, 2026]
+tags: [wiki, source, Anthropic, economic-index, labor-market, year-2026]
 source-type: 经济研究报告
 lang: en
 source-url: https://www.anthropic.com/research/labor-market-impacts
 published: 2026-03-05
-raw: '[[Clippings/2026-03-05 Anthropic - Labor market impacts of AI A new measure and early evidence|原文全文]]'
+raw:
+  - '[[Clippings/2026-03-05 Anthropic - Labor market impacts of AI A new measure and early evidence|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/AI时代运维转型与技能体系]]'
@@ -34,3 +35,8 @@ related:
 ## 一句话总结
 
 > **AI 劳动影响 = 重塑而非替代（Anthropic 官方数据版）。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-03-05 Anthropic - Labor market impacts of AI A new measure and early evidence|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/labor-market-impacts>

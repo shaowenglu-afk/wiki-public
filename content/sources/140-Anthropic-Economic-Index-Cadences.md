@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, economic-index, labor, cadences, 2026]
+tags: [wiki, source, Anthropic, economic-index, labor, cadences, year-2026]
 source-type: 经济研究报告
 lang: en
 source-url: https://www.anthropic.com/research/economic-index-june-2026-report
 published: 2026-06-26
-raw: '[[Clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences|原文全文]]'
+raw:
+  - '[[Clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -33,3 +34,8 @@ Anthropic Economic Index 首次做**小时级采样**：**什么时段人们找 
 ## 一句话总结
 
 > **首次小时级采样揭示：AI 使用有清晰的日内节奏，是"新型工作节律"的开端。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-06-26 Anthropic - Anthropic Economic Index report Cadences|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/economic-index-june-2026-report>

@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, coding-agents, social-sciences, agent, 2026]
+tags: [wiki, source, Anthropic, coding-agents, social-sciences, agent, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/coding-agents-social-sciences
 published: 2026-05-27
-raw: '[[Clippings/2026-05-27 Anthropic - Coding agents in the social sciences|原文全文]]'
+raw:
+  - '[[Clippings/2026-05-27 Anthropic - Coding agents in the social sciences|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **Coding Agent 已经是社科研究员的"随手 SPSS"，改写研究流程的门槛。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-05-27 Anthropic - Coding agents in the social sciences|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/coding-agents-social-sciences>

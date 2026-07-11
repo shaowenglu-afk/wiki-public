@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, economic-index, australia, country-brief, 2026]
+tags: [wiki, source, Anthropic, economic-index, australia, country-brief, year-2026]
 source-type: 经济研究报告
 lang: en
 source-url: https://www.anthropic.com/research/how-australia-uses-claude
 published: 2026-03-31
-raw: '[[Clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index|原文全文]]'
+raw:
+  - '[[Clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ Economic Index 澳大利亚国家简报：澳洲用户 Claude 使用画像。是
 ## 一句话总结
 
 > **Claude 在澳大利亚：Economic Index 国别系列的起手式。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-03-31 Anthropic - How Australia Uses Claude Findings from the Anthropic Economic Index|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/how-australia-uses-claude>

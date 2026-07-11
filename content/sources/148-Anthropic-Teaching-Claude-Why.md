@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, alignment, agentic-misalignment, 2026]
+tags: [wiki, source, Anthropic, alignment, agentic-misalignment, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/teaching-claude-why
 published: 2026-05-08
-raw: '[[Clippings/2026-05-08 Anthropic - Teaching Claude why|原文全文]]'
+raw:
+  - '[[Clippings/2026-05-08 Anthropic - Teaching Claude why|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **对齐的下一步是教 AI "为什么"，而不是"是什么"。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-05-08 Anthropic - Teaching Claude why|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/teaching-claude-why>

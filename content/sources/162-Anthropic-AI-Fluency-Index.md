@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, education, AI-fluency, index, 2026]
+tags: [wiki, source, Anthropic, education, AI-fluency, index, year-2026]
 source-type: 教育研究报告
 lang: en
 source-url: https://www.anthropic.com/research/AI-fluency-index
 published: 2026-02-23
-raw: '[[Clippings/2026-02-23 Anthropic - Anthropic Education Report The AI Fluency Index|原文全文]]'
+raw:
+  - '[[Clippings/2026-02-23 Anthropic - Anthropic Education Report The AI Fluency Index|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **AI Fluency Index：衡量"AI 用得多好"，不是"有没有用过"。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-02-23 Anthropic - Anthropic Education Report The AI Fluency Index|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/AI-fluency-index>

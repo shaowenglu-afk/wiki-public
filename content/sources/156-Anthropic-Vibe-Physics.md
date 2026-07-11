@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, science, physics, vibe, agent, 2026]
+tags: [wiki, source, Anthropic, science, physics, vibe, agent, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/vibe-physics
 published: 2026-03-23
-raw: '[[Clippings/2026-03-23 Anthropic - Vibe physics The AI grad student|原文全文]]'
+raw:
+  - '[[Clippings/2026-03-23 Anthropic - Vibe physics The AI grad student|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **AI 研究生 = 物理学家的直觉伙伴。Vibe Coding 演化到 Vibe Physics。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-03-23 Anthropic - Vibe physics The AI grad student|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/vibe-physics>

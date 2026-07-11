@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, WorkBuddy, 腾讯, 混元, MCP, Skill, 完整教程, 2026]
+tags: [wiki, source, Agent-platform, WorkBuddy, 腾讯, 混元, MCP, Skill, 完整教程, year-2026]
 source-type: 产品完整教程
 lang: zh-CN
 source-url: https://www.53ai.com/news/shuziyuangong/2026070251790.html
 published: 2026-07-02
-raw: '[[Clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/WorkBuddy]]'
@@ -48,3 +49,8 @@ related:
 ## 一句话总结
 
 > **WorkBuddy 完整覆盖 Agentic System 六大要素。腾讯把 MCP 翻译成"连接器"、把 Agent 翻译成"专家"，比行业术语更亲民。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 一文吃透腾讯WorkBuddy全功能 模式模型技能连接器专家自动化|原文全文]]
+- 官方链接：<https://www.53ai.com/news/shuziyuangong/2026070251790.html>

@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, WorkBuddy, DuMate, 悟空, 豆包, 办公Agent, 2026]
+tags: [wiki, source, Agent-platform, WorkBuddy, DuMate, 悟空, 豆包, 办公Agent, year-2026]
 source-type: 办公场景横评
 lang: zh-CN
 source-url: https://36kr.com/p/3868529576655491
 published: 2026-07-04
-raw: '[[Clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/WorkBuddy]]'
@@ -54,3 +55,8 @@ related:
 ## 一句话总结
 
 > **办公 Agent 的战争，不是"谁更能干"，是"谁更靠谱"。WorkBuddy 敢拒单赢得信任，豆包消费级 UX 拉高体验。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 五款Agent办公实测 悟空 DuMate WorkBuddy 豆包|原文全文]]
+- 官方链接：<https://36kr.com/p/3868529576655491>

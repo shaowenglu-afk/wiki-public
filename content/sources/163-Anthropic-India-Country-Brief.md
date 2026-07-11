@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, economic-index, india, country-brief, 2026]
+tags: [wiki, source, Anthropic, economic-index, india, country-brief, year-2026]
 source-type: 经济研究报告
 lang: en
 source-url: https://www.anthropic.com/research/india-brief-economic-index
 published: 2026-02-16
-raw: '[[Clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index|原文全文]]'
+raw:
+  - '[[Clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ Economic Index 印度国家简报：印度用户 Claude 使用画像。是继澳
 ## 一句话总结
 
 > **Claude 在印度：增速最高的国别市场之一，使用模式独具特色。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-02-16 Anthropic - India Country Brief The Anthropic Economic Index|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/india-brief-economic-index>

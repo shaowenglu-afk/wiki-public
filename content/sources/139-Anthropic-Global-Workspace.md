@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, interpretability, cognition, 2026]
+tags: [wiki, source, Anthropic, interpretability, cognition, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/global-workspace
 published: 2026-07-06
-raw: '[[Clippings/2026-07-06 Anthropic - A global workspace in language models|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-06 Anthropic - A global workspace in language models|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -33,3 +34,8 @@ Interpretability 团队发现 LLM 内部存在类似认知科学中"**Global Wor
 ## 一句话总结
 
 > **LLM 内部有类脑的"全局工作空间"—— 模型可解释性又向前推进一步。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-06 Anthropic - A global workspace in language models|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/global-workspace>

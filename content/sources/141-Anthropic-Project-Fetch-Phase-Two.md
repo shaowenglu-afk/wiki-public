@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, agent, robotics, embodied-AI, project-fetch, 2026]
+tags: [wiki, source, Anthropic, agent, robotics, embodied-AI, project-fetch, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/project-fetch-phase-two
 published: 2026-06-18
-raw: '[[Clippings/2026-06-18 Anthropic - Project Fetch Phase two|原文全文]]'
+raw:
+  - '[[Clippings/2026-06-18 Anthropic - Project Fetch Phase two|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[entities/Project-Fetch]]'
@@ -34,3 +35,8 @@ Project Fetch 二期：让 Claude 训练**四足机器狗**执行复杂任务。
 ## 一句话总结
 
 > **让 LLM 训练机器狗，是"AI Agent 走向物理世界"的示范样本。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-06-18 Anthropic - Project Fetch Phase two|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/project-fetch-phase-two>

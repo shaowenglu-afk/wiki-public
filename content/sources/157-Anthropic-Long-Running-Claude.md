@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, agent, long-running, scientific-computing, harness, 2026]
+tags: [wiki, source, Anthropic, agent, long-running, scientific-computing, harness, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/long-running-Claude
 published: 2026-03-23
-raw: '[[Clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing|原文全文]]'
+raw:
+  - '[[Clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/Harness-Engineering]]'
@@ -34,3 +35,8 @@ related:
 ## 一句话总结
 
 > **长跑 Claude 用于科学计算 = Harness Engineering 的 Anthropic 官方站台。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-03-23 Anthropic - Long-running Claude for scientific computing|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/long-running-Claude>

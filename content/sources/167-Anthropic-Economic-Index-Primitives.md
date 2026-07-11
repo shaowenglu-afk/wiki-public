@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, economic-index, primitives, 2026]
+tags: [wiki, source, Anthropic, economic-index, primitives, year-2026]
 source-type: 方法论报告
 lang: en
 source-url: https://www.anthropic.com/research/economic-index-primitives
 published: 2026-01-15
-raw: '[[Clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use|原文全文]]'
+raw:
+  - '[[Clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ Economic Index 方法论重构：提出**"新建构模块（primitives）"**用�
 ## 一句话总结
 
 > **Economic Index 用"primitives"重构分析框架，让所有后续报告可对比可复用。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-01-15 Anthropic - The Anthropic Economic Index report New building blocks for understanding AI use|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/economic-index-primitives>

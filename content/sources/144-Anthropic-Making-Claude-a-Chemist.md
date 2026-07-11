@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, science, chemistry, agents, 2026]
+tags: [wiki, source, Anthropic, science, chemistry, agents, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/making-claude-a-chemist
 published: 2026-06-05
-raw: '[[Clippings/2026-06-05 Anthropic - Making Claude a chemist|原文全文]]'
+raw:
+  - '[[Clippings/2026-06-05 Anthropic - Making Claude a chemist|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **把 Claude 训练成化学家，就是 Agentic Science 领域专家化的模板。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-06-05 Anthropic - Making Claude a chemist|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/making-claude-a-chemist>

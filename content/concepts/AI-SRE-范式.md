@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-29
 updated: 2026-06-29
-tags: [wiki, concept, AI-SRE, AIOps, 2026]
+tags: [wiki, concept, AI-SRE, AIOps, year-2026]
 sources:
   - "[[sources/85-AI-SRE-2026-Guide-Augment-Code]]"
   - "[[sources/86-AI-SRE-vs-AIOps-Arvo-AI]]"

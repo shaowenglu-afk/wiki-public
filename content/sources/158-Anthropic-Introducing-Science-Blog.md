@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, science, meta, 2026]
+tags: [wiki, source, Anthropic, science, meta, year-2026]
 source-type: 项目公告
 lang: en
 source-url: https://www.anthropic.com/research/introducing-anthropic-science
 published: 2026-03-23
-raw: '[[Clippings/2026-03-23 Anthropic - Introducing our Science Blog|原文全文]]'
+raw:
+  - '[[Clippings/2026-03-23 Anthropic - Introducing our Science Blog|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ Anthropic 正式启动 **Science Blog**：把 AI 用于 STEM 科研的进展单�
 ## 一句话总结
 
 > **Anthropic 单开"Science Blog" = 让科学 Agent 成为长期战略主线的组织级承诺。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-03-23 Anthropic - Introducing our Science Blog|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/introducing-anthropic-science>

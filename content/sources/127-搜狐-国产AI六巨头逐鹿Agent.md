@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, 国产大模型, Coze, 千帆, 通义, DeepSeek, 混元, 2026]
+tags: [wiki, source, Agent-platform, 国产大模型, Coze, 千帆, 通义, DeepSeek, 混元, year-2026]
 source-type: 行业深度分析
 lang: zh-CN
 source-url: https://www.sohu.com/a/1044622488_116157
 published: 2026-07-02
-raw: '[[Clippings/2026-07-04 国产AI六巨头逐鹿Agent 望得到Claude Code的背影吗|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 国产AI六巨头逐鹿Agent 望得到Claude Code的背影吗|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/DeepSeek]]'
@@ -48,3 +49,8 @@ Anthropic Claude Code 发布后，国产六巨头（阿里、字节、腾讯、�
 ## 一句话总结
 
 > **六巨头都在做 Agent，但都还没找到 Claude Code 的路。追赶速度不等于赶超能力。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 国产AI六巨头逐鹿Agent 望得到Claude Code的背影吗|原文全文]]
+- 官方链接：<https://www.sohu.com/a/1044622488_116157>

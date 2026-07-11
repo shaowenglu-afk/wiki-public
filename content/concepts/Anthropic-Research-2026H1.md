@@ -1,7 +1,7 @@
 ---
 type: concept
 created: 2026-07-11
-tags: [wiki, concept, Anthropic, research, alignment, interpretability, agent, science, red-team, 2026]
+tags: [wiki, concept, Anthropic, research, alignment, interpretability, agent, science, red-team, year-2026]
 sources:
   - '[[sources/138-Anthropic-Off-Switch-Dual-Use]]'
   - '[[sources/139-Anthropic-Global-Workspace]]'

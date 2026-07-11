@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, economic-index, january-2026, primitives, 2026]
+tags: [wiki, source, Anthropic, economic-index, january-2026, primitives, year-2026]
 source-type: 经济研究报告
 lang: en
 source-url: https://www.anthropic.com/research/anthropic-economic-index-january-2026-report
 published: 2026-01-15
-raw: '[[Clippings/2026-01-15 Anthropic - Anthropic Economic Index report Economic primitives|原文全文]]'
+raw:
+  - '[[Clippings/2026-01-15 Anthropic - Anthropic Economic Index report Economic primitives|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ Economic Index 一月主报告：**"Economic primitives"** 首次应用于宏观
 ## 一句话总结
 
 > **Economic Index 2026 一月报告 = 用"primitives"方法学首次分析全球 AI 使用宏观图。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-01-15 Anthropic - Anthropic Economic Index report Economic primitives|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/anthropic-economic-index-january-2026-report>

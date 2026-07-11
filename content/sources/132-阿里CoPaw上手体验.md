@@ -1,11 +1,12 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, CoPaw, 阿里通义, 开源, 反共识, 2026]
+tags: [wiki, source, Agent-platform, CoPaw, 阿里通义, 开源, 反共识, year-2026]
 source-type: 用户上手体验
 lang: zh-CN
 source-url: https://neusoftware.top/articles/2026/03/02/1772449063383.html
-raw: '[[Clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/CoPaw]]'
@@ -47,3 +48,8 @@ related:
 ## 一句话总结
 
 > **CoPaw 部署顺畅，但用起来更像宠物不像员工。开源为阿里赢了名声，赢不了实际生产力。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 阿里CoPaw上手体验 电子宠物养着挺好 生产工具差点意思|原文全文]]
+- 官方链接：<https://neusoftware.top/articles/2026/03/02/1772449063383.html>

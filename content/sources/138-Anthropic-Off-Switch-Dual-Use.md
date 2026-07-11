@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, alignment, safety, dual-use, safeguards, 2026]
+tags: [wiki, source, Anthropic, alignment, safety, dual-use, safeguards, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/off-switch-dual-use
 published: 2026-07-08
-raw: '[[Clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[entities/Anthropic-Research]]'
@@ -35,3 +36,8 @@ related:
 ## 一句话总结
 
 > **AI 越狱防御的未来是"给危险知识本身装开关"**，而不是只在输出端做过滤。
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-08 Anthropic - An off switch for dual use knowledge in AI models|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/off-switch-dual-use>

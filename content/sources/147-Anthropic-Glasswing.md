@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, red-team, project-glasswing, safety, 2026]
+tags: [wiki, source, Anthropic, red-team, project-glasswing, safety, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/glasswing-initial-update
 published: 2026-05-22
-raw: '[[Clippings/2026-05-22 Anthropic - Project Glasswing An initial update|原文全文]]'
+raw:
+  - '[[Clippings/2026-05-22 Anthropic - Project Glasswing An initial update|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ Project Glasswing 首份更新：Anthropic **观测前沿模型在真实网络�
 ## 一句话总结
 
 > **Project Glasswing：让外部研究者也能"看穿"前沿模型的攻击能力。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-05-22 Anthropic - Project Glasswing An initial update|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/glasswing-initial-update>

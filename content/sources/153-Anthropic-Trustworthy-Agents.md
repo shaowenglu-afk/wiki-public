@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, agent, trustworthy, production, 2026]
+tags: [wiki, source, Anthropic, agent, trustworthy, production, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/trustworthy-agents
 published: 2026-04-09
-raw: '[[Clippings/2026-04-09 Anthropic - Trustworthy agents in practice|原文全文]]'
+raw:
+  - '[[Clippings/2026-04-09 Anthropic - Trustworthy agents in practice|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
   - '[[concepts/Enterprise-Agent-Architecture-2026]]'
@@ -34,3 +35,8 @@ Anthropic 系统化阐述"**如何让生产环境的 Agent 值得信任**"：从
 ## 一句话总结
 
 > **生产 Agent 的门槛不是聪明，是可靠 + 可解释 + 可撤销。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-04-09 Anthropic - Trustworthy agents in practice|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/trustworthy-agents>

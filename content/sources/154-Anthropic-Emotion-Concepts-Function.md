@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, interpretability, emotion, alignment, 2026]
+tags: [wiki, source, Anthropic, interpretability, emotion, alignment, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/emotion-concepts-function
 published: 2026-04-02
-raw: '[[Clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model|原文全文]]'
+raw:
+  - '[[Clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **LLM 内部有情绪表征，且影响行为 —— Alignment 从此有了新旋钮。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-04-02 Anthropic - Emotion concepts and their function in a large language model|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/emotion-concepts-function>

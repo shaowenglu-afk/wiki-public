@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, science, biology, benchmark, BioMysteryBench, 2026]
+tags: [wiki, source, Anthropic, science, biology, benchmark, BioMysteryBench, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench
 published: 2026-04-29
-raw: '[[Clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench|原文全文]]'
+raw:
+  - '[[Clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **BioMysteryBench：Anthropic 给 Agentic Science 建立领域专属"考试卷"。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-04-29 Anthropic - Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench>

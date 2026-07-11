@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, QClaw, 腾讯, 微信集成, 2026]
+tags: [wiki, source, Agent-platform, QClaw, 腾讯, 微信集成, year-2026]
 source-type: 用户上手体验
 lang: zh-CN
 source-url: https://www.36kr.com/p/3728581722092039
 published: 2026-07-04
-raw: '[[Clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/QClaw]]'
@@ -48,3 +49,8 @@ related:
 ## 一句话总结
 
 > **QClaw 是腾讯把 Agent 带给普通用户的尝试。粗糙但方向对：微信 + 本地 + 开箱即用 = 3 条护城河。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 腾讯龙虾QClaw体验 AI能连微信干活了 但整体还很粗糙|原文全文]]
+- 官方链接：<https://www.36kr.com/p/3728581722092039>

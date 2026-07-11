@@ -1,12 +1,13 @@
 ---
 type: source
 created: 2026-07-11
-tags: [wiki, source, Anthropic, red-team, security, zero-day, 2026]
+tags: [wiki, source, Anthropic, red-team, security, zero-day, year-2026]
 source-type: 研究博客
 lang: en
 source-url: https://www.anthropic.com/research/zero-days
 published: 2026-02-05
-raw: '[[Clippings/2026-02-05 Anthropic - LLM-discovered 0 days|原文全文]]'
+raw:
+  - '[[Clippings/2026-02-05 Anthropic - LLM-discovered 0 days|原文全文]]'
 related:
   - '[[concepts/Anthropic-Research-2026H1]]'
 ---
@@ -32,3 +33,8 @@ related:
 ## 一句话总结
 
 > **AI 找到了人类未知的 0-day —— 安全领域从此有新型研究员。**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-02-05 Anthropic - LLM-discovered 0 days|原文全文]]
+- 官方链接：<https://www.anthropic.com/research/zero-days>

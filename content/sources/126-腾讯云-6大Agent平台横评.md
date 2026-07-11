@@ -1,11 +1,12 @@
 ---
 type: source
 created: 2026-07-04
-tags: [wiki, source, Agent-platform, Coze, Dify, Qianfan, LangGraph, 横评, 2026]
+tags: [wiki, source, Agent-platform, Coze, Dify, Qianfan, LangGraph, 横评, year-2026]
 source-type: 技术横评
 lang: zh-CN
 source-url: https://developer.cloud.tencent.com/article/2674338
-raw: '[[Clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph|原文全文]]'
+raw:
+  - '[[Clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph|原文全文]]'
 related:
   - '[[concepts/国内智能体平台横评-2026]]'
   - '[[entities/Coze]]'
@@ -48,3 +49,8 @@ related:
 ## 一句话总结
 
 > **六大平台不是替代关系，是场景分工。选平台前先问自己：我团队工程力如何？数据敏感度多高？愿意绑定谁家生态？**
+
+## 原文链接
+
+- 本地剪藏：[[Clippings/2026-07-04 6大AI Agent平台横评 Coze Dify 百炼 千帆 Copilot LangGraph|原文全文]]
+- 官方链接：<https://developer.cloud.tencent.com/article/2674338>

@@ -5,6 +5,27 @@
 
 ---
 
+## [2026-07-11] lint | Schema 合规：修复 raw 字段类型 + 数字 tag + CLAUDE-wiki 补丁
+
+**起因**：138 号 source 页在 Obsidian Properties 面板中 `raw` 字段的 wikilink 无法点击。根因排查发现 3 层漏斗：
+1. `raw: '[[...]]'` 是 Text 类型的 property，Obsidian 不会渲染 wikilink 为链接（应为 List）。
+2. `CLAUDE-wiki.md` schema 中未定义 `raw` / `source-url` / `source-type` / `lang` / `published` 等字段，ingest agent 无从校验。
+3. `tags` 里裸整数（如 `2026`）被 YAML 解析成 integer，触发 Obsidian ⚠️ 类型警告，且纯数字标签在 Obsidian 中不可搜索。
+
+**修复动作**：
+- **CLAUDE-wiki.md**：新增 §4.1/4.2/4.3/4.4/4.5，明确 Source 页完整 frontmatter schema、正文「## 原文链接」小节固定格式、tag 命名规范；§3.3 Lint 新增 schema 合规检查项；§6 不变量新增 4 条硬约束。
+- **Source 页 raw 字段**：43 篇（138 + 126–137 + 139–168）从 Text 转 List 形式。
+- **Source 页正文**：43 篇追加 `## 原文链接` 小节（本地剪藏 + 官方链接）。
+- **数字 tag 归一化**：46 篇（含 3 篇 concepts）`tags` 中的 `2026` → `year-2026`。
+
+**验证结果**：
+- Text 形式的 raw：`0` ✅
+- 裸整数年份 tag：`0` ✅
+
+**触达文件**：`CLAUDE-wiki.md` · `log.md` · `sources/126-168/*.md`（43 篇）· `concepts/AI-SRE-范式.md` · `concepts/Anthropic-Research-2026H1.md` · `concepts/国内智能体平台横评-2026.md`
+
+---
+
 ## [2026-07-11] ingest | Anthropic Research 2026H1 全景 · 31 篇（Round 11）
 
 用户请求："**搜索 https://www.anthropic.com/research 上最近半年的文章，加入 wiki**"。严格日期过滤（2026-01-11 → 2026-07-11），共 31 篇一手 research 全部入库。
