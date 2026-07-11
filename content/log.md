@@ -5,6 +5,35 @@
 
 ---
 
+## [2026-07-11] ingest | Anthropic Research 2026H1 全景 · 31 篇（Round 11）
+
+用户请求："**搜索 https://www.anthropic.com/research 上最近半年的文章，加入 wiki**"。严格日期过滤（2026-01-11 → 2026-07-11），共 31 篇一手 research 全部入库。
+
+**产出**：
+- **1 篇 concept**（跨 31 sources 综合）：
+  - [[concepts/Anthropic-Research-2026H1]] — 6 大主线 + 3 大反共识 + 与本 wiki 主脉络对齐
+- **31 篇 source 摘要**（编号 138-168）：
+  - Alignment/Interp 6 篇 · Frontier Red Team 4 篇 · Agentic Science 6 篇 · 生产 Agent 3 篇 · Economic Research 9 篇 · Coding & Education 2 篇 · 工具 1 篇
+- **3 个新 entity**：
+  - [[entities/Anthropic-Research]] · [[entities/Petri]] · [[entities/Project-Fetch]]
+- **31 篇 clippings 原文**：扁平放于 `Clippings/2026-MM-DD Anthropic - <标题>.md`
+
+**核心洞察**：
+- Anthropic 2026H1 = **从"研究模型能做什么" → "研究模型该怎么可靠地做事"**
+- Agent 生产化的门槛不是能力，是**信任结构**（Trustworthy Agents ⭐⭐⭐）
+- Alignment 走向**内部结构干预**（Off-switch + Teaching Why + Persona Selection）
+- Red Team 从"评估"到"发现"（LLM-discovered 0-days 首次公开）
+- Agentic Science 独立开博客 = 组织级战略承诺
+- **Anthropic 官方几乎为本 wiki 每一条主脉络都提供了一手支持**
+
+**内容体量总计**：**22 concept + 38 entity + 175 source + 154 clippings**
+
+**导航更新**：
+- [[index]] 数据从 21/35/144 → 22/38/175
+- [[by-topic]] 新增"🅰️ Anthropic Research 2026H1"分类板块（6 主题分组）
+
+---
+
 ## [2026-07-04] ingest | 国内智能体平台横评 · 12 篇（Round 10）
 
 用户请求："**全网调研下国内智能体平台各家产品优劣，如腾讯 QClaw、WorkBuddy、百度 DuMate、千帆等等**"，扩展到 40+ 款龙虾工具全景横评。

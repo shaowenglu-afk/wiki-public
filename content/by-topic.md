@@ -9,6 +9,57 @@ description: 132 篇 sources 按主题分类导航
 
 ---
 
+## 🅰️ Anthropic Research 2026H1（31 sources · 2026-07 新增）
+
+**深度综述先读**：[[concepts/Anthropic-Research-2026H1]] ⭐⭐⭐（跨 31 篇 Anthropic 官方一手 source）
+
+**Agent 生产化（3 篇）**：
+- [[sources/153-Anthropic-Trustworthy-Agents]] ⭐⭐⭐ — 生产 Agent = 可靠 + 可解释 + 可撤销
+- [[sources/157-Anthropic-Long-Running-Claude]] ⭐⭐⭐ — Anthropic 官方给 Harness Engineering 站台
+- [[sources/141-Anthropic-Project-Fetch-Phase-Two]] ⭐ — Claude 训练机器狗（Embodied Agent）
+- [[sources/146-Anthropic-Coding-Agents-Social-Sciences]] — Agent 在社科研究的普及
+
+**Alignment / Interpretability（6 篇）**：
+- [[sources/138-Anthropic-Off-Switch-Dual-Use]] ⭐⭐ — 给危险知识本身装开关
+- [[sources/148-Anthropic-Teaching-Claude-Why]] ⭐⭐ — 教"为什么"比"是什么"更能对齐
+- [[sources/139-Anthropic-Global-Workspace]] — LLM 内部类脑工作空间
+- [[sources/154-Anthropic-Emotion-Concepts-Function]] — LLM 内部情绪表征
+- [[sources/161-Anthropic-Persona-Selection-Model]] — 越狱 = 诱导换 persona
+- [[sources/166-Anthropic-Disempowerment-Patterns]] — 用户被 AI 隐性剥夺能力
+
+**Frontier Red Team（4 篇）**：
+- [[sources/164-Anthropic-Zero-Days]] ⭐⭐ — LLM 独立发现人类未知 0-day
+- [[sources/142-Anthropic-N-Day-Exploits]] — 量化 N-day 加速
+- [[sources/145-Anthropic-Attack-Navigator]] — MITRE ATT&CK 版 LLM 威胁映射
+- [[sources/147-Anthropic-Glasswing]] — 开放前沿模型攻防观测
+
+**Agentic Science（6 篇）**：
+- [[sources/158-Anthropic-Introducing-Science-Blog]] — Science 单开博客（组织级承诺）
+- [[sources/144-Anthropic-Making-Claude-a-Chemist]] — Claude 化学家化
+- [[sources/143-Anthropic-Agents-in-Biology]] — 生物学 Agent 基建
+- [[sources/150-Anthropic-BioMysteryBench]] — 生物信息学领域基准
+- [[sources/156-Anthropic-Vibe-Physics]] — Vibe Physics AI 研究生
+- [[sources/157-Anthropic-Long-Running-Claude]] ⭐⭐⭐
+
+**Economic Research（9 篇）**：
+- [[sources/160-Anthropic-Labor-Market-Impacts]] ⭐⭐ — 官方数据版"重塑而非替代"
+- [[sources/140-Anthropic-Economic-Index-Cadences]] — 小时级采样
+- [[sources/152-Anthropic-81k-Economics]] — 8.1 万人质性调研
+- [[sources/167-Anthropic-Economic-Index-Primitives]] — 方法论重构
+- [[sources/168-Anthropic-Economic-Index-January-2026]] — 一月开篇报告
+- [[sources/162-Anthropic-AI-Fluency-Index]] — AI Fluency Index
+- [[sources/155-Anthropic-Australia-Uses-Claude]] · [[sources/163-Anthropic-India-Country-Brief]] — 国别系列
+- [[sources/151-Anthropic-Economic-Index-Survey-Announcement]]
+
+**Coding & Education（2 篇）**：
+- [[sources/165-Anthropic-AI-Assistance-Coding-Skills]] ⭐⭐ — AI 助手过度依赖 = 基础能力缺失
+- [[sources/159-Anthropic-Diff-Tool]] — AI 模型行为 diff
+
+**工具（1 篇）**：
+- [[sources/149-Anthropic-Donating-Petri]] — Petri 开源对齐审计工具
+
+---
+
 ## 🏆 国内智能体平台横评（12 sources · 2026-07 新增）
 
 **深度综述先读**：[[concepts/国内智能体平台横评-2026]] ⭐⭐⭐
