@@ -3,6 +3,8 @@ type: entity
 created: 2026-07-04
 tags: [wiki, entity, Agent-platform, Butterfly-Effect, Manus, 通用Agent, GAIA, 出海]
 category: 通用智能体产品
+sources:
+  - '[[sources/134-Manus深度评测]]'
 ---
 
 # Manus · Butterfly Effect

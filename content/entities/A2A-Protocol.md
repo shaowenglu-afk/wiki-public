@@ -2,6 +2,8 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, 协议, 智能体, A2A]
+sources:
+  - '[[sources/68-Tyk-AI-Agent-Orchestration-Enterprise-Guide]]'
 ---
 
 # A2A Protocol (Agent2Agent v1.0)

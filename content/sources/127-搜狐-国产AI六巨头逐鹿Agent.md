@@ -44,7 +44,7 @@ Anthropic Claude Code 发布后，国产六巨头（阿里、字节、腾讯、�
 ## 与本 wiki 关联
 
 - **上承**：[[concepts/Enterprise-Agent-Architecture-2026]]
-- **反共识组合**：[[sources/135-Manus评测]] · [[sources/137-五款办公Agent实测]]
+- **反共识组合**：[[sources/134-Manus深度评测]] · [[sources/136-36kr-五款办公Agent实测]]
 
 ## 一句话总结
 

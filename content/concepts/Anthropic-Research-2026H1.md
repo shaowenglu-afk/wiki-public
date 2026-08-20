@@ -48,12 +48,12 @@ sources:
 
 | # | 文章 | 一句话 |
 |---|---|---|
-| 138 | [[sources/138-Anthropic-Off-Switch-Dual-Use\|Off-switch for dual-use knowledge]] | 给危险知识本身装开关，不只是输出过滤 |
-| 139 | [[sources/139-Anthropic-Global-Workspace\|Global Workspace]] | LLM 内部有类脑"全局工作空间" |
-| 148 | [[sources/148-Anthropic-Teaching-Claude-Why\|Teaching Claude why]] | 教"为什么"比教"是什么"更能对齐 |
-| 154 | [[sources/154-Anthropic-Emotion-Concepts-Function\|Emotion concepts]] | LLM 内部有情绪表征且影响行为 |
-| 161 | [[sources/161-Anthropic-Persona-Selection-Model\|Persona selection]] | 越狱本质是诱导模型换 persona |
-| 166 | [[sources/166-Anthropic-Disempowerment-Patterns\|Disempowerment]] | 用户被 AI 隐性剥夺能力的模式 |
+| 138 | [[sources/138-Anthropic-Off-Switch-Dual-Use|Off-switch for dual-use knowledge]] | 给危险知识本身装开关，不只是输出过滤 |
+| 139 | [[sources/139-Anthropic-Global-Workspace|Global Workspace]] | LLM 内部有类脑"全局工作空间" |
+| 148 | [[sources/148-Anthropic-Teaching-Claude-Why|Teaching Claude why]] | 教"为什么"比教"是什么"更能对齐 |
+| 154 | [[sources/154-Anthropic-Emotion-Concepts-Function|Emotion concepts]] | LLM 内部有情绪表征且影响行为 |
+| 161 | [[sources/161-Anthropic-Persona-Selection-Model|Persona selection]] | 越狱本质是诱导模型换 persona |
+| 166 | [[sources/166-Anthropic-Disempowerment-Patterns|Disempowerment]] | 用户被 AI 隐性剥夺能力的模式 |
 
 **主线共识**：Alignment 从**行为层过滤** → **内部结构干预** → **行为解释性对齐**。
 

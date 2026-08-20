@@ -28,7 +28,7 @@ related:
 
 ## 与本 wiki 关联
 
-- 组合：[[sources/143-Anthropic-Agents-in-Biology]] · [[sources/156-Anthropic-Vibe-Physics]] · [[sources/158-Anthropic-Introducing-Science]]
+- 组合：[[sources/143-Anthropic-Agents-in-Biology]] · [[sources/156-Anthropic-Vibe-Physics]] · [[sources/158-Anthropic-Introducing-Science-Blog]]
 
 ## 一句话总结
 

@@ -2,6 +2,8 @@
 type: entity
 created: 2026-06-30
 tags: [wiki, entity, AIOps, 国内厂商, 创业公司]
+sources:
+  - '[[sources/104-Bizseer-必示科技-A+轮]]'
 ---
 
 # 必示科技 Bizseer

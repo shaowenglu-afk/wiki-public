@@ -88,7 +88,8 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
-        enableSiteMap: true,
+        // 全站 noindex 策略：不产出 sitemap（sitemap 的作用是主动邀请收录）
+        enableSiteMap: false,
         enableRSS: true,
       }),
       Plugin.Assets(),

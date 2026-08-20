@@ -2,6 +2,8 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, 框架, 智能体, 治理, Microsoft]
+sources:
+  - '[[sources/70-MLflow-Building-Production-Ready-AI-Agents-2026]]'
 ---
 
 # Microsoft AGT (Agent Governance Toolkit)

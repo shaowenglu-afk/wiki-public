@@ -44,7 +44,7 @@ related:
 ## 与本 wiki 关联
 
 - **上承**：[[concepts/国内智能体平台横评-2026]]
-- **对照**：[[sources/136-一文吃透WorkBuddy]]（腾讯双 Agent 战略）
+- **对照**：[[sources/137-53AI-一文吃透WorkBuddy]]（腾讯双 Agent 战略）
 
 ## 一句话总结
 

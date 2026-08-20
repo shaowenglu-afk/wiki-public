@@ -2,6 +2,9 @@
 type: entity
 created: 2026-06-30
 tags: [wiki, entity, AI-SRE, AIOps, 商业, 金融垂直]
+sources:
+  - '[[sources/101-Traversal-AI-SRE-Financial-Services]]'
+  - '[[sources/110-Why-General-Purpose-Agentic-AI-Breaks-Cloud-Native]]'
 ---
 
 # Traversal

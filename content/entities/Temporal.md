@@ -2,6 +2,9 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, 持久化执行, 工作流引擎]
+sources:
+  - '[[sources/71-RTSLabs-7-Core-Layers-Enterprise-Agentic-AI]]'
+  - '[[sources/74-ClarityArc-Agentic-AI-Architecture-Enterprise-2026]]'
 ---
 
 # Temporal

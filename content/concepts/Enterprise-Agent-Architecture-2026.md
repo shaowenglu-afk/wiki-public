@@ -49,10 +49,10 @@ sources:
 
 | 来源 | 表述 |
 |---|---|
-| [[sources/74-ClarityArc-...]] | **"编排 Agent 不干活，它管理干活的 Agent"** |
-| [[sources/73-Internative-...]] | Hierarchical / Manager-Worker 模式 |
+| [[sources/74-ClarityArc-Agentic-AI-Architecture-Enterprise-2026]] | **"编排 Agent 不干活，它管理干活的 Agent"** |
+| [[sources/73-Internative-Multi-Agent-Enterprise-6-Patterns]] | Hierarchical / Manager-Worker 模式 |
 | [[sources/68-Tyk-AI-Agent-Orchestration-Enterprise-Guide]] | Hierarchical 是企业默认推荐 |
-| [[sources/76-Tencent-MAS-...]] | Router + Executor + Auditor |
+| [[sources/76-Tencent-MAS-从笨重设计到多智能体架构]] | Router + Executor + Auditor |
 
 ### 共识 4：协议层标准化（MCP + A2A）
 
@@ -71,7 +71,7 @@ sources:
 - **图编排框架**：[[entities/LangGraph]] checkpointer
 - **协议自带**：A2A 的 Task 对象含 contextId
 
-**腾讯版**（[[sources/78-Tencent-...]]）：4 层记忆体系
+**腾讯版**（[[sources/78-Tencent-企业级Agent-AI-Native架构设计与实践]]）：4 层记忆体系
 - 工作记忆（短期，会话内）
 - 情景记忆（跨会话）
 - 语义记忆（知识库）
@@ -82,7 +82,7 @@ sources:
 | 来源 | 关键技术 |
 |---|---|
 | [[sources/70-MLflow-Building-Production-Ready-AI-Agents-2026]] | **Privilege Rings + Kill Switches**（Microsoft AGT v3.6.0）|
-| [[sources/74-ClarityArc-...]] | **Bain 阶段化**：治理必先于编排和规模 |
+| [[sources/74-ClarityArc-Agentic-AI-Architecture-Enterprise-2026]] | **Bain 阶段化**：治理必先于编排和规模 |
 | [[sources/72-VDF-AI-Agent-Platforms-7-Patterns-2026]] | **Observability & Audit Plane**（第 7 模式）|
 | [[sources/79-Grapecity-Enterprise-AI-Agent-Whitepaper-2026]] | **智能体独立身份体系 + 细粒度策略引擎** |
 
@@ -195,13 +195,13 @@ sources:
 
 ## 🚨 三大反共识（来自不同 source 实证）
 
-### 反共识 1：单体 Agent 是陷阱（[[sources/70-MLflow-...]]）
+### 反共识 1：单体 Agent 是陷阱（[[sources/70-MLflow-Building-Production-Ready-AI-Agents-2026]]）
 > "Monolithic agent designs are deceptively easy to prototype but brittle in production."
 
-### 反共识 2：多 Agent 不能"什么都用"（[[sources/73-Internative-...]]）
+### 反共识 2：多 Agent 不能"什么都用"（[[sources/73-Internative-Multi-Agent-Enterprise-6-Patterns]]）
 > "**The Three Mistakes Most Teams Make**: Multi-Agent for everything; No Verifier; No Observability."
 
-### 反共识 3：治理必先于编排（[[sources/74-ClarityArc-...]]）
+### 反共识 3：治理必先于编排（[[sources/74-ClarityArc-Agentic-AI-Architecture-Enterprise-2026]]）
 > "**Bain's phased approach is explicit on sequencing: governance must precede orchestration and scale.**"
 
 ---
@@ -210,12 +210,12 @@ sources:
 
 | 趋势 | 信号源 |
 |---|---|
-| **A2A 协议成为跨厂商标准** | [[sources/68-Tyk-...]] / [[sources/69-ISG-...]] |
-| **Model Gateway 进入标配** | [[sources/72-VDF-...]] / [[sources/77-Tencent-...]] |
-| **AgentOS 概念正式化** | [[sources/76-Tencent-MAS-...]] |
-| **APaaS（Agent Platform as a Service）** | [[sources/78-Tencent-...]] |
-| **EDD (Eval-Driven Development) 替代 TDD** | [[sources/78-Tencent-...]] |
-| **Privilege Rings + Kill Switches 进入主流框架** | [[sources/70-MLflow-...]] |
+| **A2A 协议成为跨厂商标准** | [[sources/68-Tyk-AI-Agent-Orchestration-Enterprise-Guide]] / [[sources/69-ISG-Agentic-Orchestration-Governance-First]] |
+| **Model Gateway 进入标配** | [[sources/72-VDF-AI-Agent-Platforms-7-Patterns-2026]] / [[sources/77-Tencent-一文读懂企业级Agent-AI-Native架构]] |
+| **AgentOS 概念正式化** | [[sources/76-Tencent-MAS-从笨重设计到多智能体架构]] |
+| **APaaS（Agent Platform as a Service）** | [[sources/78-Tencent-企业级Agent-AI-Native架构设计与实践]] |
+| **EDD (Eval-Driven Development) 替代 TDD** | [[sources/78-Tencent-企业级Agent-AI-Native架构设计与实践]] |
+| **Privilege Rings + Kill Switches 进入主流框架** | [[sources/70-MLflow-Building-Production-Ready-AI-Agents-2026]] |
 
 ---
 

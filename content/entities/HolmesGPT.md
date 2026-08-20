@@ -2,6 +2,12 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, AIOps, AI-SRE, 开源]
+sources:
+  - '[[sources/107-Gojek-AI-Brain-Observability]]'
+  - '[[sources/110-Why-General-Purpose-Agentic-AI-Breaks-Cloud-Native]]'
+  - '[[sources/85-AI-SRE-2026-Guide-Augment-Code]]'
+  - '[[sources/91-AI赋能网络-K8s网络策略智能分析]]'
+  - '[[sources/92-为什么监控越来越多故障定位反而越来越慢]]'
 ---
 
 # HolmesGPT

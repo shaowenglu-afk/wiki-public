@@ -1,0 +1,5 @@
+# Cloudflare Pages 响应头
+# 全站禁止进入搜索结果（noindex 权威信号，优先级高于 robots.txt）
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+  Referrer-Policy: strict-origin-when-cross-origin

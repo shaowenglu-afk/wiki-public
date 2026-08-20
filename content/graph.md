@@ -1,20 +1,28 @@
+---
+title: 📊 Wiki 知识图谱
+updated: 2026-07-13
+---
+
 # 📊 Wiki 知识图谱
 
-> 更新于 2026-06-29 第 6 轮 ingest 后
-> 节点 **120**（含 12 新 source + 5 新 entity + 1 新 concept）| 中心节点入度 TOP：Agentic-AI / Enterprise-Agent-Architecture-2026（新增）/ 金融智能体落地 / Harness-Engineering
+> **更新于 2026-07-13 · P0 修复轮**（07-11 lint 后二次深度修复）
+> **节点 244**（24 concept + 45 entity + 175 source）· 中心节点入度 TOP：Agentic-AI / AIOps-2026-全景综述 / AI-SRE-范式 / Enterprise-Agent-Architecture-2026
 >
-> ⚠️ Lint 待办：上次发现的 44 个孤儿 source + 60+ 失效引用仍未修，详见 [[lint-2026-06-29]]
+> ✅ 相较 06-29 版：**91 → 0 断链**、44 孤儿 → 17 孤儿、20 concept → 24 concept、28 entity → 45 entity、132 source → 175 source
+>
+> 变更详见 [[log|📝 log · 2026-07-13 lint 记录]]
 
 ---
 
 ## 🧭 阅读建议
 
-- **图 1 主线四概念演进** — 从 Vibe Coding 到 Agentic Engineering 的范式跃迁
-- **图 2 概念-实体生态** — 核心 concept 与工具的连接
-- **图 3 低代码平台横评** — Coze/Dify/n8n 及关系
-- **图 4 金融 vertical 子图** — 汽车金融 + 银行 + 行业概念
-- **图 5 全 Wiki 鸟瞰** — 按类型分层
-- **Obsidian Graph View 配套** — Cmd+G + Filters/Groups 见末尾
+- **图 1 主线四概念演进** —— 从 Vibe Coding 到 Agentic Engineering 的范式跃迁
+- **图 2 概念-实体生态** —— 核心 concept 与工具的连接
+- **图 3 低代码平台横评** —— Coze/Dify/n8n 及关系
+- **图 4 金融 vertical 子图** —— 汽车金融 + 银行 + 行业概念
+- **图 5 全 Wiki 鸟瞰** —— 按类型分层（数据更新至 2026-07-13）
+- **图 6 企业级 Agent 架构综述子图** —— 12 一手源 → 综述 → 6 关键 entity
+- **Obsidian Graph View 配套** —— Cmd+G + Filters/Groups 见末尾
 
 ---
 
@@ -26,15 +34,19 @@ flowchart LR
     SDD --> Harness[Harness Engineering<br/><i>系统级闭环</i>]
     Harness --> AgEng[Agentic Engineering<br/><i>Karpathy 提出</i>]
     Harness --> BHD[Brain-Hands Decoupling]
-    Harness --> LRA[Long-Running Agents]
+    Harness --> LRA[Long-Running Agents<br/>🆕]
     Harness --> PAT[Parallel Agent Teams]
-    AgEng -.-> WvA[Workflow vs Agent]
+    AgEng -.-> WvA[Workflow-vs-Agent<br/>🆕]
     WvA -.-> SDD
     classDef main fill:#7aa2ff,color:#fff,stroke:#333,stroke-width:2px
     classDef sub fill:#c7e1ff,stroke:#333
+    classDef new fill:#fde68a,stroke:#92400e,stroke-width:2px
     class Vibe,SDD,Harness,AgEng main
-    class BHD,LRA,PAT,WvA sub
+    class BHD,PAT sub
+    class LRA,WvA new
 ```
+
+> 🆕 **2026-07-13 P0 修复轮新增**：[[concepts/Long-Running-Agents]] · [[concepts/Workflow-vs-Agent]]（消除 15 处历史断链）
 
 ---
 
@@ -42,11 +54,11 @@ flowchart LR
 
 ```mermaid
 flowchart TB
-    AI[Agentic AI<br/>主动执行式 AI 框架]
+    AI[Agentic AI<br/>入度 59 · 全 wiki 最热节点]
     AI --> Codex
     AI --> ClaudeSDK[Claude Agent SDK]
     AI --> OpenClaw
-    AI --> MCP[MCP Protocol]
+    AI --> MCP[MCP Protocol<br/>入度 25]
     AI --> DeepSeek
     Codex -.->|生态依赖| OpenClaw
     ClaudeSDK -.->|实现| LRA[Long-Running Agents]
@@ -59,15 +71,16 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    Top["💡 低代码 vs 高代码 智能体建设<br/><i>上层哲学：双轨制</i>"]
+    Top["💡 低代码 vs 高代码 智能体建设"]
+    Top --> WvA[Workflow-vs-Agent<br/>🆕]
     Top --> 对比[AI 工作流平台对比]
-    Top --> HighCode["🛠 高代码路径<br/>LangGraph / AutoGen / 自研 Harness"]
-    Top --> Harness[Harness Engineering<br/><i>高代码进阶纪律</i>]
+    Top --> HighCode["🛠 高代码路径<br/>LangGraph / AutoGen 🆕 / CrewAI 🆕 / 自研 Harness"]
+    Top --> Harness[Harness Engineering]
 
     subgraph LC["低代码智能体平台"]
         Coze[Coze<br/>字节 · 对话 Bot]
-        Dify[Dify<br/>AI 应用 · RAG 最强]
-        n8n[n8n<br/>自动化 · 600+ 节点]
+        Dify[Dify<br/>入度 17]
+        n8n[n8n<br/>600+ 节点]
     end
     subgraph SDD_TOOLS["SDD / Plan 系工具"]
         Plan[Plan Mode]
@@ -85,14 +98,12 @@ flowchart TB
     OpenSpec --> SDD
     Kiro --> SDD
     GStack --> SDD
-    对比 --> WvA[Workflow vs Agent]
+    对比 --> WvA
     HighCode --> Harness
 
     classDef new fill:#fde68a,stroke:#92400e,stroke-width:2px
-    class Top new
+    class WvA new
 ```
-
-> 🆕 2026-06-29 新增上层节点 [[concepts/低代码-vs-高代码-智能体建设]]，统领低代码（Coze/Dify/n8n）与高代码（Harness/LangGraph）两条路径。
 
 ---
 
@@ -100,15 +111,15 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    Fin[金融智能体落地<br/>2026 元年]
-    AutoFin[汽车金融 AI 建设方向]
+    Fin[金融智能体落地<br/>入度 33]
+    AutoFin[汽车金融 AI 建设方向<br/>入度 14]
     Fin --> Bank[🏦 银行]
     Fin --> Sec[📈 证券]
     Fin --> Ins[🛡 保险]
     Fin --> AutoFin
     Bank -.->|金发 8 号文| Harness
     AutoFin -.->|供应链风控| Harness
-    Bank -.->|安全底线| MCP
+    Bank -.->|安全底线| Guardrails[Guardrails-AI<br/>🆕]
     AutoFin --> 车企[新能源车企 Agent 战争]
     AutoFin --> 监管[频踩监管红线]
     AutoFin --> 风控[AI 供应链风控]
@@ -117,80 +128,123 @@ flowchart TB
     Bank --> 中小[中小银行追赶]
     Fin --> AI[Agentic AI]
     AutoFin --> AI
+
+    classDef new fill:#fde68a,stroke:#92400e,stroke-width:2px
+    class Guardrails new
 ```
 
 ---
 
-## 图 5 · 全 Wiki 鸟瞰
+## 图 5 · 全 Wiki 鸟瞰（数据更新 2026-07-13）
 
 ```mermaid
 flowchart TB
-    subgraph C["🔵 Concepts (13 个)"]
-        Agentic_AI["Agentic-AI<br/>← 56"]
-        _______["金融智能体落地<br/>← 29"]
-        Harness_Engineering["Harness-Engineering<br/>← 28"]
-        AI________["AI-工作流平台对比<br/>← 18"]
-        _____AI_____["汽车金融-AI-建设方向<br/>← 15"]
-        WvA["Workflow-vs-Agent<br/>← 12 ⚠️孤页"]
-        NewLC["低代码-vs-高代码<br/>← 4 🆕"]
+    subgraph C["🔵 Concepts (24 个)"]
+        c1[Agentic-AI<br/>← 59]
+        c2[AIOps-2026-全景综述<br/>← 55]
+        c3[AI-SRE-范式<br/>← 38]
+        c4[Enterprise-Agent-Architecture-2026<br/>← 38]
+        c5[Harness-Engineering<br/>← 34]
+        c6[Anthropic-Research-2026H1<br/>← 34]
+        c7[金融智能体落地<br/>← 33]
+        c8[AI-工作流平台对比<br/>← 22]
+        c9[Workflow-vs-Agent<br/>🆕 ← 12]
+        c10[Long-Running-Agents<br/>🆕 ← 3]
     end
 
-    subgraph E["🟢 Entities (15 个)"]
-        Dify["Dify<br/>← 22"]
-        OpenClaw["OpenClaw<br/>← 18"]
-        Codex["Codex<br/>← 18"]
-        Coze["Coze<br/>← 14"]
-        Superpowers["Superpowers<br/>← 14"]
-        Plan_Mode["Plan-Mode<br/>← 14"]
-        MCP_Model_Context_Protocol["MCP-Model-Context-Protocol<br/>← 12"]
-        OpenSpec["OpenSpec<br/>← 9"]
+    subgraph E["🟢 Entities (45 个)"]
+        e1[MCP-Protocol<br/>← 25]
+        e2[Dify<br/>← 17]
+        e3[HolmesGPT<br/>← 15]
+        e4[OpenTelemetry<br/>← 14]
+        e5[LangGraph<br/>← 14]
+        e6[OpenClaw<br/>← 12]
+        e7[Datadog-Bits-AI-SRE<br/>← 11]
     end
 
-    subgraph S["🟡 Sources (74 个，仅 TOP 5)"]
-        10_SDD_______["10-SDD五个常识全错了...<br/>← 28"]
-        07_OpenAI_Codex______["07-OpenAI-Codex-负责人访谈...<br/>← 18"]
-        02_AI_PM______Harness_Engineer["02-AI-PM-必须掌握-Harness-Eng...<br/>← 17"]
-        12_Parallel_Claude_C_Compiler["12-Parallel-Claude-C-Comp...<br/>← 11"]
-        08_____Agentic_AI_____["08-企业级-Agentic-AI-架构设计...<br/>← 11"]
+    subgraph S["🟡 Sources (175 个 · TOP 5)"]
+        s1[10-SDD五个常识全错了<br/>← 28]
+        s2[07-OpenAI-Codex访谈<br/>← 18]
+        s3[02-AI-PM-Harness-Engineering<br/>← 17]
+        s4[12-Parallel-Claude-C-Compiler<br/>← 12]
+        s5[08-企业级-Agentic-AI架构<br/>← 11]
     end
     C --> E
     E --> S
+
+    classDef new fill:#fde68a,stroke:#92400e,stroke-width:2px
+    class c9,c10 new
 ```
 
 ---
 
-## 🏆 入度 TOP 15（2026-06-29 重算）
+## 🏆 入度 TOP 20（2026-07-13 重算）
 
 | 排名 | 类型 | 节点 | 入度 | 变化 |
 |---|---|---|---|---|
-| 1 | concepts | Agentic-AI | 56 | ↓ (65→56，去重后) |
-| 2 | concepts | 金融智能体落地 | 29 | ↑ |
-| 3 | sources | 10-SDD五个常识全错了 | 28 | = |
-| 4 | concepts | Harness-Engineering | 28 | ↓ |
-| 5 | sources | 02-AI-PM-必须掌握-Harness-Engineering | 19 | ↑ |
-| 6 | sources | 07-OpenAI-Codex-负责人访谈 | 18 | = |
-| 7 | entities | Dify | 18 | ↓ |
-| 8 | concepts | AI-工作流平台对比 | 18 | ↑ (←本轮 +1 来自新概念) |
-| 9 | concepts | 汽车金融-AI-建设方向 | 15 | ↓ |
-| 10 | entities | OpenClaw | 13 | ↓ |
-| 11 | sources | 01-n8n-vs-Dify-vs-Coze | 13 | ↑ |
-| 12 | sources | 13-Harness-Design-Long-Running-Apps | 12 | = |
-| 13 | entities | MCP-Model-Context-Protocol | 12 | = |
-| 14 | concepts | Workflow-vs-Agent | 12 | ⚠️ 缺失页（被 12 处引用但文件不存在）|
-| 15 | sources | 12-Parallel-Claude-C-Compiler | 11 | = |
+| 1 | concept | [[concepts/Agentic-AI]] | 59 | ↑ (56 → 59) |
+| 2 | concept | [[concepts/AIOps-2026-全景综述]] | 55 | ↑ 上升多位 |
+| 3 | concept | [[concepts/AI-SRE-范式]] | 38 | ↑ |
+| 4 | concept | [[concepts/Enterprise-Agent-Architecture-2026]] | 38 | ↑ (稳定 top 5) |
+| 5 | concept | [[concepts/Harness-Engineering]] | 34 | ↑ (28 → 34) |
+| 6 | concept | [[concepts/Anthropic-Research-2026H1]] | 34 | 🆕 首次上榜 |
+| 7 | concept | [[concepts/金融智能体落地]] | 33 | = |
+| 8 | entity | [[entities/MCP-Model-Context-Protocol]] | 25 | ↑ (12 → 25) |
+| 9 | concept | [[concepts/AI-工作流平台对比]] | 22 | ↑ |
+| 10 | concept | [[concepts/AI-可观测性-四维追踪]] | 21 | ↑ |
+| 11 | concept | [[concepts/国内智能体平台横评-2026]] | 20 | 🆕 |
+| 12 | concept | [[concepts/AI时代运维转型与技能体系]] | 18 | 🆕 |
+| 13 | entity | [[entities/Dify]] | 17 | ↓ (22 → 17) |
+| 14 | entity | [[entities/HolmesGPT]] | 15 | ↑ |
+| 15 | entity | [[entities/OpenTelemetry]] | 14 | ↑ |
+| 16 | entity | [[entities/LangGraph]] | 14 | ↑ |
+| 17 | concept | [[concepts/汽车金融-AI-建设方向]] | 14 | ↓ (15 → 14) |
+| 18 | entity | [[entities/OpenClaw]] | 12 | ↓ |
+| 19 | concept | [[concepts/Workflow-vs-Agent]] | 12 | 🆕 应建未建页 → 上榜 |
+| 20 | entity | [[entities/Datadog-Bits-AI-SRE]] | 11 | 🆕 |
 
-🆕 **新增节点**：[[concepts/低代码-vs-高代码-智能体建设]] 入度 4 / 出度 29（含 18 sources + 6 concepts + 5 entities）
+---
 
-🆕 **2026-06-29 第 6 轮新增**：
-- **[[concepts/Enterprise-Agent-Architecture-2026]]** —— 跨 12 篇 source 的核心综述页，**预计入度成为 Top 5 内**（被 12 个 sources 反向引用 + 5 个 entities）
-- **新 sources（68-79）**：12 个企业级架构 source（Tyk / ISG / MLflow / RTSLabs / VDF / Internative / ClarityArc / arXiv / 腾讯 ×3 / 葡萄城）
-- **新 entities（5 个）**：[[entities/A2A-Protocol]] / [[entities/LangGraph]] / [[entities/Microsoft-AGT]] / [[entities/Google-ADK]] / [[entities/Temporal]]
+## 🚀 出度 TOP 10（"综合力"最强）
+
+| 排名 | 节点 | 出度 |
+|---|---|---|
+| 1 | [[concepts/Anthropic-Research-2026H1]] | 37 |
+| 2 | [[concepts/AIOps-2026-全景综述]] | 34 |
+| 3 | [[concepts/Enterprise-Agent-Architecture-2026]] | 33 |
+| 4 | [[concepts/低代码-vs-高代码-智能体建设]] | 28 |
+| 5 | [[concepts/国内智能体平台横评-2026]] | 27 |
+| 6 | [[concepts/AI时代运维转型与技能体系]] | 24 |
+| 7 | [[concepts/Workflow-vs-Agent]] 🆕 | 24 |
+| 8 | [[concepts/AI-SRE-范式]] | 19 |
+| 9 | [[concepts/金融智能体落地]] | 17 |
+| 10 | [[entities/OpenTelemetry]] | 13 |
+
+---
+
+## 👻 孤儿清单（入度 = 0）
+
+**共 17 篇** · 全部是 source（新入库未被 concept 拾取 或 主题偏离）。**Entity 层已零孤儿**（Agentic-Design-Patterns 06-29 报告的孤儿本轮已被引用/待整合）。
+
+**建议归类**：
+- **AIOps 主题 4 篇** → 应回填 [[concepts/AIOps-2026-全景综述]] 引用：
+  - [[sources/100-Westpac-AIOps-CPU-Memory-Alerts]] · [[sources/102-AWS-AI-powered-Resilience-Framework]] · [[sources/106-得物-LLM-Agent告警排查]] · [[sources/103-ChaosEater-LLM-Chaos-Engineering-arXiv]]
+- **国产智能体主题 6 篇** → 应回填 [[concepts/国内智能体平台横评-2026]] 或 [[concepts/低代码-vs-高代码-智能体建设]]：
+  - [[sources/21-智能体落地企业的生死线]] · [[sources/24-选错场景AI智能体就废了一半]] · [[sources/57-智能体的技能树探析Agent技术在企业落地的能力边界与重塑效应]] · [[sources/59-1.3万个AI智能体同时上岗美的给了中小企业什么启示]] · [[sources/60-2026企业级智能体效能管理指南]] · [[sources/66-微信AI智能体要来了腾讯护城河的再次确认与价值重估]]
+- **银行/汽车金融主题 3 篇** → 应回填 [[concepts/金融智能体落地]] 或 [[concepts/汽车金融-AI-建设方向]]：
+  - [[sources/34-兴业银行落地资金流向监测智能体排查效率较以往提升50%-移动支付网]] · [[sources/45-AI智能体时代高校信息化建设转型路径研究]] · [[sources/19-智能体正在重塑研发2660份问卷揭示六重真相我们推演了老板的财务账本]]
+- **孤悬 4 篇** → 主题偏离或需新概念页：
+  - [[sources/05-中产做好长期打算]]（跟 AI 无关，考虑移出）
+
+**下一轮 P1 建议**：批量把 13 个"应归类"的孤儿写进上级 concept，剩余 4 篇标 review。
+
+---
 
 ## 🆕 图 6 · 企业级 Agent 架构 2026 综述子图
 
 ```mermaid
 flowchart TB
-    Hub["💎 Enterprise-Agent-Architecture-2026<br/><i>跨 12 源综述</i>"]:::hub
+    Hub["💎 Enterprise-Agent-Architecture-2026<br/><i>跨 12 源综述 · 入度 38</i>"]:::hub
 
     subgraph EN["🌐 英文一手（8）"]
         Tyk[Tyk 4 组件 + A2A]
@@ -210,13 +264,18 @@ flowchart TB
         GC[葡萄城白皮书 L0-L4]
     end
 
-    subgraph EE["🛠 关键 Entities"]
+    subgraph EE["🛠 关键 Entities（含新增 🆕）"]
         A2A[A2A Protocol]
-        MCP[MCP Protocol]
-        LG[LangGraph]
+        MCP[MCP Protocol ← 25]
+        LG[LangGraph ← 14]
         AGT[Microsoft AGT]
         ADK[Google ADK]
         TMP[Temporal]
+        Tyk2[Tyk 🆕]
+        Kong[Kong 🆕]
+        Higress[Higress 🆕]
+        Guard[Guardrails-AI 🆕]
+        MLfE[MLflow-Agent-Platform 🆕]
     end
 
     Tyk --> Hub
@@ -238,14 +297,22 @@ flowchart TB
     Hub --> AGT
     Hub --> ADK
     Hub --> TMP
+    Hub --> Tyk2
+    Hub --> Kong
+    Hub --> Higress
+    Hub --> Guard
+    Hub --> MLfE
 
     Hub -.->|上承| HE[Harness-Engineering]
     Hub -.->|上承| AAI[Agentic-AI]
     Hub -.->|下承| LCHC[低代码-vs-高代码]
 
     classDef hub fill:#fde68a,stroke:#92400e,stroke-width:3px,color:#000
+    classDef new fill:#fef3c7,stroke:#92400e,stroke-width:2px
+    class Tyk2,Kong,Higress,Guard,MLfE new
 ```
 
+> 🆕 **2026-07-13 P0 修复轮**：补齐 5 个"应建未建" entity（Kong / Higress / Guardrails-AI / Tyk / MLflow-Agent-Platform）→ 消除 13 处历史断链。
 
 ---
 
@@ -277,5 +344,6 @@ flowchart TB
 当 wiki 内容更新后，跑：
 
 - 告诉 AI："**重新生成 wiki 知识图谱**"
+- 或本地跑 P0 那一版 Python 脚本（见 [[log|log · 2026-07-13 章节]]）
 
 AI 会自动扫所有 wiki 文件 → 重算入度/出度 → 重写 graph.md。

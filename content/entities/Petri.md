@@ -3,6 +3,8 @@ type: entity
 created: 2026-07-11
 tags: [wiki, entity, Anthropic, alignment, tool, open-source, audit]
 category: 对齐审计工具
+sources:
+  - '[[sources/149-Anthropic-Donating-Petri]]'
 ---
 
 # Petri · Anthropic 开源对齐审计工具

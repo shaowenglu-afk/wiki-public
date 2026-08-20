@@ -5,6 +5,63 @@
 
 ---
 
+## [2026-07-13] lint | P0 深度修复：91 断链清零 + 23 entity sources 回填 + graph.md 重跑
+
+**起因**：用户要求"重新审视邵的知识库有没有 schema 文件，有哪些优化方向"。体检发现：
+1. Schema 文件 = `CLAUDE-wiki.md`（三层架构 + 硬约束 + 抓取质量过滤 完整）
+2. **但落地严重脱节** ——
+   - 132 篇老 sources 缺 `raw:` / `published:`（07-11 lint 只修了 138-168 号）
+   - 24/38 entity 缺 §4.5 强制的 `sources:` 字段（63% 违规）
+   - **91 个断链目标**，其中 12 处引用 `concepts/Workflow-vs-Agent` 但文件不存在
+   - `graph.md` 停留在 06-29 的 120 节点数据，实际 244 节点（35% 快照过期）
+   - 06-29 lint 报告的 "44 孤儿 + 60 断链" 两周未修
+
+**P0 修复动作**：
+
+### P0-1 断链清零（91 → 0）
+- **P0-1a · fuzzy 自动化 62 处**：Python 脚本用"标题片段签名"匹配重排后的真实文件名。触达 7 个文件（`concepts/汽车金融-AI-建设方向.md` 修 27 处、`concepts/金融智能体落地.md` 修 18 处、`concepts/Enterprise-Agent-Architecture-2026.md` 修 7 处等）。
+- **P0-1b · 精确映射表 40 处**：
+  - **纯编号引用**（`[[sources/35]]` → `[[sources/35-XXX]]`）14 处
+  - **省略号截断**（`[[sources/78-Tencent-...]]` → `[[sources/78-Tencent-企业级Agent-AI-Native架构设计与实践]]`）12 处
+  - **反斜杠尾**（`[[sources/138-XXX\]]`）8 处 — Anthropic Research 全部
+  - **编号重排失效**（`[[sources/72-金发...]]` → `[[sources/54-金发...]]`）多处
+- **P0-1c · 新建 9 页**（消除剩余 30 处引用+奠基网络中心）：
+  - Concepts：[[concepts/Workflow-vs-Agent]]（12 处引用）· [[concepts/Long-Running-Agents]]（3 处）
+  - Entities：[[entities/MLflow-Agent-Platform]] · [[entities/Kong]] · [[entities/Higress]] · [[entities/Guardrails-AI]] · [[entities/Tyk]] · [[entities/AutoGen]] · [[entities/CrewAI]]
+
+### P0-2 Entity `sources:` 字段回填（23 篇）
+- 反向扫描每个 entity 被哪些 source 引用，自动 append 到 frontmatter：
+  - A2A-Protocol · Anthropic-Research · ArkClaw · Bizseer-必示科技 · CoPaw · Datadog-Bits-AI-SRE · DuMate · Genspark · Google-ADK · HolmesGPT · K8sGPT · LangGraph · Manus · Microsoft-AGT · Middleware-OpsAI · OpenObserve · OpenTelemetry · Petri · Project-Fetch · QClaw · Temporal · Traversal · WorkBuddy
+- 新建 7 entity 页出厂即含 `sources:` 字段
+- **结果**：45/45 entity 100% 合规 §4.5
+
+### P0-3 `graph.md` 重跑
+- 从"节点 120 · 更新于 06-29"→ "节点 244 · 更新于 07-13"
+- 入度 TOP 20 全量重算：Agentic-AI 59 · AIOps-2026-全景综述 55 · AI-SRE-范式 38 · Enterprise-Agent-Architecture-2026 38
+- 出度 TOP 10 新增（"综合力"排行）
+- 孤儿清单 44 → 17（含**归类建议**：13 篇可回填、4 篇建议 review）
+- 图 1/3/4/5/6 五张 mermaid 图新增 P0 修复标记
+
+**验证结果**：
+- 断链：91 → **0** ✅
+- Entity `sources:` 缺失：24 → **0** ✅
+- Concepts：22 → **24** · Entities：38 → **45** · Sources：175（未变）
+
+**触达文件**：
+- **修引用** 14 个：8 个 concept + 6 个 source
+- **建骨架** 9 个：`concepts/Workflow-vs-Agent.md` · `concepts/Long-Running-Agents.md` · `entities/MLflow-Agent-Platform.md` · `entities/Kong.md` · `entities/Higress.md` · `entities/Guardrails-AI.md` · `entities/Tyk.md` · `entities/AutoGen.md` · `entities/CrewAI.md`
+- **回填 sources:** 23 个 entity
+- **重写** `graph.md`（120 → 244 节点）
+- **本文件** `log.md`
+
+**P1 建议**（下一轮）：
+1. 老 132 篇 sources 批量补 `raw:` + `published:` 字段（`source_date:` → `published:` 一键迁移）
+2. 17 篇孤儿 source 按主题回填上级 concept（graph.md 里已列建议归类）
+3. Schema 加入 `.plans/wiki-lint.py` 类型化校验，替代全靠 LLM 手工检查
+4. Schema 补 `updated:` 硬约束
+
+---
+
 ## [2026-07-11] lint | Schema 合规：修复 raw 字段类型 + 数字 tag + CLAUDE-wiki 补丁
 
 **起因**：138 号 source 页在 Obsidian Properties 面板中 `raw` 字段的 wikilink 无法点击。根因排查发现 3 层漏斗：

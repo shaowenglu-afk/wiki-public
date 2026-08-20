@@ -36,12 +36,12 @@ tags: [wiki, entity, AI工作流, RAG]
 
 ## 在本 Wiki 中的出现
 - [[sources/01-n8n-vs-Dify-vs-Coze]]
-- [[sources/30-Dify-能做什么6-个-AI-应用场景讲清楚|Dify 能做什么？6 个 AI 应用场景]] —— 场景导览
-- [[sources/29-Dify-凉了其实是行业回归理性|Dify 凉了？行业回归理性]] —— 行业判断
-- [[sources/26-Dify-v1130-重磅发布人在回路HITL正式登场|Dify v1.13 HITL]] —— 版本演进
-- [[sources/25-Dify-v1120-与-v1121重磅发布引入摘要索引让-RAG-检索告别断章取义|Dify v1.12 摘要索引]] —— RAG 强化
-- [[sources/28-Dify-官方上架-Higress-插件轻松接入-AI-网关访问模型服务|Dify 上架 Higress 插件]] —— 生态扩展
-- [[sources/27-Dify-vs-OpenClaw-AIOps领域的大脑与双手|Dify vs OpenClaw AIOps]] —— 跨工具对比
+- [[sources/28-Dify-能做什么6-个-AI-应用场景讲清楚|Dify 能做什么？6 个 AI 应用场景]] —— 场景导览
+- [[sources/25-Dify-凉了其实是行业回归理性|Dify 凉了？行业回归理性]] —— 行业判断
+- [[sources/20-Dify-v1.13.0-重磅发布人在回路HITL正式登场|Dify v1.13 HITL]] —— 版本演进
+- [[sources/19-Dify-v1.12.0-与-v1.12.1重磅发布引入摘要索引让-RAG-检索|Dify v1.12 摘要索引]] —— RAG 强化
+- [[sources/22-Dify-官方上架-Higress-插件轻松接入-AI-网关访问模型服务|Dify 上架 Higress 插件]] —— 生态扩展
+- [[sources/27-Dify-vs-OpenClawAIOps领域的“大脑”与“双手”|Dify vs OpenClaw AIOps]] —— 跨工具对比
 
 ## 2026 Q2 演进重点
 

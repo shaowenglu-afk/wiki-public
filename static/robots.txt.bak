@@ -1,0 +1,28 @@
+# 邵的知识库 - 爬虫规则
+# 公开访问 wiki 综合层（concepts/entities/sources/index/graph）
+# 禁止索引 clippings/ 原始素材（版权保护）
+
+User-agent: *
+Allow: /
+
+# 禁止索引原始素材层
+Disallow: /clippings/
+Disallow: /clippings/*
+
+# 主流搜索引擎也单独声明
+User-agent: Googlebot
+Disallow: /clippings/
+
+User-agent: Bingbot
+Disallow: /clippings/
+
+User-agent: Baiduspider
+Disallow: /clippings/
+
+User-agent: 360Spider
+Disallow: /clippings/
+
+User-agent: Sogou web spider
+Disallow: /clippings/
+
+Sitemap: https://shaowenglu.com/sitemap.xml

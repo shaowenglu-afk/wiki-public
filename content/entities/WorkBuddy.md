@@ -3,6 +3,13 @@ type: entity
 created: 2026-07-04
 tags: [wiki, entity, Agent-platform, 腾讯, WorkBuddy, 办公Agent, 混元]
 category: 办公智能体产品
+sources:
+  - '[[sources/128-CSDN-40款龙虾工具横评]]'
+  - '[[sources/129-苏米客-4款通用智能体深度横评]]'
+  - '[[sources/130-新浪财经-三只国产龙虾比较]]'
+  - '[[sources/133-36kr-腾讯QClaw体验]]'
+  - '[[sources/136-36kr-五款办公Agent实测]]'
+  - '[[sources/137-53AI-一文吃透WorkBuddy]]'
 ---
 
 # WorkBuddy · 腾讯

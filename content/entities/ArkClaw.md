@@ -3,6 +3,8 @@ type: entity
 created: 2026-07-04
 tags: [wiki, entity, Agent-platform, 字节, ArkClaw, 极客路线, 通用Agent]
 category: 通用智能体产品
+sources:
+  - '[[sources/130-新浪财经-三只国产龙虾比较]]'
 ---
 
 # ArkClaw · 字节龙虾

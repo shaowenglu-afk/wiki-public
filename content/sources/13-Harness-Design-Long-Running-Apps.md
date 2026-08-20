@@ -51,7 +51,7 @@ tags: [wiki, source, Anthropic, Harness, Agent]
 - 与 [[entities/Superpowers]] 的"七阶段流水线"理念呼应；但本文更强调**减法**，呼应 [[sources/10-SDD五个常识全错了]] "选最轻的工具 = 赌模型变强"
 
 ## 涉及实体 / 概念
-[[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]] · [[concepts/Long-Running-Agents-Anthropic|Long-Running-Agents]]
+[[concepts/Harness-Engineering]] · [[concepts/Agentic-AI]] · [[concepts/Long-Running-Agents|Long-Running-Agents]]
 
 ## 原文链接
 - 内部：[2026-03-24 长任务应用开发的 Harness 设计](https://shaowenglu.com/clippings/2026-03-24-%E9%95%BF%E4%BB%BB%E5%8A%A1%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84-Harness-%E8%AE%BE%E8%AE%A1)

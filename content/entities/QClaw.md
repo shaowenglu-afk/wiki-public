@@ -3,6 +3,10 @@ type: entity
 created: 2026-07-04
 tags: [wiki, entity, Agent-platform, 腾讯, QClaw, 微信集成]
 category: 通用智能体产品
+sources:
+  - '[[sources/128-CSDN-40款龙虾工具横评]]'
+  - '[[sources/129-苏米客-4款通用智能体深度横评]]'
+  - '[[sources/133-36kr-腾讯QClaw体验]]'
 ---
 
 # QClaw · 腾讯龙虾

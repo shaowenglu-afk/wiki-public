@@ -2,6 +2,12 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, 框架, 智能体, 图编排]
+sources:
+  - '[[sources/126-腾讯云-6大Agent平台横评]]'
+  - '[[sources/73-Internative-Multi-Agent-Enterprise-6-Patterns]]'
+  - '[[sources/74-ClarityArc-Agentic-AI-Architecture-Enterprise-2026]]'
+  - '[[sources/77-Tencent-一文读懂企业级Agent-AI-Native架构]]'
+  - '[[sources/78-Tencent-企业级Agent-AI-Native架构设计与实践]]'
 ---
 
 # LangGraph

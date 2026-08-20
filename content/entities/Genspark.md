@@ -3,6 +3,8 @@ type: entity
 created: 2026-07-04
 tags: [wiki, entity, Agent-platform, MainFunc, Genspark, Super-Agent, 多模型]
 category: Super Agent 平台
+sources:
+  - '[[sources/135-Genspark深度评测]]'
 ---
 
 # Genspark · MainFunc

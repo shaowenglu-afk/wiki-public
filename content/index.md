@@ -1,19 +1,19 @@
 ---
 title: 邵的第二大脑
-description: Shao's Second Brain — AI 智能体、AIOps、金融科技、企业架构的中英双语知识库。参考 Karpathy LLM Wiki 方法论搭建。22 篇深度综述 · 175 篇一手 source · 每周更新。
+description: Shao's Second Brain — AI 智能体、AIOps、金融科技、企业架构的中英双语知识库。参考 Karpathy LLM Wiki 方法论搭建。24 篇深度综述 · 175 篇一手 source · 每周更新。
 ---
 
 > 参考 **[Karpathy LLM Wiki 方法论](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** 搭建的第二大脑。用 LLM 处理知识、综合知识、思考、记忆。
 >
 > 主题：**AI 智能体 / AIOps / 金融科技 / 企业架构** · 中英双语 · 每周更新
 >
-> **22** 深度综述 · **175** 一手 source · **38** 工具实体 · **154** 篇 clippings 原文全文可搜
+> **24** 深度综述 · **175** 一手 source · **45** 工具实体 · **154** 篇 clippings 原文全文可搜
 
 ---
 
 ## 🕸️ 知识图谱
 
-**175 篇 source + 22 综述 + 38 实体** 之间的引用关系，交互式可视化。
+**175 篇 source + 24 综述 + 45 实体** 之间的引用关系（244 节点），交互式可视化。
 
 <div style="border: 1px solid var(--lightgray); border-radius: 8px; padding: 1rem 1.2rem; background: var(--light); margin: 1.2rem 0;">
 <strong style="font-size: 1.05rem;">→ <a href="graph">进入交互式知识图谱</a></strong>
@@ -79,8 +79,8 @@ description: Shao's Second Brain — AI 智能体、AIOps、金融科技、企�
 
 | 维度 | 数量 | 说明 |
 |---|---|---|
-| **Concept 深度综述** | **22** | 跨多源综合，可读性最强 |
-| **Entity 实体页** | **38** | 工具 / 公司 / 协议 |
+| **Concept 深度综述** | **24** | 跨多源综合，可读性最强 |
+| **Entity 实体页** | **45** | 工具 / 公司 / 协议 |
 | **Source 一手摘要** | **175** | 每篇原文附中英对照或 TL;DR |
 | **主题覆盖** | 10+ | 智能体 / AIOps / 金融 / 架构 / 工程哲学 / FinOps ... |
 

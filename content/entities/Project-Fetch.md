@@ -3,6 +3,8 @@ type: entity
 created: 2026-07-11
 tags: [wiki, entity, Anthropic, agent, embodied-AI, robotics, project-fetch]
 category: 研究项目
+sources:
+  - '[[sources/141-Anthropic-Project-Fetch-Phase-Two]]'
 ---
 
 # Project Fetch · Anthropic 具身智能实验

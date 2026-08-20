@@ -2,6 +2,12 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, AIOps, AI-SRE, 商业, Datadog]
+sources:
+  - '[[sources/101-Traversal-AI-SRE-Financial-Services]]'
+  - '[[sources/110-Why-General-Purpose-Agentic-AI-Breaks-Cloud-Native]]'
+  - '[[sources/85-AI-SRE-2026-Guide-Augment-Code]]'
+  - '[[sources/86-AI-SRE-vs-AIOps-Arvo-AI]]'
+  - '[[sources/97-Middleware-OpsAI-AI-SRE-Agent]]'
 ---
 
 # Datadog Bits AI SRE

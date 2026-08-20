@@ -2,6 +2,8 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, AIOps, AI-SRE, 商业]
+sources:
+  - '[[sources/97-Middleware-OpsAI-AI-SRE-Agent]]'
 ---
 
 # Middleware OpsAI

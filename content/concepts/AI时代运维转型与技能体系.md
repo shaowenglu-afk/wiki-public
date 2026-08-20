@@ -161,15 +161,15 @@ SRE（SLO/Postmortem）  ←→  AI Engineering（LLM/Agent/RAG）
 
 ## 🚨 3 大反共识
 
-### 反共识 1：AI 反而让工程师更值钱（[[sources/123-TechCrunch-...]]）
+### 反共识 1：AI 反而让工程师更值钱（[[sources/123-TechCrunch-Engineering-Jobs-Resilient]]）
 - 不是"AI 替代工程师"
 - 是"**AI 让顶级工程师 10x，让初级工程师过时**"
 
-### 反共识 2：会 AI 不等于会用 AI（[[sources/120-51CTO-...]]）
+### 反共识 2：会 AI 不等于会用 AI（[[sources/120-51CTO-AI运维-定义指标技能职业发展]]）
 - 学个 ChatGPT API 不算"会"
 - **真正会** = 把业务流程拆成 Agent + Skill + 工具链 + 验收
 
-### 反共识 3：跳过传统功夫的捷径不存在（[[sources/122-北塔-...]]）
+### 反共识 3：跳过传统功夫的捷径不存在（[[sources/122-北塔-脚本编写者-向算法调优师转型]]）
 - 中国企业现状：很多人在 2.0 → 3.0 过渡
 - **直接跳到 4.0（算法调优师）难度大** —— 没 K8s/Linux 底子学 Agent 是空中楼阁
 

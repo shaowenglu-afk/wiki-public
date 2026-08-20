@@ -3,6 +3,9 @@ type: entity
 created: 2026-07-04
 tags: [wiki, entity, Agent-platform, 百度, DuMate, 通用智能体]
 category: 通用智能体产品
+sources:
+  - '[[sources/129-苏米客-4款通用智能体深度横评]]'
+  - '[[sources/136-36kr-五款办公Agent实测]]'
 ---
 
 # DuMate · 百度红手指

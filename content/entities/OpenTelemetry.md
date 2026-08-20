@@ -2,6 +2,14 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, 可观测性, AIOps, 标准]
+sources:
+  - '[[sources/107-Gojek-AI-Brain-Observability]]'
+  - '[[sources/82-LLM-Monitoring-Best-Practices-OpenObserve]]'
+  - '[[sources/83-AIOps-Platform-for-Enterprises-portkey]]'
+  - '[[sources/85-AI-SRE-2026-Guide-Augment-Code]]'
+  - '[[sources/87-Google-SRE-Agentic-AI]]'
+  - '[[sources/90-AI可观测性全链路追踪]]'
+  - '[[sources/98-Agent可观测性工具爆发五大开源项目]]'
 ---
 
 # OpenTelemetry (OTel)

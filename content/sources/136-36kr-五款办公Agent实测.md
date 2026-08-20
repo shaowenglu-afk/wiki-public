@@ -50,7 +50,7 @@ related:
 ## 与本 wiki 关联
 
 - **上承**：[[concepts/国内智能体平台横评-2026]] · [[concepts/AI-工作流平台对比]]
-- **详见**：[[sources/136-一文吃透WorkBuddy]]
+- **详见**：[[sources/137-53AI-一文吃透WorkBuddy]]
 
 ## 一句话总结
 

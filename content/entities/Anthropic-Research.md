@@ -3,6 +3,8 @@ type: entity
 created: 2026-07-11
 tags: [wiki, entity, Anthropic, research, alignment, interpretability, science]
 category: 研究组织
+sources:
+  - '[[sources/138-Anthropic-Off-Switch-Dual-Use]]'
 ---
 
 # Anthropic Research

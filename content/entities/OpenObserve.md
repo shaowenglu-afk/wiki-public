@@ -2,6 +2,10 @@
 type: entity
 created: 2026-06-29
 tags: [wiki, entity, AIOps, 可观测性, 开源]
+sources:
+  - '[[sources/82-LLM-Monitoring-Best-Practices-OpenObserve]]'
+  - '[[sources/90-AI可观测性全链路追踪]]'
+  - '[[sources/98-Agent可观测性工具爆发五大开源项目]]'
 ---
 
 # OpenObserve
