@@ -11,6 +11,8 @@ Allow: /
 # 原始素材层额外禁抓（版权保护）
 Disallow: /clippings/
 Disallow: /clippings/*
+Disallow: /%E5%95%86%E7%94%A8%E8%BD%A6%E7%A7%9F%E8%B5%81/clippings/
+Disallow: /商用车租赁/clippings/
 
 User-agent: Googlebot
 Disallow: /clippings/

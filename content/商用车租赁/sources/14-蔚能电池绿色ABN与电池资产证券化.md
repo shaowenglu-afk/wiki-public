@@ -6,6 +6,8 @@ source-type: 企业公告
 lang: zh
 source-url: https://mp.weixin.qq.com/s/1TKkomMbxldmNQ6xeUT4Gg
 published: 2026-03-23
+raw:
+  - '[[商用车租赁/clippings/2026-03-23 蔚能电池2026年度第一期绿色定向ABN（债券通）成功发行|原文全文]]'
 collected-via: 微信公众号（OpenCLI 浏览器桥）
 related:
   - '[[商用车租赁/concepts/新能源商用车租赁-车电分离与电池资产]]'
@@ -55,4 +57,5 @@ related:
 
 ## 原文链接
 
+- 本地剪藏：[[商用车租赁/clippings/2026-03-23 蔚能电池2026年度第一期绿色定向ABN（债券通）成功发行|原文全文]]
 - 官方链接：<https://mp.weixin.qq.com/s/1TKkomMbxldmNQ6xeUT4Gg>

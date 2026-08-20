@@ -114,6 +114,24 @@ for dirpath, _, files in os.walk(ROOT):
 print(f"   ✅ 链接限定：改写 {n_links} 处 wikilink，跨 {n_files} 个文件（去链 schema {n_unlinked} 处）")
 CVEOF
 
+  # 剪藏层注入版权声明（与主库 Clippings 同一处理）
+  CV_CLIPS="$QUARTZ_CONTENT/商用车租赁/clippings"
+  if [[ -d "$CV_CLIPS" ]]; then
+    CV_NOTICE="> ⚠️ **版权声明**：本页内容版权归原作者所有，本站仅作个人学习索引存档，不对外公开传播。如有侵权请联系删除。原文出处见页首 source 字段。"
+    for f in "$CV_CLIPS"/*.md; do
+      [[ -f "$f" ]] || continue
+      grep -q "版权声明" "$f" && continue
+      awk -v notice="$CV_NOTICE" '
+        BEGIN { fm=0; ins=0 }
+        /^---$/ { fm++; print; next }
+        fm == 2 && !ins { print ""; print notice; print ""; ins=1 }
+        { print }
+      ' "$f" > "$f.tmp" && mv "$f.tmp" "$f"
+    done
+    cv_clip_count=$(find "$CV_CLIPS" -type f -name "*.md" | wc -l | xargs)
+    echo "   🛡️  剪藏层注入版权声明: $cv_clip_count 篇"
+  fi
+
   cv_count=$(find "$QUARTZ_CONTENT/商用车租赁" -type f -name "*.md" | wc -l | xargs)
   echo "   📦 商用车租赁专题库: $cv_count 个 .md"
 else
